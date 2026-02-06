@@ -9,7 +9,9 @@ If you use these data please cite
 
 ## Description
 
-This dataset is licensed under a CC-BY-4.0 license
+This dataset is licensed under a CC-BY-4.0 license.
+
+The original data is online at https://linguistics.payap.university/about-us/alumni-and-theses
 
 ## Statistics
 
