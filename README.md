@@ -11,6 +11,10 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
+## Statistics
+
+[![DOI](https://zenodo.org/badge/1151197180.svg)](https://doi.org/10.5281/zenodo.18502760)
+
 # Contributors
 
 | Name | GitHub user | Description | Role |
