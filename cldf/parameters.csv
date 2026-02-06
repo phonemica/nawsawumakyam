@@ -1,0 +1,1643 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1-sky,sky,2671,SKY
+2-sun,sun,2897,SUN
+3-moon,moon,1886,MOON
+4-star,star,2812,STAR
+5-cloudrain,cloud (rain),,
+6-mistfog,mist/fog,,
+7-rain,rain,2351,RAIN
+8-rainbow,rainbow,2352,RAINBOW
+9-lightningflashing,lightning (flashing),,
+10-thunder,thunder,3027,THUNDER
+11-shadowshade,shadow/shade,,
+12-wind,wind,4497,WIND
+13-night,night,1988,NIGHT
+14-day,day,751,DAY
+15-morning,morning,1890,MORNING
+16-noon,noon,2000,NOON
+17-yesterday,yesterday,4548,YESTERDAY
+18-tomorrow,tomorrow,4236,TOMORROW
+19-year,year,4543,YEAR
+20-east,east,884,EAST
+21-west,west,4454,WEST
+22-water,water,4425,WATER
+23-tobehotwater,to be hot (water),,
+24-tobehotperson,to be hot (person),,
+25-tobewarmwater,to be warm (water),,
+26-tobecoldperson,to be cold (person),,
+27-tobecoolwater,to be cool (water),,
+28-stream,stream,,
+29-river,river,2415,RIVER
+30-sea,sea,2535,SEA
+31-soilearth,soil (earth),,
+32-mud,mud,1917,MUD
+33-dust,dust,862,DUST
+34-stone,stone,,
+35-sand,sand,2499,SAND
+36-limeforbetelchew,lime (for betel chew),,
+37-gold,gold,1233,GOLD
+38-silver,silver,2646,SILVER
+39-iron,iron,1537,IRON
+40-mountain,mountain,1906,MOUNTAIN
+41-cavenatural,cave (natural),,
+42-jungleforest,jungle/forest,,
+43-tree,tree,2941,TREE
+44-branchtree,branch (tree),,
+45-treebark,tree bark,,
+46-thorn,thorn,,
+47-roottree,root (tree),,
+48-leaftree,leaf (tree),,
+49-flower,flower,1100,FLOWER
+50-fruittree,fruit (tree),,
+51-seedtree,seed (tree),,
+52-grassfieldjungle,grass (field/jungle),,
+53-bambooplantlarge,bamboo plant (large),,
+54-bambooshootedible,bamboo shoot (edible),,
+55-mushroom,mushroom,,
+56-canerattan,cane/rattan,,
+57-kapok,kapok,,
+58-sugarcane,sugarcane,,
+59-betelnut,betel nut,,
+60-opium,opium,,
+61-ricemilletbeer,(rice/millet) beer,,
+62-bananafruit,banana (fruit),,
+63-mangofruit,mango (fruit),,
+64-eggplantfruit,eggplant (fruit),,
+65-soybean,soy bean,,
+66-ginger,ginger,,
+67-garlic,garlic,,
+68-corn,corn,,
+69-redpepper,red pepper,,
+70-dryburnedfield,dry (burned) field,,
+71-wetricefield,wet rice field,,
+72-paddyrice,paddy rice,,
+73-riceseedling,rice seedling,,
+74-toberipe,to be ripe,,
+75-poundedrice,pounded rice,,
+76-cookedrice,cooked rice,,
+77-towinnowrice,to winnow (rice),,
+78-todryrice,to dry (rice),,
+79-topoundrice,to pound (rice),,
+80-togrind,to grind,,
+81-tocookrice,to cook (rice),,
+82-toboilrice,to boil (rice),,
+83-ricehuskpowder,rice husk (powder),,
+84-salt,salt,2495,SALT
+85-animaltamewild,animal (tame/wild),,
+86-tiger,tiger,3034,TIGER
+87-pangolin,pangolin,,
+88-bear,bear,,
+89-barkingdeer,barking deer,,
+90-monkey,monkey,1881,MONKEY
+91-gibbon,gibbon,,
+92-rabbit,rabbit,,
+93-porcupine,porcupine,2265,PORCUPINE
+94-rat,rat,2362,RAT
+95-dog,dog,818,DOG
+96-tobark,to bark,3088,TO BARK
+97-tobite,to bite,3185,TO BITE
+98-cat,cat,467,CAT
+99-pig,pig,,
+100-cow,cow,684,COW
+101-milkcow,milk (cow),,
+102-buffalo,buffalo,,
+103-hornofbuffalo,horn (of buffalo),,
+104-tail,tail,2951,TAIL
+105-elephant,elephant,909,ELEPHANT
+106-elephanttusk,elephant tusk,,
+107-bird,bird,161,BIRD
+108-pigeon,pigeon,,
+109-birdsnest,birdʼs nest,,
+110-wing,wing,4501,WING
+111-featherbodyhair,feather (body hair),,
+112-tofly,to fly,3480,TO FLY
+113-egg,egg,895,EGG
+114-chicken,chicken,,
+115-crestofchickenorbird,crest (of chicken or bird),,
+116-fish,fish,984,FISH
+117-snake,snake,2701,SNAKE
+118-poisonfromsnakevenom,poison from snake (venom),,
+119-houselizard,house lizard,,
+120-turtle,turtle,,
+121-crocodile,crocodile,701,CROCODILE
+122-otter,otter,,
+123-frog,frog,1161,FROG
+124-insect,insect,1458,INSECT
+125-spider,spider,2764,SPIDER
+126-spiderweb,spider web,2765,SPIDER WEB
+127-lousehead,louse (head),,
+128-termite,termite,,
+130-cockroach,cockroach,587,COCKROACH
+131-snail,snail,,
+132-mosquito,mosquito,,
+133-bee,bee,238,BEE
+134-fly,fly,,
+135-butterfly,butterfly,417,BUTTERFLY
+136-scorpion,scorpion,2527,SCORPION
+137-waterleech,water leech,,
+138-landleech,land leech,,
+139-earthworm,earthworm,883,EARTHWORM
+140-head,head,1333,HEAD
+141-face,face,991,FACE
+142-brain,brain,,
+143-hairhead,hair (head),,
+144-bodyhair,body hair,,
+145-forehead,forehead,1124,FOREHEAD
+146-eyebrow,eyebrow,979,EYEBROW
+147-eye,eye,972,EYE
+148-eyelid,eyelid,981,EYELID
+149-nose,nose,2004,NOSE
+150-cheek,cheek,510,CHEEK
+151-ear,ear,874,EAR
+152-mouth,mouth,1913,MOUTH
+153-tongue,tongue,,
+154-spitnoun,spit (noun),,
+155-tooth,tooth,4242,TOOTH
+156-gums,gums,,
+157-chin,chin,528,CHIN
+158-beard,beard,224,BEARD
+159-toshavebeard,to shave (beard),,
+160-neck,neck,1962,NECK
+161-shoulder,shoulder,2618,SHOULDER
+162-back,back,,
+163-belly,belly,,
+164-navel,navel,1958,NAVEL
+165-heart,heart,1343,HEART
+166-liver,liver,1694,LIVER
+167-intestines,intestines,,
+168-arm,arm,113,ARM
+169-elbow,elbow,899,ELBOW
+170-armpit,armpit,115,ARMPIT
+171-palm,palm,,
+172-finger,finger,,
+173-fingernail,fingernail,,
+174-leg,leg,,
+175-thigh,thigh,,
+176-knee,knee,1591,KNEE
+178-shin,shin,2600,SHIN
+179-heel,heel,,
+180-bone,bone,328,BONE
+181-joint,joint,,
+182-marrow,marrow,119,ARROW
+183-rib,rib,2404,RIB
+184-meatfleshedible,meat/flesh (edible),,
+185-fatgrease,fat/grease,,
+186-skin,skin,,
+187-blood,blood,313,BLOOD
+188-sweat,sweat,2922,SWEAT
+189-pus,pus,2320,PUS
+190-excrement,excrement,,
+191-urine,urine,4361,URINE
+192-man,man,,
+193-woman,woman,4411,WOMAN
+194-person,person,,
+195-father,father,1019,FATHER
+196-mother,mother,1898,MOTHER
+197-tobeoldperson,to be old (person),,
+198-childyoungperson,child (young person),521,CHILD (YOUNG PERSON)
+199-sononesownmalechild,son (one’s own male child),,
+200-soninlaw,son-in-law,,
+201-husband,husband,1449,HUSBAND
+202-wife,wife,4482,WIFE
+203-widow,widow,4480,WIDOW
+204-brotherelderoffather,brother (elder of father),,
+205-brotherelderofmother,brother (elder of mother),,
+206-sisterelderoffather,sister (elder of father),,
+207-sisterelderofmother,sister (elder of mother),,
+208-brotheryoungeroffather,brother (younger of father),,
+209-brotheryoungerofmother,brother (younger of mother),,
+210-sisteryoungeroffather,sister (younger of father),,
+211-sisteryoungerofmother,sister (younger of mother),,
+212-friend,friend,1157,FRIEND
+213-name,name,,
+214-village,village,4389,VILLAGE
+215-roadpath,road/path,,
+216-boat,boat,,
+217-house,house,1431,HOUSE
+218-door,door,826,DOOR
+219-roof,roof,2424,ROOF
+220-areaunderhouse,area under house,,
+221-wallofhouse,wall of house,,
+222-sleepingarea,sleeping area,,
+223-mat,mat,1781,MAT
+224-pillow,pillow,2198,PILLOW
+225-blanket,blanket,305,BLANKET
+226-clothing,clothing,,
+227-toweavecloth,to weave (cloth),,
+228-todyecloth,to dye (cloth),,
+229-sarongmale,sarong (male),,
+230-sarongfemale,sarong (female),,
+231-trousers,trousers,,
+232-tosew,to sew,3973,TO SEW
+233-needle,needle,1966,NEEDLE
+234-comb,comb,602,COMB
+235-ring,ring,,
+236-potcooking,pot (cooking),,
+237-mortarforpeppers,mortar (for peppers),,
+238-pestleforpeppers,pestle (for peppers),,
+239-spoon,spoon,2782,SPOON
+240-plate,plate,2112,PALATE
+241-firewood,firewood,1071,FIREWOOD
+242-fire,fire,1063,FIRE
+243-toburnsomething,to burn something,,
+244-toextinguishfire,to extinguish (fire),,
+245-ashes,ashes,126,ASHES
+246-smoke,smoke,2695,SMOKE
+247-drummusicalinstrument,drum (musical instrument),,
+248-gong,gong,,
+249-bow,bow,,
+250-crossbow,crossbow,,
+251-arrow,arrow,119,ARROW
+252-spear,spear,2756,SPEAR
+253-knifeblade,knife/blade,,
+254-tohear,to hear,3596,TO HEAR
+255-tolisten,to listen,3692,TO LISTEN
+256-tobesmelly,to be smelly,,
+257-tosmellsniff,to smell (sniff),,
+258-tosee,to see,3960,TO SEEM
+259-tolookat,to look at,,
+260-toweep,to weep,4098,TO SWEEP
+261-toeat,to eat,3407,TO EAT
+262-toswallow,to swallow,4092,TO SWALLOW
+263-tobehungry,to be hungry,,
+264-tobefullaftereating,to be full (after eating),,
+265-tobethirsty,to be thirsty,,
+266-todrink,to drink,3395,TO DRINK
+267-tobedrunkalcohol,to be drunk (alcohol),,
+268-tovomit,to vomit,4184,TO VOMIT
+269-tospit,to spit,4034,TO SPIT
+270-tocough,to cough,3305,TO COUGH
+271-tosneeze,to sneeze,,
+272-toyawn,to yawn,4226,TO YAWN
+273-tobreathe,to breathe,,
+274-toblowonthefire,to blow (on the fire),,
+275-towhistle,to whistle,4214,TO WHISTLE
+276-tosuckmilk,to suck (milk),,
+277-tolick,to lick,3685,TO LICK
+278-tosmile,to smile,4016,TO SMILE
+279-tolaugh,to laugh,3670,TO LAUGH
+280-tospeak,to speak,4031,TO SPEAK
+281-totellabout,to tell about,,
+282-toshout,to shout,3988,TO SHOUT
+283-toliefib,to lie/fib,,
+284-tosing,to sing,3995,TO SING
+285-tothink,to think,4131,TO THINK
+286-toknow,to know,3664,TO KNOW
+287-toforget,to forget,3491,TO FORGET
+288-tochoose,to choose,3265,TO CHOOSE
+289-tolove,to love,,
+290-tohate,to hate,,
+291-tobeashamed,to be ashamed,3095,TO BE ASHAMED
+292-towait,to wait,4185,TO WAIT
+293-tocount,to count,,
+294-tobeafraid,to be afraid,3091,TO BE AFRAID
+295-tobeangry,to be angry,,
+296-tosleep,to sleep,,
+297-tosnore,to snore,4021,TO SNORE
+298-todream,to dream,,
+299-togetupfrombed,to get up (from bed),,
+300-tobehurtafterhittingfingerwithhammer,to be hurt (after hitting finger with hammer),,
+301-medicine,medicine,,
+302-tobeitchy,to be itchy,,
+303-toscratchoneself,to scratch oneself,,
+304-toshiver,to shiver,,
+305-todie,to die,3355,TO DIE
+306-ghost,ghost,,
+307-tositremain,to sit (remain),,
+308-tostandremain,to stand (remain),,
+309-tokneel,to kneel,,
+310-towalk,to walk,,
+311-tocrawlonbellylikeasnake,to crawl on belly (like a snake),,
+312-togo,to go,,
+313-tocome,to come,3277,TO COME
+314-toreturn,to return,,
+315-torun,to run,3939,TO RUN
+316-toascend,to ascend,,
+317-todescend,to descend,,
+318-toenterhouse,to enter (house),,
+319-togooutexithouse,to go out/exit (house),,
+320-topush,to push,3861,TO PUSH
+321-topull,to pull,,
+322-tokick,to kick,3656,TO KICK
+323-tothrow,to throw,4134,TO THROW
+324-tofallfromaheight,to fall (from a height),,
+325-toswim,to swim,4100,TO SWIM
+326-tofloat,to float,3475,TO FLOAT
+327-tosubmergesomething,to submerge something,,
+328-toflowriver,to flow (river),,
+329-togive,to give,3530,TO GIVE
+330-totiesomething,to tie (something),,
+331-towipe,to wipe,4216,TO WIPE
+332-torubscrub,to rub/scrub,,
+333-towashhands,to wash (hands),,
+334-towashclothes,to wash (clothes),4194,TO WASH (CLOTHES)
+335-tobathe,to bathe,,
+336-tohitbeatwithforce,to hit/beat (with force),,
+337-tosplit,to split,4034,TO SPIT
+338-toslicesaw,to slice/saw,,
+339-tocuthair,to cut (hair),,
+340-tostab,to stab,,
+341-toplant,to plant,,
+342-todigwithatool,to dig (with a tool),,
+343-toburyacorpse,to bury (a corpse),,
+344-towork,to work,,
+345-toplay,to play,3801,TO PAY
+346-todance,to dance,3327,TO DANCE
+347-toshootgun,to shoot (gun),,
+348-tohunt,to hunt,3614,TO HUNT
+349-tokill,to kill,3658,TO KILL
+350-tofighthandtohand,to fight (hand-to- hand),,
+351-tobuy,to buy,3228,TO BUY
+352-tosell,to sell,3962,TO SELL
+353-toexchange,to exchange,,
+354-topay,to pay,3801,TO PAY
+355-tosteal,to steal,4058,TO STEAL
+356-tohideoneself,to hide oneself,,
+357-oneperson,one (person),,
+358-twopersons,two (persons),,
+359-threepersons,three (persons),,
+360-fourpersons,four (persons),,
+361-fivepersons,five (persons),,
+362-sixpersons,six (persons),,
+363-sevenpersons,seven (persons),,
+364-eightpersons,eight (persons),,
+365-ninepersons,nine (persons),,
+366-tenpersons,ten (persons),,
+367-twentypersons,twenty (persons),,
+368-hundredpersons,hundred (persons),,
+369-thousandpersons,thousand (persons),,
+370-tobemanypeople,to be many (people),,
+371-all,all,,
+372-somepeople,some (people),,
+373-tobefewpeople,to be few (people),,
+374-halfquantity,half (quantity),,
+375-tobebig,to be big,,
+376-tobesmall,to be small,,
+377-tobelong,to be long,,
+378-tobeshortlength,to be short (length),,
+379-tobetall,to be tall,,
+380-tobeshortheight,to be short (height),,
+381-tobethickthing,to be thick (thing),,
+382-tobethinthing,to be thin (thing),,
+383-tobefatperson,to be fat (person),,
+384-tobeskinnyperson,to be skinny (person),,
+385-tobewidebroad,to be wide/broad,,
+386-tobenarrow,to be narrow,,
+387-tobedeep,to be deep,,
+388-tobeshallow,to be shallow,,
+389-toberound,to be round,,
+390-tobefullcontainer,to be full (container),,
+391-rightside,right side,2413,RIGHT SIDE
+392-leftside,left side,,
+393-tobestraightroad,to be straight (road),,
+394-tobefarvillagemanymilesaway,to be far (village many miles away),,
+395-tobenearvillageverynear,to be near (village very near),,
+396-this,this,,
+397-that,that,,
+398-black,black,293,BLACK
+399-white,white,4471,WHITE
+400-red,red,2375,RED
+401-green,green,1271,GREEN
+402-yellow,yellow,4544,YELLOW
+403-tobedirtyclothes,to be dirty (clothes),,
+404-tobenewthings,to be new (things),,
+405-tobeoldthings,to be old (things),,
+406-tobedarkoutside,to be dark (outside),,
+407-toshineflashlight,to shine (flashlight),,
+408-tobethesame,to be the same,,
+409-tobesweet,to be sweet,,
+410-tobesour,to be sour,,
+411-tobebitter,to be bitter,,
+412-tobespicy,to be spicy,,
+413-toberotten,to be rotten,,
+414-tobeswollen,to be swollen,,
+415-tobedryrice,to be dry (rice),,
+416-tobewetwithwater,to be wet (with water),,
+417-tobesharp,to be sharp,,
+418-tobeblunt,to be blunt,,
+419-tobeheavy,to be heavy,,
+420-tobelight,to be light,,
+421-tobehardrock,to be hard (rock),,
+422-tobesoftcotton,to be soft (cotton),,
+423-tobesmoothroad,to be smooth (road),,
+424-toberoughroad,to be rough (road),,
+425-tobefast,to be fast,,
+426-tobeslow,to be slow,,
+427-tobestrong,to be strong,,
+428-tobeweak,to be weak,,
+429-tobetired,to be tired,3146,TO BE TIED
+430-tobeillsick,"to be ill, sick",,
+431-tobeblind,to be blind,,
+432-tobedeaf,to be deaf,,
+433-bald,bald,187,BALD
+434-tobegood,to be good,,
+435-tobebad,to be bad,,
+436-tobecorrect,to be correct,,
+437-tobewrong,to be wrong,,
+438-whenpast,when (past),,
+439-whenfuture,when (future),,
+440-where,where,,
+441-who,who,,
+442-what,what,,
+443-howmanypersons,how many (persons),,
+444-i1s,I (1s),,
+445-you2s,you (2s),,
+446-heshe3s,he/she (3s),,
+447-we1p,we (1p),,
+448-you2p,you (2p),,
+449-they3p,they (3p),,
+450-totake,to take,4106,TO TAKE
+451-toputplace,to put/place,,
+452-tobelostordisappear,to be lost or disappear,,
+453-tobend,to bend,3176,TO BEND
+454-tolift,to lift,,
+455-todomakesomething,to do/make (something),,
+456-dontdoit,don’t do it,,
+457-tobedifficult,to be difficult,,
+458-tobeeasy,to be easy,,
+459-tobeloose,to be loose,,
+460-tobetight,to be tight,,
+461-tosetfreeletgoanimal,"to set free, let go (animal)",,
+462-tosqueeze,to squeeze,4044,TO SQUEEZE
+463-body,body,323,BODY
+464-eyelash,eyelash,980,EYELASH
+465-lip,lip,1682,LIP
+466-molartooth,molar tooth,1870,MOLAR (TOOTH)
+467-jaw,jaw,1549,JAW
+468-throat,throat,3024,THROAT
+469-voiceboxlarynxadamsapple,"voice box, larynx, Adam’s apple",,
+470-chest,chest,,
+471-breast,breast,364,BREAST
+472-waist,waist,4414,WAIST
+473-umbilicalcord,umbilical cord,,
+474-womb,womb,4519,WOMB
+475-buttock,buttock,420,BUTTOCK
+476-wrist,wrist,4535,WRIST
+477-fist,fist,1081,FIST
+478-thumb,thumb,3026,THUMB
+479-knucklebjoint,knuckle (B-joint),,
+480-hip,hip,,
+481-ankle,ankle,88,ANKLE
+482-soleoffoot,sole (of foot),,
+483-toe,toe,,
+484-bonemarrow,bone marrow,329,BONE MARROW
+485-skeleton,skeleton,2661,SKELETON
+486-skull,skull,2668,SKULL
+487-breastbone,breastbone,,
+488-spinebackbone,"spine, backbone",,
+489-kidney,kidney,1581,KIDNEY
+490-lung,lung,1730,LUNG
+491-bladder,bladder,,
+492-muscle,muscle,1925,MUSCLE
+493-tendon,tendon,2985,TENDON
+494-vein,vein,,
+495-breath,breath,,
+496-phlegm,phlegm,,
+497-nasalmucussnot,"nasal mucus, snot",,
+498-earwax,earwax,,
+499-tearsn,tears (n),,
+500-bilegall,"bile, gall",272,"BILE, GALL"
+501-blink,blink,,
+502-winkeye,wink (eye),,
+503-blownose,blow nose,,
+504-pant,pant,,
+505-belch,belch,,
+506-hiccoughn,hiccough (n),,
+507-groanwithpain,groan (with pain),,
+508-gruntfromeffort,grunt (from effort),,
+509-perspiresweatv,"perspire, sweat (v)",,
+510-bleed,bleed,,
+511-bedizzy,(be) dizzy,,
+512-faint,faint,,
+513-wakeupintr,wake up (intr),,
+514-noticev,notice (v),,
+515-feelpassive,feel (passive),,
+516-taste,taste,,
+517-chew,chew,,
+518-choke,choke,,
+519-liedown,lie down,,
+520-turnroundintr,turn round (intr),,
+521-stepv,step (v),,
+522-stumble,stumble,,
+523-limp,limp,,
+524-run,run,,
+525-jumpv,jump (v),,
+526-stampwithfoot,stamp (with foot),,
+527-trample,trample,,
+528-wavehandasagreetingv,wave (hand as a greeting) (v),,
+529-indicatepointaswiththefinger,"indicate, point (as with the finger)",,
+530-claphands,clap (hands),,
+531-slapv,slap (v),,
+532-straddle,straddle,,
+533-leanagainstintr,lean against (intr),,
+534-bowasingreeting,bow (as in greeting),,
+535-beseated,(be) seated,,
+536-squat,squat,,
+537-besleepy,(be) sleepy,,
+538-rest,rest,,
+539-beawakealert,"(be) awake, alert",,
+540-wrinkleonskin,wrinkle (on skin),,
+541-pimple,pimple,2201,PIMPLE
+542-humpbackofanimal,hump (back of animal),,
+543-barrenwoman,barren woman,,
+544-blindperson,blind person,311,BLOND PERSON
+545-deafmuteperson,deaf (mute) person,,
+546-cripplen,cripple (n),,
+547-dwarf,dwarf,865,DWARF
+548-senileperson,senile person,,
+549-madperson,mad person,179,BAD PERSON
+550-behealthybewell,"(be) healthy, (be) well",,
+551-besickbeill,"(be) sick, (be) ill",,
+552-hurtoneself,hurt oneself,,
+553-healtrcurev,"heal (tr), cure (v)",,
+554-getwellrecover,"get well, recover",,
+555-revive,revive,,
+556-abscess,abscess,13,ABSCESS
+557-swelling,swelling,,
+558-tumour,tumour,,
+559-bruisen,bruise (n),,
+560-burnn,burn (n),,
+561-goiter,goiter,,
+562-woundsore,"wound, sore",,
+563-scar,scar,2521,SCAR
+564-intestinalworm,intestinal worm,1534,INTESTINAL WORM
+565-illnessdisease,"illness, disease",,
+566-elephantiasis,elephantiasis,,
+567-ringworm,ringworm,,
+568-leprosy,leprosy,1655,LEPROSY
+569-malariafever,malaria (fever),,
+570-fevernotmalaria,fever (not malaria),,
+571-stomachacheupsetstomach,"stomachache, upset stomach",,
+572-headache,headache,,
+573-diarrhea,diarrhea,,
+574-scabiestheitch,scabies (the itch),,
+575-life,life,1665,LIFE
+576-bealive,(be) alive,,
+577-menstrualperiod,menstrual period,,
+578-bepregnant,(be) pregnant,,
+579-miscarriage,miscarriage,,
+580-labournbirthpains,"labour (n), birth pains",,
+581-bearchildgivebirth,"bear (child), give birth",,
+582-beborn,(be) born,,
+583-beyoung,(be) young,,
+584-growup,grow up,,
+585-death,death,758,DEATH
+586-bedead,(be) dead,,
+587-believe,believe,,
+588-hopev,hope (v),,
+589-knowledge,knowledge,1597,KNOWLEDGE
+590-wisdom,wisdom,,
+591-bewise,(be) wise,,
+592-beintelligent,(be) intelligent,,
+593-bestupid,(be) stupid,,
+594-beconfused,(be) confused,,
+595-learn,learn,,
+596-teach,teach,,
+597-show,show,,
+598-remember,remember,,
+599-behappybejoyful,"(be) happy, (be) joyful",,
+600-rejoice,rejoice,,
+601-besad,(be) sad,,
+602-sorrown,sorrow (n),,
+603-shamen,shame (n),,
+604-pityn,pity (n),,
+605-fearn,fear (n),,
+606-frighten,frighten,,
+607-startlesurprise,"startle, surprise",,
+608-beproud,(be) proud,,
+609-respectv,respect (v),,
+610-honourv,honour (v),,
+611-despisedisdain,"despise, disdain",,
+612-disgusting,disgusting,804,DISGUSTING
+613-wantdesirev,"want, desire (v)",,
+614-decide,decide,,
+615-hesitate,hesitate,,
+616-abstain,abstain,,
+617-allowpermit,"allow, permit",,
+618-forbid,forbid,,
+619-prevent,prevent,,
+620-plann,plan (n),,
+621-try,try,,
+622-succeed,succeed,,
+623-fail,fail,,
+624-pretend,pretend,,
+625-bekind,(be) kind,,
+626-begenerous,(be) generous,,
+627-beselfish,(be) selfish,,
+628-behonest,(be) honest,,
+629-becorrupt,(be) corrupt,,
+630-bewicked,(be) wicked,,
+631-befierce,(be) fierce,,
+632-bejealous,(be) jealous,,
+633-beshy,(be) shy,,
+634-becourageousbebrave,"(be) courageous, (be) brave",,
+635-coward,coward,685,COWARD
+636-becurious,(be) curious,,
+637-beeagerbezealous,"(be) eager, (be) zealous",,
+638-belazy,(be) lazy,,
+639-bepatient,(be) patient,,
+640-beimpatient,(be) impatient,,
+641-berestlessbeunsettled,"(be) restless, (be) unsettled",,
+642-bestubborn,(be) stubborn,,
+643-reputation,reputation,2389,REPUTATION
+644-hardshipdistress,"hardship, distress",,
+645-suffer,suffer,,
+646-obstruct,obstruct,,
+647-stumblingblockobstruction,"stumbling block, obstruction",,
+648-danger,danger,740,DANGER
+649-problemtrouble,"problem, trouble",,
+650-self,self,2551,SELF
+651-whiteman,white man,,
+652-fetus,fetus,1043,FETUS
+653-baby,baby,166,BABY
+654-twin,twin,4309,TWIN
+655-boy,boy,349,BOY
+656-girl,girl,1212,GIRL
+657-adult,adult,,
+658-youngman,young man,,
+659-youngwoman,young woman,,
+660-virgin,virgin,4397,VIRGIN
+661-divorcedman,divorced man,,
+662-divorcedwoman,divorced woman,,
+663-oldperson,old person,,
+664-relativebyblood,relative (by blood),,
+665-ancestor,ancestor,76,ANCESTOR
+666-grandparent,grandparent,1254,GRANDPARENT
+667-fathersyoungerbrotheruncle,father’s younger brother (uncle),,
+668-fathersolderbrotheruncle,father’s older brother (uncle,,
+669-mothersyoungerbrotheruncle,mother’s younger brother (uncle),,
+670-mothersolderbrotheruncle,mother’s older brother (uncle),,
+671-mothersyoungersisteraunt,mother’s younger sister (aunt),,
+672-mothersoldersisteraunt,mother’s older sister (aunt),,
+673-fathersyoungersisteraunt,father’s younger sister (aunt),,
+674-fathersoldersisteraunt,father’s older sister (aunt),,
+675-cousin,cousin,,
+676-firstborn,firstborn,1076,FIRSTBORN
+677-descendant,descendant,777,DESCENDANT
+678-son,son,2728,SON
+679-daughter,daughter,747,DAUGHTER
+680-grandchild,grandchild,1250,GRANDCHILD
+681-nephew,nephew,1970,NEPHEW
+682-niece,niece,1987,NIECE
+683-inlawrelativebymarriage,"in-law, relative by marriage",,
+684-fatherinlaw,father-in-law,1021,FATHER-IN-LAW
+685-motherinlaw,mother-in-law,1901,MOTHER-IN-LAW
+686-brotherinlaw,brother-in-law,384,BROTHER-IN-LAW
+687-sisterinlaw,sister-in-law,2658,SISTER-IN-LAW
+688-daughterinlaw,daughter-in-law,749,DAUGHTER-IN-LAW
+689-widower,widower,,
+690-orphan,orphan,2081,ORPHAN
+691-fiancebetrothedboyfriend,fiancé (betrothed boyfriend),,
+692-fianceebetrothedgirlfriend,fiancée (betrothed girlfriend),,
+693-boyfriend,boyfriend,,
+694-girlfriend,girlfriend,,
+695-tribeethnicgroup,"tribe, ethnic group",,
+696-clan,clan,,
+697-family,family,1002,FAMILY
+698-neighbour,neighbour,1968,NEIGHBOUR
+699-acquaintance,acquaintance,,
+700-host,host,1426,HOST
+701-guestvisitor,"guest, visitor",,
+702-strangerunknownperson,stranger (unknown person),,
+703-enemy,enemy,922,ENEMY
+704-traitor,traitor,4264,TRAITOR
+705-thief,thief,3007,THIEF
+706-guiden,guide (n),,
+707-messenger,messenger,1820,MESSENGER
+708-crowd,crowd,,
+709-chiefheadman,"chief, headman",,
+710-elder,elder,901,ELDER
+711-master,master,,
+712-slave,slave,2676,SLAVE
+713-farmer,farmer,1012,FARMER
+714-fisherman,fisherman,1079,FISHERMAN
+715-hunter,hunter,1448,HUNTER
+716-blacksmith,blacksmith,300,BLACKSMITH
+717-potter,potter,,
+718-weaver,weaver,,
+719-butchern,butcher(n),,
+720-carpenter,carpenter,,
+721-trader,trader,4260,TRADER
+722-seller,seller,,
+723-teacher,teacher,2976,TEACHER
+724-sonk,sonk,,
+725-nun,nun,2020,NUN
+726-novice,novice,2014,NOVICE
+727-domesticservant,(domestic) servant,,
+728-beggar,beggar,,
+729-soldier,soldier,2718,SOLDIER
+730-prostitute,prostitute,,
+731-midwifesage,"midwife, sage",,
+732-medicinemantraditionalhealer,"medicine man, traditional healer",,
+733-fetishpriest,fetish priest,,
+734-sorcerermale,sorcerer (male),,
+735-witchfemale,witch (female),,
+736-fortuneteller,fortune teller,,
+737-meetencounter,"meet, encounter",,
+738-accompany,accompany,,
+739-betogether,(be) together,,
+740-assemblemeettogether,"assemble, meet together",,
+741-invite,invite,,
+742-bealone,(be) alone,,
+743-abandon,abandon,,
+744-fleerunawayfrom,"flee, run away from",,
+745-driveaway,drive away,,
+746-avoid,avoid,,
+747-imitate,imitate,,
+748-admire,admire,,
+749-language,language,1612,LANGUAGE
+750-word,word,4529,WORD
+751-meaningn,meaning (n),,
+752-say,say,,
+753-scold,scold,,
+754-voice,voice,4402,VOICE
+755-whisperv,whisper (v),,
+756-mumble,mumble,,
+757-stutter,stutter,,
+758-beeloquent,(be) eloquent,,
+759-besilent,(be) silent,,
+760-writev,write (v),,
+761-greetv,greet (v.),,
+762-callsomeone,call (someone),,
+763-saygoodbyetakeleaveof,"say goodbye, take leave of",,
+764-announce,announce,,
+765-announcement,announcement,,
+766-news,news,1982,NEWS
+767-explain,explain,,
+768-advise,advise,,
+769-gossipv,gossip (v),,
+770-askrequest,"ask, request",,
+771-thank,thank,,
+772-promisen,promise (n),2296,PROMISE (N.)
+773-oath,oath,2030,OATH
+774-swear,swear,,
+775-insultv,insult (v),,
+776-insultn,insult (n),,
+777-slanderv,slander (v),,
+778-threaten,threaten,,
+779-argue,argue,,
+780-argument,argument,,
+781-grumblecomplain,"grumble, complain",,
+782-contradict,contradict,,
+783-accuse,accuse,,
+784-deny,deny,,
+785-admittoawrong,admit (to a wrong),,
+786-agree,agree,,
+787-agreement,agreement,,
+788-persuade,persuade,,
+789-praisen,praise (n),,
+790-blesspraisesomeone,"bless, praise (someone)",,
+791-congratulate,congratulate,,
+792-boastbrag,"boast, brag",,
+793-storytale,story (tale),,
+794-proverb,proverb,2310,PROVERB
+795-speechdiscourse,"speech,discourse",,
+796-accountreport,account (report),,
+797-embracehugv,"embrace, hug (v)",,
+798-caressv,caress (v),,
+799-kissv,kiss (v),,
+800-nursesucklebaby,"nurse, suckle (baby)",,
+801-ticklev,tickle (v),,
+802-spankchild,spank (child),,
+803-whipn,whip (n),,
+804-help,help,,
+805-protect,protect,,
+806-lookafter,look after,,
+807-bringupachild,bring up (a child),,
+808-ruleoverdominate,"rule over, dominate",,
+809-ordersomeonetodosomething,order (someone to do something),,
+810-commandn,command (n),,
+811-dutyobligation,"duty, obligation",,
+812-sendsomeonetodosomething,send (someone to do something),,
+813-serve,serve,,
+814-leadguidev,"lead, guide (v)",,
+815-follow,follow,,
+816-obey,obey,,
+817-please,please,,
+818-annoy,annoy,,
+819-deceive,deceive,,
+820-quarrel,quarrel,2324,QUARREL
+821-takerevenge,take revenge,,
+822-resolvesettledispute,"resolve, settle (dispute)",,
+823-intercedemediate,"intercede, mediate",,
+824-compromise,compromise,,
+825-appeasepacify,"appease, pacify",,
+826-judgev,judge (v),,
+827-law,law,,
+828-befairjust,"(be) fair, just",,
+829-beguilty,(be) guilty,,
+830-beinnocent,(be) innocent,,
+831-punish,punish,,
+832-tofine,to fine,,
+833-penaltypunishment,"penalty, punishment",,
+834-dwell,dwell,,
+835-inhabitantresident,"inhabitant, resident",,
+836-countrydweller,country dweller,,
+837-moveaway,move away,,
+838-countryethnicarea,"country, ethnic area",,
+839-frontierofethnicarea,frontier (of ethnic area),,
+840-towncity,"town, city",,
+841-marketn,market (n),,
+842-wearclothes,wear clothes,,
+843-dressv,dress (v),,
+844-undress,undress,,
+845-hat,hat,,
+846-loincloth,loincloth,,
+847-babysling,baby sling,,
+848-shoesandal,"shoe, sandal",,
+849-bead,bead,218,BEAD
+850-stringthreadbeadsv,"string, thread (beads) (v)",,
+851-bracelet,bracelet,350,BRACELET
+852-necklace,necklace,,
+853-ankleringbangle,"ankle ring, bangle",,
+854-earring,earring,879,EARRING
+855-pierceears,pierce (ears),,
+856-plaitbraidhair,"plait, braid (hair)",,
+857-tattoos,tattoo(s),,
+858-canewalkingstick,"cane, walking stick",,
+859-applyointmentbesmear,"apply (ointment), besmear",,
+860-razor,razor,,
+861-toothsticktoothbrush,"tooth stick, toothbrush",,
+862-food,food,1112,FOOD
+863-oil,oil,,
+864-soupbroth,"soup, broth",,
+865-flour,flour,,
+866-breakfast,breakfast,362,BREAKFAST
+867-lunch,lunch,,
+868-eveningmeal,evening meal,,
+869-feast,feast,1025,FEAST
+870-leftovers,leftovers,,
+871-spoilfoodintr,spoil (food) (intr),,
+872-ricewine,rice wine,,
+873-preparefoodtocook,prepare (food to cook),,
+874-cuttr,cut (tr),,
+875-cutopenfruit,cut open (fruit),,
+876-slice,slice,,
+877-peelv,peel (v),,
+878-mixv,mix (v),,
+879-stir,stir,,
+880-strainfoodv,strain (food) (v),,
+881-pluckfeathers,pluck (feathers),,
+882-roast,roast,,
+883-fry,fry,,
+884-bakeinashes,bake (in ashes),,
+885-besmoked,(be) smoked,,
+886-fermentalcoholv,ferment (alcohol) (v),,
+887-cookingpotearthenware,cooking pot (earthenware),,
+888-potforwater,pot (for water),,
+889-ladle,ladle,1600,LADLE
+890-cookingstone,cooking stone,,
+891-bowl,bowl,,
+892-cup,cup,721,CUP
+893-chopsticks,chopsticks,,
+894-bag,bag,,
+895-box,box,,
+896-basket,basket,208,BASKET
+897-bucketpail,"bucket, pail",,
+898-bottle,bottle,336,BOTTLE
+899-stopperplug,"stopper, plug",2850,"STOPPER, PLUG"
+900-handle,handle,,
+901-pour,pour,,
+902-spillliquidtr,spill (liquid) (tr),,
+903-takeoutfromcontainer,take out (from container),,
+904-fill,fill,,
+905-beempty,(be) empty,,
+906-beopenblossom,(be) open [blossom],,
+907-opentr,open (tr),,
+908-closeshuttr,"close, shut (tr)",,
+909-stopupv,stop up (v),,
+910-coverv,cover (v),,
+911-uncover,uncover,,
+912-storeup,store (up),,
+913-bundlen,bundle (n),,
+914-heapn,heap (n),,
+915-heapupv,heap up (v),,
+916-wrapupv,wrap up (v),,
+917-unwrapv,unwrap (v),,
+918-packv,pack (v),,
+919-strapn,strap (n),,
+920-rope,rope,,
+921-knotn,knot (n),,
+922-fastenbindload,"fasten, bind (load)",,
+923-untie,untie,,
+924-tightentr,tighten (tr),,
+925-betight,(be) tight,,
+926-loosen,loosen,,
+927-hutinthefield,hut (in the field),,
+928-window,window,4498,WINDOW
+929-beamrafter,"beam, rafter",,
+930-floor,floor,,
+931-room,room,2427,ROOM
+932-bedroom,bedroom,,
+933-kitchen,kitchen,,
+934-sittingroom,sitting room,,
+936-fencen,fence (n),,
+937-fenceinv,fence in (v),,
+938-granarytostorerice,granary (to store rice),,
+939-welln,well (n),,
+940-bathingplace,bathing place,,
+941-latrinetoilet,"latrine, toilet",,
+942-garbagedump,garbage dump,,
+943-garden,garden,1192,GARDEN
+944-sheltern,shelter (n),,
+945-build,build,,
+946-thatchn,thatch (n),,
+947-plastern,plaster (n),,
+948-paintn,paint (n),,
+949-ladder,ladder,,
+950-chair,chair,,
+951-table,table,2804,STABLE
+952-lamp,lamp,,
+953-fann,fan (n),,
+954-bell,bell,251,BELL
+955-ringbellv,ring (bell) (v),,
+956-actdo,"act, do",,
+957-workn,work (n),4530,WORK (N.)
+958-mendrepair,"mend, repair",,
+959-forgen,forge (n),,
+960-hammer,hammer,1300,HAMMER
+961-anvil,anvil,,
+962-bellows,bellows,254,BELLOWS
+963-lumpclaymud,"lump (clay, mud)",,
+964-mouldpottery,mould (pottery),,
+965-potterskiln,potter’s kiln,,
+966-wood,wood,,
+967-cutdowntree,cut down (tree),,
+968-log,log,1701,LOG
+969-hollowoutlog,hollow out (log),,
+970-axe,axe,156,AXE
+971-sawn,saw (n),,
+972-plankn,plank (n),,
+973-knotinwood,knot (in wood),,
+974-splinterslivern,"splinter, sliver (n)",,
+975-chiseln,chisel (n),,
+976-nailn,nail (n),,
+977-threadn,thread (n),,
+978-hemn,hem (n),,
+979-pocket,pocket,2239,POCKET
+980-betorn,(be) torn,,
+981-cloth,cloth,,
+982-rag,rag,,
+983-broom,broom,379,BROOM
+984-sweep,sweep,,
+985-polish,polish,,
+986-drawwater,draw water,,
+987-fetchfirewood,fetch (firewood),,
+988-rubbish,rubbish,,
+989-cultivatefarmv,"cultivate, farm (v)",,
+990-fertilesoil,fertile soil,1040,FERTILE (SOIL)
+991-bebarrenofland,(be) barren (of land),,
+992-clearlandforplanting,clear (land for planting),,
+993-weedv,weed (v),,
+994-hoev,hoe (v),,
+995-hoen,hoe (n),,
+996-sickle,sickle,2635,SICKLE
+997-machetecutlass,"machete, cutlass",,
+998-harvestseason,harvest season,,
+999-harvestricev,harvest (rice) (v),,
+1000-pickpluckfruit,"pick, pluck (fruit)",,
+1001-harvestcollecthoneyfromhive,"harvest, collect (honey from hive)",,
+1002-threshingfloor,threshing-floor,3022,THRESHING FLOOR
+1003-threshbeatgrain,"thresh, beat (grain)",,
+1004-winnowv,winnow (v),,
+1005-huskcornv,husk (corn) (v),,
+1006-domesticatetame,"domesticate, tame",,
+1007-herdcattlesheepn,"herd (cattle, sheep) (n)",,
+1008-herdtendcattlesheepv,"herd, tend (cattle, sheep) (v)",,
+1009-cattlepen,cattle pen,,
+1010-tethersheepgoatsv,"tether (sheep, goats) (v)",,
+1011-feedanimals,feed (animals),,
+1012-castrate,castrate,,
+1013-stalkv,stalk (v),,
+1014-chasev,chase (v),,
+1015-footprinthuman,footprint (human),,
+1016-poisononarrow,poison (on arrow),,
+1017-headofarrow,head of arrow,,
+1018-quivern,quiver (n),,
+1019-birdlimeadhesivetocatchbirds,birdlime (adhesive to catch birds),,
+1020-trapn,trap (n),,
+1021-settrap,set (trap),,
+1022-trapanimalv,trap (animal) (v),,
+1023-evade,evade,,
+1024-escape,escape,,
+1025-woundanimal,wound (animal),,
+1026-skinanimalv,skin (animal) (v),,
+1027-fishv,fish (v),,
+1028-fishdam,fish dam,,
+1029-fishingnet,fishing net,,
+1030-fishingline,fishing line,,
+1031-fishhook,fishhook,,
+1032-bait,bait,,
+1033-havepossess,"have, possess",,
+1034-needv,need (v),,
+1035-getobtain,"get, obtain",,
+1036-belongings,belongings,,
+1037-owner,owner,2093,OWNER
+1038-richman,rich man,,
+1039-poorman,poor man,,
+1040-berich,(be) rich,,
+1041-tobepoor,to be poor,,
+1042-money,money,1737,MONEY
+1043-bescarce,(be) scarce,,
+1044-beexpensive,(be) expensive,,
+1045-beinexpensive,(be) inexpensive,,
+1046-price,price,2281,PRICE
+1047-hagglenegotiateaprice,"haggle, negotiate a price",,
+1048-salary,salary,2493,SALARY
+1049-gift,gift,,
+1050-hirev,hire (v),,
+1051-begformoney,beg (for money),,
+1052-borrow,borrow,,
+1053-lend,lend,,
+1054-debt,debt,759,DEBT
+1055-offerv,offer (v),,
+1056-acceptreceive,"accept, receive",,
+1057-refuse,refuse,,
+1058-taxn,tax (n),,
+1059-tribute,tribute,,
+1060-inheritance,inheritance,1509,INHERITANCE
+1061-inherit,inherit,,
+1062-journeytripn,"journey, trip (n)",,
+1063-bicycle,bicycle,,
+1064-travelgoonatripv,"travel, go on a trip (v)",,
+1065-traveler,traveler,,
+1066-driver,driver,2415,RIVER
+1067-passenger,passenger,,
+1068-wander,wander,,
+1069-belost,(be) lost,,
+1070-forkinpath,fork (in path),,
+1071-crossroadsintersection,"crossroads, intersection",,
+1072-crossriver,cross (river),,
+1073-paddlen,paddle (n),,
+1074-paddlev,paddle (v),,
+1075-baleoutcanoeboat,"bale out (canoe, boat)",,
+1076-capsize,capsize,,
+1077-bring,bring,333,BORING
+1078-sendsomethingtosomeone,send (something to someone),,
+1079-carryinarms,carry (in arms),,
+1080-carrychildonback,carry (child) on back,,
+1081-carryonhead,carry on head,,
+1082-loadburdenn,"load, burden (n)",,
+1083-loadv,load (v),,
+1084-unload,unload,,
+1085-war,war,4417,WAR
+1086-peace,peace,2145,PEACE
+1087-army,army,116,ARMY
+1088-spyn,spy (n),,
+1089-spyvspyon,"spy (v), spy on",,
+1090-sword,sword,2934,SWORD
+1091-gun,gun,,
+1092-shieldn,shield (n),,
+1093-conquerdefeat,"conquer, defeat",,
+1094-bedefeated,(be) defeated,,
+1095-prisonercaptive,"prisoner, captive",,
+1096-plunderatown,plunder (a town),,
+1098-music,music,1928,MUSIC
+1099-song,song,2730,SONG
+1100-humv,hum (v),,
+1101-dancen,dance (n),737,DANCE (N.)
+1102-biggestdrum,big (gest) drum,,
+1103-flute,flute,1103,FLUTE
+1105-hornmusicalinstrument,horn (musical instrument),,
+1106-playinstrument,play instrument,,
+1107-blowhorn,blow (horn),,
+1108-drawpicture,draw (picture),,
+1109-decorate,decorate,,
+1110-carve,carve,,
+1111-toys,toys,,
+1112-tobaccopipe,tobacco pipe,4230,TOBACCO PIPE
+1113-tobacco,tobacco,4229,TOBACCO
+1114-awereverenceforgod,"awe, reverence (for God)",,
+1115-godsupremebeing,God (supreme being),,
+1116-demonevilspirit,"demon, evil spirit",,
+1117-ghostvisibleapparition,ghost (visible apparition),,
+1118-soulspiritoflivingperson,"soul, spirit (of living person)",,
+1119-spiritofdeadpersoninvisible,spirit (of dead person) (invisible),,
+1120-pray,pray,,
+1121-blessing,blessing,,
+1122-divineprophesyv,"divine, prophesy (v)",,
+1123-prophecyn,prophecy (n),,
+1124-visionsupernatural,vision (supernatural),,
+1125-omen,omen,2056,OMEN
+1126-witchcraft,witchcraft,,
+1127-bewitchcastspell,"bewitch, cast spell",,
+1128-cursev,curse (v),,
+1129-cursen,curse (n),,
+1130-poisonapersonv,poison (a person) (v),,
+1131-amuletcharmfetish,"amulet, charm, fetish",,
+1132-protectbycharm,protect by charm,,
+1133-maskn,mask (n),,
+1134-betaboo,(be) taboo,,
+1135-exorcise,exorcise,,
+1136-sacrifice,sacrifice,2475,SACRIFICE
+1137-traditioncustom,"tradition, custom",,
+1138-feastn,feast (n),,
+1139-namingceremonybaby,naming ceremony (baby),,
+1140-marry,marry,,
+1141-beengagedbebetrothed,"(be) engaged, (be) betrothed",,
+1142-bridepriceforbridesfamily,brideprice (for bride’s family),,
+1143-weddingceremony,wedding (ceremony),,
+1144-bride,bride,370,BRIDE
+1145-groom,groom,,
+1146-adultery,adultery,,
+1147-divorcev,divorce (v),,
+1148-funeralatoccasionofdeath,funeral (at occasion of death),,
+1149-mourning,mourning,1890,MORNING
+1150-condolecomfortv,"condole, comfort (v)",,
+1151-corpse,corpse,665,CORPSE
+1152-grave,grave,1263,GRAVE
+1153-cemetery,cemetery,490,CEMETERY
+1154-bullmalecow,bull (male cow),,
+1155-cowfemale,cow (female),,
+1156-heiferyoungcownothadacalf,heifer (young cow not had a calf),,
+1157-steercastratedmalecow,steer (castrated male cow),,
+1158-calf,calf,,
+1159-herdofcattlegroupofcattle,herd(of cattle) [group of cattle],,
+1160-goat,goat,1229,GOAT
+1161-hegoatbilly,"he-goat, billy",,
+1162-shegoatnannygoat,"she-goat, nanny goat",,
+1163-kidchildgoat,kid (child goat),,
+1164-sheep,sheep,2592,SHEEP
+1165-ram,ram,2356,RAM
+1166-ewe,ewe,,
+1167-lamb,lamb,1606,LAMB
+1168-flockofsheepgoats,"flock (of sheep, goats)",,
+1169-roostercock,rooster (cock),,
+1170-hen,hen,1362,HEN
+1171-chick,chick,,
+1172-turkey,turkey,4303,TURKEY
+1173-guineafowl,guinea fowl,1285,GUINEA FOWL
+1174-horse,horse,1416,HORSE
+1175-stallionmalehorse,stallion (male horse),,
+1176-marefemalehorse,mare (female horse),,
+1177-colt,colt,,
+1178-boarmalepig,boar (male pig),,
+1179-sowfemalepig,sow (female pig),,
+1180-piglet,piglet,2193,PIGLET
+1181-puppy,puppy,,
+1182-kitten,kitten,,
+1183-hippopotamus,hippopotamus,1385,HIPPOPOTAMUS
+1185-warthog,warthog,,
+1186-jackal,jackal,1543,JACKAL
+1187-shrew,shrew,,
+1188-mole,mole,,
+1189-mongoose,mongoose,,
+1190-squirrel,squirrel,,
+1191-bat,bat,212,BAT
+1192-wildcat,wild cat,,
+1193-leopard,leopard,,
+1194-lion,lion,,
+1195-hoof,hoof,1405,HOOF
+1196-maneofhorse,mane (of horse),,
+1197-elephantstrunk,elephantʼs trunk,,
+1198-denlairhole,"den, lair, hole",,
+1199-tobareshowteeth,"to bare, show (teeth)",,
+1200-togrowl,to growl,3566,TO GROWL
+1201-toruminatechewcud,"to ruminate, chew cud",,
+1202-tocrow,to crow,,
+1203-dove,dove,,
+1204-parrot,parrot,,
+1205-heron,heron,1373,HERON
+1206-kingfisher,kingfisher,,
+1207-hornbill,hornbill,,
+1208-storkmarabou,stork (marabou),,
+1209-owl,owl,2091,OWL
+1210-hawk,hawk,,
+1211-eagle,eagle,872,EAGLE
+1213-beakbill,"beak, bill",,
+1214-combofrooster,comb (of rooster),,
+1215-cropofbird,crop (of bird),,
+1216-gizzard,gizzard,,
+1217-claw,claw,557,CLAW
+1218-eggshell,eggshell,,
+1219-yolkofegg,yolk (of egg),,
+1220-flockofbirds,flock (of birds),,
+1221-dive,dive,,
+1222-soar,soar,,
+1223-landvalight,"land (v), alight",,
+1224-perch,perch,,
+1225-flapthewings,flap the wings,,
+1226-cackleasofchicken,cackle (as of chicken),,
+1227-crowasaroosterv,crow (as a rooster) (v),,
+1228-pecktr,peck (tr),,
+1229-layeggs,lay (eggs),,
+1230-incubatesetoneggs,"incubate, set (on eggs)",,
+1231-hatch,hatch,,
+1232-catfish,catfish,,
+1233-mudfishlivesinthemudduringdryseason,mudfish (lives in the mud during dry season),,
+1234-eel,eel,,
+1235-fishbone,fish bone,1078,FISHBONE
+1236-fishscale,fish-scale,,
+1237-gill,gill,,
+1238-fin,fin,1058,FIN
+1239-crab,crab,687,CRAB
+1240-shrimp,shrimp,,
+1241-clam,clam,,
+1242-cobra,cobra,,
+1243-puffadder,puff adder,,
+1244-python,python,,
+1245-viper,viper,,
+1246-chameleon,chameleon,500,CHAMELEON
+1247-gecko,gecko,,
+1248-monitorlizard,monitor lizard,1879,MONITOR LIZARD
+1249-toad,toad,4228,TOAD
+1250-shellofturtle,shell (of turtle),,
+1251-slithersnake,slither (snake),,
+1252-hiss,hiss,,
+1253-flea,flea,1095,FLEA
+1254-bedbug,bedbug,,
+1255-maggotinrottenmeat,maggot (in rotten meat),,
+1256-ant,ant,91,ANT
+1257-armyantsoldierant,"army ant, soldier ant",,
+1258-flyingant,flying ant,,
+1259-dungbeetle,dung beetle,861,DUNG-BEETLE
+1260-grasshopper,grasshopper,,
+1261-cricket,cricket,,
+1262-locust,locust,1700,LOCUST
+1263-prayingmantis,praying mantis,,
+1264-caterpillar,caterpillar,472,CATERPILLAR
+1265-centipede,centipede,,
+1266-millipede,millipede,,
+1267-dragonfly,dragonfly,836,DRAGONFLY
+1268-moth,moth,1897,MOTH
+1269-antenna,antenna,,
+1270-stingv,sting (v),,
+1271-stingerdard,stinger dard,,
+1272-cocoon,cocoon,,
+1273-termitehill,termite hill,,
+1274-beehive,beehive,241,BEEHIVE
+1275-beeswax,beeswax,,
+1276-honey,honey,1396,HONEY
+1277-swarmn,swarm (n),,
+1278-teaktree,teak tree,,
+1279-figtree,fig tree,,
+1280-tamarindtree,tamarind tree,,
+1281-oilpalm,oil palm,,
+1282-coconutpalm,coconut palm,,
+1283-bush,bush,,
+1284-weeds,weeds,,
+1285-trunkoftree,trunk (of tree),4289,TRUNK (OF A TREE)
+1286-sap,sap,,
+1287-stump,stump,,
+1288-bulbtuber,"bulb, tuber",,
+1289-stemstalkofcornmilletetc,"stem, stalk (of corn, millet, etc.)",,
+1290-silkhairofcorn,"silk, hair (of corn)",,
+1291-bladeofgrass,blade (of grass),,
+1292-bud,bud,,
+1293-shootnewplant,shoot (new plant),,
+1294-vine,vine,,
+1295-tendril,tendril,,
+1296-juice,juice,1568,JUICE
+1297-regimehandofbananas,regime/hand (of bananas),,
+1298-corncob,corn cob,,
+1299-kernelofcornmaize,"kernel (of corn, maize)",,
+1300-skinoffruit,skin (of fruit),,
+1301-shellofgroundnut,shell (of groundnut),,
+1302-cornhuskn,corn husk (n),,
+1303-chaff,chaff,496,CHAFF
+1304-lemon,lemon,1646,LEMON
+1305-orange,orange,,
+1306-papaya,papaya,,
+1307-pineapple,pineapple,2205,PINEAPPLE
+1308-guava,guava,1279,GUAVA
+1310-fig,fig,1053,FIG
+1311-jackfruitfruit,jackfruit (fruit),,
+1312-tomato,tomato,,
+1313-onion,onion,2063,ONION
+1314-okra,okra,,
+1315-cocoyamtaro,"cocoyam, taro",,
+1316-yam,yam,4540,YAM
+1317-sweetpotato,sweet potato,,
+1318-potato,potato,2267,POTATO
+1319-groundnutpeanut,"groundnut, peanut",,
+1320-sesameseed,sesame seed,,
+1321-coffee,coffee,591,COFFEE
+1322-tea,tea,2975,TEA
+1323-rubber,rubber,2445,RUBBER
+1324-cotton,cotton,668,COTTON
+1325-growofplants,grow (of plants),,
+1326-sproutv,sprout (v),,
+1327-beunripe,(be) unripe,,
+1328-beshrivelledbewrinkledfruit,"(be) shrivelled, (be) wrinkled (fruit)",,
+1329-witherplant,wither (plant),,
+1330-blightn,blight (n),1668,LIGHT (N.)
+1331-world,world,4531,WORLD
+1332-place,place,2214,PLACE
+1333-desert,desert,,
+1334-groundland,"ground, land",,
+1335-summithighestpoint,"summit, highest point",,
+1336-cliff,cliff,,
+1337-valley,valley,,
+1338-ditch,ditch,,
+1339-hole,hole,,
+1340-crevice,crevice,,
+1341-gravel,gravel,1263,GRAVE
+1342-clay,clay,559,CLAY
+1343-copper,copper,655,COPPER
+1344-rustn,rust (n),2459,RUST (N.)
+1345-lake,lake,1605,LAKE
+1346-marsh,marsh,,
+1347-spring,spring,,
+1348-waterfall,waterfall,,
+1349-currentriverstream,"current (river, stream)",,
+1350-riverbeddry,riverbed (dry),,
+1351-riverbank,river bank,,
+1352-bridge,bridge,372,BRIDGE
+1353-island,island,1539,ISLAND
+1354-beach,beach,,
+1355-wave,wave,4435,WAVE
+1356-bubble,bubble,,
+1357-foam,foam,1108,FOAM
+1358-slimeorganic,slime (organic),,
+1359-flame,flame,,
+1360-candle,candle,447,CANDLE
+1361-spark,spark,2749,SPARK
+1362-fireplace,fireplace,1070,FIREPLACE
+1363-charcoal,charcoal,,
+1364-airbreathed,air (breathed),,
+1365-fullmoon,full moon,,
+1366-newmoon,new moon,,
+1367-eclipsemoon,eclipse (moon),,
+1368-shootingstarmeteor,"shooting star, meteor",,
+1369-noisesoundn,"noise, sound (n)",,
+1370-drizzle,drizzle,,
+1371-hail,hail,1295,HAIL
+1372-floodn,flood (n),,
+1373-droughtfamine,"drought, famine",,
+1374-season,season,,
+1375-rainyseason,rainy season,,
+1376-hotweatherhotseason,hot weather [hot season],,
+1377-coldweathercoldseason,cold weather [cold season],,
+1378-light,light,,
+1379-sunshine,sunshine,,
+1380-moonlight,moonlight,,
+1381-darkness,darkness,,
+1382-time,time,3038,TIME
+1383-now,now,2015,NOW
+1384-before,before,245,BEFORE
+1385-after,after,38,AFTER
+1386-early,early,877,EARLY
+1387-late,late,1621,LATE
+1388-once,once,,
+1389-again,again,41,AGAIN
+1390-sometimes,sometimes,,
+1391-often,often,2044,OFTEN
+1392-usually,usually,,
+1393-always,always,68,ALWAYS
+1394-never,never,,
+1395-spendtimepasstime,"spend time, pass time",,
+1396-month,month,1884,MONTH
+1397-today,today,4231,TODAY
+1398-daybeforeyesterday,day before yesterday,,
+1399-dayaftertomorrow,day after tomorrow,3002,THE DAY AFTER TOMORROW
+1400-oldentimes,olden times,,
+1401-dawnbeforesunrise,dawn (before sunrise),,
+1402-sunrise,sunrise,,
+1403-afternoon,afternoon,,
+1404-sunset,sunset,2904,SUNSET
+1405-dusktwilightaftersunset,"dusk, twilight (after sunset)",,
+1406-daytime,daytime,,
+1407-thing,thing,3011,THING
+1408-piece,piece,2190,PIECE
+1409-top,top,,
+1410-bottom,bottom,337,BOTTOM
+1411-frontofsomething,front (of something),,
+1412-backofsomething,back (of something),,
+1413-sideofsomething,side (of something),,
+1414-middle,middle,1830,MIDDLE
+1415-edgen,edge(n),,
+1416-pointn,point (n),,
+1417-bumpn,bump (n),,
+1418-spotn,spot (n),,
+1419-moveintr,move (intr),,
+1420-movement,movement,,
+1421-go,go,,
+1422-approachv,approach (v),,
+1423-arrive,arrive,,
+1424-remainstay,"remain, stay",,
+1425-leaveplace,leave (place),,
+1426-gorounddetour,"go round, detour",,
+1427-comeorgooutexitv,"come (or go) out, exit (v)",,
+1428-ascendgoup,"ascend, go up",,
+1429-descendgodown,"descend, go down",,
+1430-swingvgobackandforth,"swing (v), go back and forth",,
+1431-slide,slide,,
+1432-roll,roll,,
+1433-spreaddiseasefire,"spread (disease, fire)",,
+1434-burst,burst,,
+1435-speedn,speed (n),,
+1436-hastenhurry,"hasten, hurry",,
+1437-snatchseize,"snatch, seize",,
+1438-catchobjectinair,catch (object in air),,
+1439-pickup,pick up,,
+1440-hold,hold,,
+1441-lowertr,lower (tr),,
+1442-droptr,drop (tr),,
+1443-knockdownknockoveranobject,"knock down, knock over (an object)",,
+1444-turnovertr,turn over (tr),,
+1445-drag,drag,,
+1446-steerv,steer (v),,
+1447-overtakepasstr,"overtake, pass (tr)",,
+1448-surround,surround,,
+1449-twist,twist,,
+1450-foldv,fold (v),,
+1451-coilropev,coil (rope) (v),,
+1452-hangup,hang up,,
+1453-spreadoutmaizetr,spread out (maize) (tr),,
+1454-stretch,stretch,,
+1455-bumpvknockagainst,"bump (v), knock against",,
+1456-scrapev,scrape (v),,
+1457-scratchv,scratch (v),,
+1458-pierce,pierce,2190,PIECE
+1459-teartr,tear (tr),,
+1460-stripoffbark,strip off (bark),,
+1461-shaketr,shake (tr),,
+1462-crushtr,crush (tr),,
+1463-createmake,"create, make",,
+1464-alterchangetr,"alter, change (tr)",,
+1465-breaktr,break (tr),,
+1466-destroyspoil,"destroy, spoil",,
+1467-joinputtogether,"join, put together",,
+1468-accumulate,accumulate,,
+1469-gather,gather,,
+1470-divideseparatetr,"divide, separate (tr)",,
+1471-scattertr,scatter (tr),,
+1472-throwawaygetridof,"throw away, get rid of",,
+1473-putplaceset,"put, place, set",,
+1474-leavesomethingsomewhere,leave (something somewhere),,
+1475-keepsave,"keep, save",,
+1476-hidetr,hide (tr),,
+1477-losetr,lose (tr),,
+1478-lookfor,look for,,
+1479-find,find,,
+1480-blowofwindv,blow (of wind) (v),,
+1481-blowdown,blow down,,
+1482-blowawayintr,blow away (intr),,
+1483-fanv,fan (v),,
+1484-drip,drip,,
+1485-leakv,leak (v),,
+1486-sprinkle,sprinkle,,
+1487-smeartr,smear (tr),,
+1488-dip,dip,,
+1489-soak,soak,,
+1490-wringout,wring out,,
+1491-shine,shine,,
+1492-fade,fade,,
+1493-lightfirev,light (fire) (v),,
+1494-burnintrblaze,"burn (intr), blaze",,
+1495-meltintr,melt (intr),,
+1496-singe,singe,,
+1497-begin,begin,,
+1498-beginning,beginning,247,BEGINNING
+1499-continueresume,"continue, resume",,
+1500-endn,end (n),,
+1501-ceasestop,"cease, stop",,
+1502-finishcompletev,"finish, complete (v)",,
+1503-behigh,(be) high,,
+1504-below,(be) low,,
+1505-lengthen,lengthen,,
+1506-shorten,shorten,,
+1507-widen,widen,,
+1508-deepen,deepen,,
+1509-beflat,(be) flat,,
+1510-flatten,flatten,,
+1511-behollow,(be) hollow,,
+1512-swellintr,swell (intr),,
+1513-straighten,straighten,,
+1514-becrooked,(be) crooked,,
+1515-weight,weight,898,EIGHT
+1516-sharpenknife,sharpen (knife),,
+1517-sharpenbringtopointarrow,"sharpen, bring to point (arrow)",,
+1518-makesmooth,make smooth,,
+1519-harden,harden,,
+1520-soften,soften,2044,OFTEN
+1521-beslippery,(be) slippery,,
+1522-besticky,(be) sticky,,
+1523-colour,colour,428,COLOUR
+1524-beblue,(be) blue,,
+1525-bebrown,(be) brown,,
+1526-bedarkcolour,(be) dark (colour),,
+1527-belightcolour,(be) light (colour),,
+1528-tasten,taste (n),2970,TASTE (N.)
+1529-besalty,(be) salty,,
+1530-odoursmelln,"odour, smell (n)",,
+1531-stinksmellbad,"stink, smell (bad)",,
+1532-beableto,(be) able (to),,
+1533-strength,strength,2866,STRENGTH
+1534-begreatbepowerful,"(be) great, (be) powerful",,
+1535-splendourglory,"splendour, glory",,
+1536-truth,truth,4292,TRUTH
+1537-bebeautiful,(be) beautiful,,
+1538-handsome,handsome,,
+1539-beugly,(be) ugly,,
+1540-beclean,(be) clean,,
+1541-beimportant,(be) important,,
+1542-beamusingfunny,"(be) amusing, funny",,
+1543-eleven11,eleven (11),,
+1544-twelve12,twelve (12),,
+1545-thirteen13,thirteen (13),,
+1546-fourteen14,fourteen (14),,
+1547-fifteen15,fifteen (15),,
+1548-sixteen16,sixteen (16),,
+1549-seventeen17,seventeen (17),,
+1550-eighteen18,eighteen (18),,
+1551-nineteen19,nineteen (19),,
+1552-twentyone21,twenty-one (21),,
+1553-twentytwo22,twenty-two (22),,
+1554-twentythree23,twenty-three (23),,
+1555-twentyfour24,twenty-four (24),,
+1556-twentyfive25,twenty-five (25),,
+1557-twentysix26,twenty-six (26),,
+1558-twentyseven27,twenty-seven (27),,
+1559-twentyeight28,twenty-eight (28),,
+1560-twentynine29,twenty-nine (29),,
+1561-thirty30,thirty (30),,
+1562-forty40,forty (40),,
+1563-fifty50,fifty (50),,
+1564-sixty60,sixty (60),,
+1565-seventy70,seventy (70),,
+1566-eighty80,eighty (80),,
+1567-ninety90,ninety (90),,
+1568-twohundred200,two hundred (200),,
+1569-fivehundred500,five hundred (500),,
+1570-twothousand2000,two thousand (2000),,
+1571-befirst,(be) first,,
+1572-besecond,(be) second,,
+1573-bethird,(be) third,,
+1574-belast,(be) last,,
+1575-add,add,,
+1576-subtracttakeaway,"subtract, take away",,
+1577-increaseintr,increase (intr),,
+1578-decreaseintr,decrease (intr),,
+1579-arrange,arrange,,
+1580-beequal,(be) equal,,
+1581-beabundant,(be) abundant,,
+1582-enough,enough,925,ENOUGH
+1583-lackv,lack (v),,
+1584-beusedup,(be) used up,,
+1585-everybody,everybody,,
+1586-everything,everything,,
+1587-somebody,somebody,,
+1588-something,something,,
+1589-everywhere,everywhere,,
+1590-nobody,nobody,,
+1591-nothing,nothing,,
+1592-here,here,1369,HERE
+1593-there,there,3004,THERE
+1594-up,up,,
+1595-down,down,,
+1596-forwarddirection,forward (direction),,
+1597-backwarddirection,backward (direction),,
+1598-overabove,"over, above",,
+1599-underbelow,"under, below",4325,"UNDER, BELOW"
+1600-infrontofbefore,"in front of, before",,
+1601-behind,behind,249,BEHIND
+1602-beside,beside,,
+1603-inside,inside,1518,INSIDE
+1604-outside,outside,,
+1605-between,between,,
+1606-towards,towards,,
+1607-awayfrom,away from,,
+1608-with,with,,
+1609-othermen,other (men),,
+1610-whichone,which (one)?,,
+1611-why,why?,,
+1612-how,how?,,
+1613-and,and,,
+1614-if,if,1468,IF
+1615-but,but,,
+1616-so,so,,
+1617-because,because,,
+1618-perhaps,perhaps,,
+1619-reallytruly,"really, truly",,
+1620-welladv,well (adv),,
+1621-poorly,poorly,,
+1622-only,only,,
+1623-yes,yes,4547,YES
+1624-no,no,1994,NO
+1625-nature,nature,1956,NATURE
+1626-volcano,volcano,,
+1627-donate,donate,,
+1628-greedy,greedy,1270,GREEDY
+1629-humble,humble,,
+1630-concentrate,concentrate,,
+1631-villager,villager,4389,VILLAGE
+1632-headvillager,head-villager,,
+1633-clearpurewater,"clear, pure (water)",,
+1634-car,car,,
+1635-motorbike,motor bike,,
+1636-bike,bike,,
+1637-airplane,air plane,49,AIRPLANE
+1638-ship,ship,,
+1639-valuable,valuable,,
+1640-cheap,cheap,509,CHEAP
+1641-sympathy,sympathy,,
+1642-empathy,empathy,,
+1643-vertical,vertical,,
+1644-horizontal,horizontal,,
+1645-sugar,sugar,2892,SUGAR
+1646-holiday,holiday,1391,HOLIDAY
+1647-tofart,to fart,,
+1648-crash,crash,,
+1649-accident,accident,16,ACCIDENT
+1650-pillar,pillar,2197,PILLAR

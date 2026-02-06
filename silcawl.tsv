@@ -1,0 +1,1701 @@
+ID	ENGLISH	FRENCH	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	body	corps	1480	BODY
+2	skin (of man)	peau (d'homme)	2613	SKIN (HUMAN)
+3	head	tête	1256	HEAD
+4	forehead	front	123	FOREHEAD
+5	face	visage	1560	FACE
+6	eye	oeil	1248	EYE
+7	eyebrow	sourcil	1173	EYEBROW
+8	eyelid	paupière	17	EYELID
+9	eyelash	cil	1540	EYELASH
+10	pupil (of eye)	pupille	1658	PUPIL
+11	nose	nez	1221	NOSE
+12	bridge (of nose)	arête, dos du nez		
+13	ear	oreille	1247	EAR
+14	cheek	joue	1730	CHEEK
+15	mouth	bouche	674	MOUTH
+16	lip	lèvre	478	LIP
+17	tongue	langue	1205	TONGUE
+18	tooth	dent	1380	TOOTH
+19	molar tooth	molaire	1049	MOLAR TOOTH
+20	palate	palais (de la bouche)	540	PALATE
+21	jaw	mâchoire	798	JAW
+22	chin	menton	1510	CHIN
+23	neck	cou	1333	NECK
+24	nape of neck	nuque	1347	NAPE (OF NECK)
+25	throat	gorge	1346	THROAT
+26	voice box, larynx, Adam's apple	larynx, pomme d'Adam	3714	LARYNX
+27	hair (of head)	cheveux (de tête)	2648	HAIR (HEAD)
+28	beard	barbe	678	BEARD
+29	hair (of body)	poil (du corps)	189	HAIR (BODY)
+30	tuft, lock (of hair)	touffe, mèche (de cheveux)	2722	TUFT (CLASSIFIER)
+31	shoulder	épaule	1482	SHOULDER
+32	shoulder blade	omoplate	172	SHOULDERBLADE
+33	chest	poitrine	1592	CHEST
+34	breast	sein, mamelle	1402	BREAST
+35	side (of body)	côté (du corps), flanc	3344	SIDE (BODY)
+36	waist	taille	1681	WAIST
+37	navel	nombril	1838	NAVEL
+38	umbilical cord	cordon umbilical	2663	UMBILICAL CORD
+39	abdomen (external)	ventre, abdomen (externe)	1251	BELLY
+40	stomach (internal)	estomac, ventre (interne)	819	STOMACH
+41	womb	utérus	804	WOMB
+42	back	dos, derrière, fesses	2323	BACK (PART)
+43	small of back	creux des reins	3613	LOWER BACK
+44	buttock	fesse	834	BUTTOCKS
+45	anus	anus	1935	ANUS
+46	penis	pénis	1222	PENIS
+47	testicle	testicule	797	TESTICLES
+48	vagina	vagin	1836	VAGINA
+49	clitoris	clitoris	3257	CLITORIS
+50	arm	bras	1673	ARM
+51	armpit	aisselle	1886	ARMPIT
+52	upper arm	bras supérieur	431	UPPER ARM
+53	elbow	coude	981	ELBOW
+54	forearm	avant-bras	446	LOWER ARM
+55	wrist	poignet	799	WRIST
+56	hand	main	1277	HAND
+57	fist	poing	1473	FIST
+58	palm (of hand)	paume (de la main)	1183	PALM OF HAND
+59	finger	doigt	1303	FINGER
+60	thumb	pouce	1781	THUMB
+61	knuckle	articulation, jointure (des doigts)	2824	KNUCKLE
+62	fingernail	ongle	1258	FINGERNAIL
+63	leg	jambe (y compris le pied)	1297	LEG
+64	hip	hanche	1745	HIP
+65	thigh	cuisse	471	UPPER LEG (THIGH)
+66	knee	genou	1371	KNEE
+67	shin	tibia	186	SHIN
+68	calf of leg	mollet, région base de la jambe	498	CALF OF LEG
+69	ankle	cheville	803	ANKLE
+70	foot	pied	1301	FOOT
+71	heel	talon	980	HEEL
+72	sole	plante du pied	2666	SOLE (FOOT)
+73	toe	orteil, doigt de pied	1389	TOE
+74	bone	os	1394	BONE
+75	bone marrow	moëlle	1835	MARROW
+76	skeleton	squelette	2668	SKELETON
+77	skull	crane	1605	SKULL
+78	breastbone	sternum	2810	BREASTBONE
+79	spine, backbone	colonne vertébrale, épine dorsale	805	SPINE
+80	rib	côte	801	RIB
+81	brain	cerveau	1583	BRAIN
+82	heart	coeur	1223	HEART
+83	liver	foie	1224	LIVER
+84	kidney	rein	489	KIDNEY
+85	lung	poumon	688	LUNG
+86	intestines	intestins	1991	INTESTINES
+87	bladder	vessie	1746	BLADDER
+88	gall bladder	vésicule biliare	3372	GALL BLADDER
+89	muscle	muscle	1004	MUSCLE
+90	tendon	tendon	1137	TENDON
+91	vein	veine	1924	VEIN
+92	breath	souffle, haleine	870	BREATH
+93	saliva	salive	1503	SALIVA
+94	phlegm	phlegme	3061	PHLEGM
+95	nasal mucus, snot	morve	208	NASAL MUCUS (SNOT)
+96	earwax	cérumen	32	EARWAX
+97	tears (n)	larmes	1651	TEAR (OF EYE)
+98	blood	sang	946	BLOOD
+99	bile, gall	bile	1780	BILE
+100	semen	sperme, semence	2283	SEMEN
+101	urine	urine	1142	URINE
+102	excrement, faeces	excrément	675	FAECES (EXCREMENT)
+103	blink	cligner des yeux	1655	BLINK
+104	wink (eye)	cligner de l'oeil	1655	BLINK
+105	blow nose	se moucher	2679	BLOW (WITH NOSE)
+106	breathe	respirer	1407	BREATHE
+107	yawn	bâiller	1028	YAWN
+108	snore	ronfler	1983	SNORE
+109	pant	haleter	3614	PANT
+110	blow (with mouth)	souffler	176	BLOW (WITH MOUTH)
+111	spit	cracher	1440	SPIT
+112	cough (v)	tousser	879	COUGH
+113	belch	roter	2245	BELCH
+114	hiccough (n)	hoquet	162	HICCOUGH
+115	sneeze (v)	éternuer	1621	SNEEZE
+116	groan (with pain)	gémir (de douleur)	716	GROAN
+117	grunt (from effort)	grogner (d'effort)		
+118	palpitate (of heart)	palpiter, battre très fort (coeur)		
+119	urinate	uriner, pisser	592	PISS
+120	break wind, fart	péter	1159	FART
+121	defecate	déféquer, chier	676	SHIT (DEFECATE)
+122	shiver, tremble	frissonner, trembler	52	SHIVER
+123	perspire, sweat	transpirer, suer	126	SWEAT (PERSPIRE)
+124	bleed	saigner	3615	BLEED
+125	coagulate, clot	coaguler, cailler	2395	CONGEAL (BLOOD)
+126	(be) dizzy	avoir le vertige	2712	GET DIZZY
+127	faint	s'évanouir	3616	FAINT (PASS OUT)
+128	sleep (v)	dormir	1585	SLEEP
+129	dream (n)	rêve	2374	DREAM
+130	wake up (intr)	se réveiller	1602	WAKE UP
+131	see	voir	1409	SEE
+132	notice (v)	remarquer, s'apercevoir	2893	NOTICE (SOMETHING)
+133	look at, watch	regarder	1819	LOOK
+134	hear	entendre	1408	HEAR
+135	listen	écouter	1608	LISTEN
+136	smell (v)	sentir (par le nez)	2124	SMELL
+137	feel (passive)	sentir, percevoir, éprouver	1079	FEEL
+138	touch, feel (active)	toucher	2559	FEEL (TACTUALLY)
+139	taste	goûter	2190	TASTE
+140	eat	manger	1336	EAT
+141	bite (v)	mordre	1403	BITE
+142	crunch	croquer		
+143	chew	mâcher	321	CHEW
+144	gnaw	ronger	2706	GNAW
+145	swallow	avaler	897	SWALLOW
+146	choke	s'étrangler	129	CHOKE
+147	lick	lécher	319	LICK
+148	suck	sucer	1421	SUCK
+149	drink	boire	1401	DRINK
+150	sit	s'asseoir	1416	SIT
+151	rise up (intr)	se lever, se mettre debout	1512	RISE (ONESELF)
+152	lie down	se coucher	215	LIE DOWN
+153	turn round (intr)	se retourner, tourner (intr)	1444	TURN AROUND
+154	walk	marcher	1443	WALK
+155	step (v)	faire un pas	2065	STEP (VERB)
+156	stumble	trébucher, broncher	3617	STUMBLE
+157	limp	boiter	366	LIMP
+158	crawl	ramper, marcher à quatre pattes	96	CRAWL
+159	run	courir	1519	RUN
+160	swim	nager	1439	SWIM
+161	jump (v)	sauter	1829	JUMP
+162	kick	donner un coup de pied	1135	KICK
+163	stamp (with foot)	trépigner, taper du pied	3618	STAMP
+164	trample	piétiner, fouler aux pieds		
+165	wave (hand as a greeting) (v)	faire signe de la main	3544	WAVE (VERB)
+166	indicate, point (as with the finger)	indiquer du doigt	2669	POINT (WITH FINGER)
+167	clap (hands)	battre des mains	3110	CLAP
+168	slap (v)	gifler, donner une claque	3160	SLAP
+169	stand	(être, se tenir) debout	1442	STAND
+170	straddle	chevaucher		
+171	lean against (intr)	s'appuyer (contre)	3619	LEAN
+172	bend down, stoop	se courber, se pencher	2761	BEND (ONESELF)
+173	bow (as in greeting)	s'incliner (pour saluer)	2761	BEND (ONESELF)
+174	(be) seated	(être) assis	1416	SIT
+175	squat	s'accroupir	296	CROUCH
+176	kneel	s'agenouiller	66	KNEEL
+177	(be) lying down	(être) couché, étendu	1411	LIE (REST)
+178	(be) hot (of person)	(avoir) chaud	3818	HOT (FEELING HOT)
+179	(be) hungry, hunger (v)	(avoir) faim	1533	BE HUNGRY
+180	(be) sated	(être) rassasié	106	SATIATED
+181	(be) thirsty, thirst (v)	(avoir) soif	3474	BE THIRSTY
+182	(be) drunk	(être) soûl	1463	DRUNK
+183	(be) tired	(être) fatigué	1757	TIRED
+184	(be) sleepy	(avoir) sommeil	3620	SLEEPY
+185	rest	se reposer	168	REST
+186	(be) awake, alert	(être) réveillé, vigilant, éveillé	825	AWAKE
+187	wrinkle (on skin)	ride (sur la peau)	2294	WRINKLE
+188	pimple	bouton (sur la peau)	1809	PIMPLE
+189	hump (of hunchback)	bosse (d'un bossu)	534	HUMP
+190	(be) bald	(être) chauve	1125	BALD
+191	(be) blind	(être) aveugle	1653	BLIND
+192	(be) myopic, (be) shortsighted	(être) myope		
+193	(be) thin	(être) maigre, mince	1400	THIN (SLIM)
+194	(be) impotent	(être) impuissant		
+195	barren woman	femme stérile		
+196	blind person	(un) aveugle	457	BLIND PERSON
+197	deaf (mute) person	sourd-muet	458	DEAF PERSON
+198	hunchback	bossu	99	HUNCHBACK
+199	cripple (n)	estropié, mutilé	3621	DISABLED PERSON
+200	dwarf	nain		
+201	giant	géant	895	TORTOISE
+202	stupid person	imbécile, idiot		
+203	senile person	personne sénile		
+204	mad person	(un) fou, insensé	2321	MAD PERSON
+205	(be) healthy, (be) well	(être) bien portant	1364	HEALTHY
+206	(be) sick, (be) ill	(être) malade	1847	SICK
+207	hurt oneself	se blesser		
+208	heal (tr), cure (v)	guérir	499	CURE
+209	medicine	médicament, remède	1372	MEDICINE
+210	get well, recover	se remettre, (se) guérir	1978	RECOVER
+211	revive	reprendre connaissance		
+212	abscess (n)	abcès	793	BOIL (OF SKIN)
+213	swelling	enflure	1903	SWELLING
+214	tumour	tumeur		
+215	bruise (n)	contusion, bleu	1148	BRUISE
+216	burn (n)	brûlure	3622	BURN (INJURY)
+217	goiter	goitre	1957	GOITER
+218	hernia (umbilical)	hernie		
+219	ulcer (leg)	ulcère	1189	ULCER
+220	wound, sore	plaie, blessure	1109	WOUND
+221	pus	pus	1808	PUS
+222	scar	cicatrice	497	SCAR
+223	intestinal worm	vers intestinal	3623	INTESTINAL WORM
+224	illness, disease	maladie	1986	DISEASE
+225	elephantiasis	éléphantiasis		
+226	ringworm	teigne	3171	RINGWORM
+227	leprosy	lèpre	3624	LEPROSY
+228	malaria (fever)	paludisme (la fièvre)	3059	MALARIA
+229	fever (not malaria)	fièvre (non-paludéenne)	1534	FEVER
+230	pain (n)	douleur	1783	PAIN
+231	give pain, hurt	faire mal	2411	HURT (SOMEBODY)
+232	throb (with pain)	lanciner, faire des élancements		
+233	vomit (v)	vomir	1278	VOMIT
+234	stomachache, upset stomach	mal de ventre, colique		
+235	headache	malde tête	3625	HEADACHE
+236	diarrhea	diarrhea	1177	DIARRHEA
+237	scabies (the itch)	démangeaison, gale	3172	SCABIES
+238	life	vie	210	LIFE
+239	(be) alive	(être) vivant, en vie	1422	BE ALIVE
+240	menstrual period	règles (d'une femme)	766	MENSTRUATION
+241	(be) pregnant	(être) enceinte, en grossesse	1123	PREGNANT
+242	miscarriage	fausses couches		
+243	labour (n), birth pains	labeur, douleur d'accouchement		
+244	bear (child), give birth	accoucher, donner naissance, engendrer, enfanter	1195	GIVE BIRTH
+245	(be) born	naître	1090	BE BORN
+246	(be) young	(être) jeune	1207	YOUNG
+247	grow up	grandir	552	GROW UP
+248	(be) old (not young)	(être) vieux	2112	OLD (AGED)
+249	die	mourir	1494	DIE
+250	death	(la) mort	910	DEATH
+251	(be) dead	(être) mort	1625	DEAD
+252	think	penser	2271	THINK
+253	believe	croire	1890	BELIEVE
+254	hope (v)	espérer	3212	HOPE (SOMETHING)
+255	know (something or someone)	connaître, savoir	3626	KNOW
+256	knowledge	connaissance	3874	KNOWLEDGE
+257	wisdom	sagesse		
+258	(be) wise	(être) sage	698	WISE
+259	(be) intelligent	(être) intelligent	2530	SMART
+260	(be) stupid	(être) stupide, bête	1518	STUPID
+261	(be) confused	(être) désorienté, embrouillé	3858	CONFUSED
+262	learn	apprendre	504	LEARN
+263	teach	enseigner	709	TEACH
+264	show	montrer	1039	SHOW
+265	remember	se souvenir, se rappeler	707	REMEMBER
+266	forget	oublier	1523	FORGET
+267	(be) happy, (be) joyful	(être) heureux, joyeux, content	1495	HAPPY
+268	rejoice	se réjouir	2192	REJOICE
+269	laugh	rire	1355	LAUGH
+270	smile	sourire	1451	SMILE
+271	(be) sad	(être) triste	699	SAD
+272	cry, weep	pleurer	1839	CRY
+273	sorrow (n)	chagrin, peine	1668	GRIEF
+274	shame (n)	honte	1776	SHAME
+275	pity (n)	pitié, compassion	1141	PITY
+276	fear (n)	peur, crainte	781	FEAR (FRIGHT)
+277	frighten	effrayer, faire peur	252	FRIGHTEN
+278	startle, surprise	surprendre	3627	SURPRISE (SOMEBODY)
+279	(be) angry	(être) fâché, en colère	1826	ANGRY
+280	calm (oneself)	se calmer	258	CALM
+281	(be) proud	(être) fier	174	PROUD
+282	respect (v)	respecter	385	RESPECT (SOMEBODY)
+283	honour (v)	honorer	3628	HONOR (SOMEBODY)
+284	love (v)	aimer	923	LOVE
+285	hate (v)	haïr, détester	1607	HATE
+286	despise, disdain	mépriser	2715	DESPISE
+287	want, desire (v)	vouloir, désirer	2117	DESIRE
+288	decide	décider	685	DECIDE
+289	choose (tr), pick (tr)	choisir	1750	CHOOSE
+290	hesitate	hésiter	3629	HESITATE
+291	abstain	s'abstenir	303	ABSTAIN FROM FOOD
+292	allow, permit	permettre	3237	ALLOW OR PERMIT
+293	forbid	interdire	83	FORBID
+294	prevent	empêcher	1550	PREVENT
+295	plan (n)	projet	3630	PLAN
+296	try	essayer	1812	TRY
+297	succeed	réussir	1112	SUCCEED
+298	fail	échouer	3861	FAIL
+299	pretend	faire semblant	3631	PRETEND
+300	(be) kind	(être) gentil, bon	3299	KIND
+301	(be) generous	(être) généreux	3632	GENEROUS
+302	(be) selfish	(être) égoïste	2018	GREEDY
+303	(be) honest	(être) honnête	1120	HONEST
+304	(be) corrupt	(être) corrompu		
+305	(be) wicked	(être) méchant	45	EVIL
+306	(be) fierce	(être) féroce	2230	UNTAMED OR WILD
+307	(be) jealous	(être) jaloux	2821	JEALOUS
+308	(be) shy	(être) timide	487	SHY
+309	(be) courageous, (be) brave	(être) courageux	3	BRAVE
+310	coward	lâche, poltroon	1319	COWARD
+311	(be) curious	(être) curieux	3633	CURIOUS
+312	(be) eager, (be) zealous	(être) zélé	1880	PASSIONATE
+313	(be) lazy	(être) paresseux	1564	LAZY
+314	(be) patient	(être) patient	3884	PATIENT
+315	(be) impatient	(être) impatient	3885	IMPATIENT
+316	(be) restless, (be) unsettled	(être) agité, troublé		
+317	(be) stubborn	(être) têtu	3634	STUBBORN
+318	reputation	réputation		
+319	hardship, distress	difficulté, détresse		
+320	(be) difficult	(être) difficile	584	DIFFICULT
+321	suffer	souffrir	1101	SUFFER
+322	obstruct	empêcher	2762	BLOCK (THE WAY)
+323	stumbling block, obstruction	obstacle, pierre d'achappement		
+324	danger	danger	1810	DANGER
+325	problem, trouble	problèm, trouble, ennui	2425	PROBLEM
+326	human being, person	personne	683	PERSON
+327	self	le moi, soi-même	1993	SELF
+328	man (male)	homme (mâle)	1554	MAN
+329	woman	femme	962	WOMAN
+330	white man	homme blanc	2839	WHITE MAN
+331	fetus	foetus		
+332	baby	bébé	1289	BABY
+333	twin	jumeau	1005	TWINS
+334	child	enfant	2099	CHILD
+335	boy	garçon	1366	BOY
+336	girl	(petite) fille, filette	1646	GIRL
+337	adult	adulte	3635	ADULT
+338	young man	jeune homme	76	YOUNG MAN
+339	virgin	vierge	2298	VIRGIN
+340	old person	vieillard(e)	725	OLD PERSON
+341	relative (by blood)	parent, relation	1644	RELATIVES
+342	ancestor	ancêtre	1669	ANCESTORS
+343	grandparent	grand-parent	305	GRANDPARENTS
+344	father	père	1217	FATHER
+345	mother	mère	1216	MOTHER
+346	brother (elder/younger)	frère (aîné/cadet)	1262	BROTHER
+347	sister (elder/younger)	soeur (aînée/cadette)	1263	SISTER
+348	father's brother (uncle)	oncle paternel	1985	PATERNAL UNCLE (FATHER'S BROTHER)
+349	mother's brother (uncle)	oncle maternel	2692	MATERNAL UNCLE (MOTHER'S BROTHER)
+350	mother's sister (aunt)	tante maternelle	2693	MATERNAL AUNT (MOTHER'S SISTER)
+351	father's sister (aunt)	tante paternelle	2691	PATERNAL AUNT (FATHER'S SISTER)
+352	cousin	cousin	1643	COUSIN
+353	firstborn	premier-né		
+354	descendant	descendant	490	DESCENDANTS
+355	son	fils	1620	SON
+356	daughter	fille	1357	DAUGHTER
+357	grandchild	petit-fils, petite-fille	1617	GRANDCHILD
+358	nephew	neveu	1063	NEPHEW
+359	name	nom	1405	NAME
+360	namesake	homonyme		
+361	in-law, relative by marriage	relation par mariage, parent par alliance		
+362	husband	mari, époux	1200	HUSBAND
+363	wife	femme, épouse	1199	WIFE
+364	fellow-wife, co-wife	co-épouse	3636	CO-WIFE
+365	father-in-law	beau-père	1055	FATHER-IN-LAW
+366	mother-in-law	belle-mère	1050	MOTHER-IN-LAW
+367	brother-in-law	beau-frère	2314	BROTHER-IN-LAW
+368	sister-in-law	belle-soeur	2317	SISTER-IN-LAW
+369	son-in-law	beau-fils	1056	SON-IN-LAW
+370	daughter-in-law	belle-fille	1057	DAUGHTER-IN-LAW
+371	widow	veuve	1756	WIDOW
+372	widower	veuf	1981	WIDOWER
+373	orphan	orphelin	1149	ORPHAN
+374	fiancé (betrothed boyfriend)	fiancé		
+375	fiancée (betrothed girlfriend)	fiancée		
+376	bastard, illegitimate child	bâtard, enfant illégitime	1947	BASTARD
+377	tribe, ethnic group	tribu, ethnie	1549	TRIBE
+378	clan	clan	302	CLAN
+379	family	famille	194	FAMILY
+380	friend	ami, camarade	1325	FRIEND
+381	neighbour	voisin	1332	NEIGHBOUR
+382	acquaintance	(une) connaissance		
+383	host	hôte (une accueille)	1545	HOST
+384	guest, visitor	hôte, visiteur, invité, <<étranger>>	1782	GUEST
+385	stranger (unknown person)	étranger (inconnuu)	791	STRANGER
+386	enemy	ennemi	1358	ENEMY
+387	traitor	traitre		
+388	thief	voleur	1160	THIEF
+389	guide (n)	guide	43	LEAD (GUIDE)
+390	messenger	messager		
+391	crowd	foule	2023	CROWD
+392	chief, headman	chef	301	CHIEFTAIN
+393	elder	ancien	725	OLD PERSON
+394	master	maître	383	MASTER
+395	slave	esclave	812	SLAVE
+396	farmer	cultivateur	979	FARMER
+397	fisherman	pêcheur	1858	FISHERMAN
+398	hunter	chasseur	1053	HUNTER
+399	blacksmith	forgeron	1001	BLACKSMITH
+400	potter	potier	359	POTTER
+401	weaver	tisserand	3637	WEAVER
+402	butcher (n)	boucher	2569	BUTCHER
+403	trader	commercant		
+404	(domestic) servant	domestique, servante, serviteur	255	SERVANT
+405	beggar	mendiant	1934	BEGGAR
+406	soldier	soldat	1941	SOLDIER
+407	prostitute	prostituée	1610	PROSTITUTE
+408	midwife	sage-femme, accoucheuse	3859	MIDWIFE
+409	medicine man, traditional healer	guérisseur traditionnel, chaman	394	SHAMAN (FOLK HEALER)
+410	fetish priest	féticheur	394	SHAMAN (FOLK HEALER)
+411	sorcerer (male)	sorcier	823	SORCERER
+412	witch (female)	sorcière	824	WITCH
+413	fortune-teller, diviner	devin, diseur		
+414	meet, encounter	rencontrer	1831	MEET
+415	accompany	accompagner	1542	ACCOMPANY
+416	(be) together	(être) ensemble	2482	TOGETHER
+417	assemble, meet together	se rassembler	3638	ASSEMBLE (GET TOGETHER)
+418	invite	inviter	1611	INVITE
+419	(be) alone	(être) seule, solitaire	1964	ALONE
+420	abandon	abandoner	1097	ABANDON
+421	flee, run away from	s'enfuir, fuir, s'échapper	2142	RUN AWAY
+422	drive away	chasser	30	DISPEL
+423	avoid	éviter	3639	AVOID
+424	(be) same	(être) le même	200	SAME
+425	(be) different	(être) différent	2504	DIFFERENT
+426	resemble	ressembler	1777	RESEMBLE
+427	imitate	imiter	117	IMITATE
+428	admire	admirer		
+429	befit, suit	convenir (à qqn)	764	SUIT
+430	language	langue, langage	1307	LANGUAGE
+431	word	mot, parole	1599	WORD
+432	meaning (n)	sense, signification	2950	MEANING
+433	say	dire	1458	SAY
+434	voice	voix	1363	VOICE
+435	speak, talk	parler	1623	SPEAK
+436	whisper (v)	chuchoter	55	WHISPER
+437	shout (v), cry out	hurler, parler fort, crier	715	SHOUT
+438	chat (v)	causer, bavarder	2903	CHAT (WITH SOMEBODY)
+439	mumble	marmonner, bredouiller	128	MUMBLE
+440	stutter	bégayer	1866	STUTTER
+441	(be) eloquent	(être) éloquent		
+442	(be) silent	se taire, (être) silencieux	48	BE SILENT
+443	greet (v)	saluer	3552	GREET
+444	call (someone)	appeler, interpeller	1084	CALL
+445	say goodbye, take leave of	prendre congé, faire ses adieux		
+446	announce	annoncer	9	ANNOUNCE
+447	announcement	annonce		
+448	news	nouvelles	2964	NEWS
+449	explain	expliquer	1626	EXPLAIN
+450	advise	counseiller		
+451	gossip (v)	faire des commérages	3640	GOSSIP
+452	lie (n) (falsehood)	mensonge	2826	LIE (FALSEHOOD)
+453	ask, request	demander	1828	ASK (REQUEST)
+454	plead, implore	supplier, implorer		
+455	request (n)	demande, requête	1828	ASK (REQUEST)
+456	answer, reply (v)	répondre	1275	ANSWER
+457	thank	remercier	2412	THANK (SOMEBODY)
+458	promise (n)	promesse	1675	PROMISE
+459	oath	serment	1712	OATH
+460	swear	jurer, prêter serment	1939	SWEAR
+461	insult (v)	insulter	3204	INSULT
+462	insult (n)	insulte	3204	INSULT
+463	slander (v)	calomnier	3641	SLANDER
+464	threaten	menacer	1192	THREATEN
+465	argue	se disputer	3302	QUARREL (VERB)
+466	argument	dispute		
+467	grumble, complain	se plaindre, râler	3642	COMPLAIN
+468	contradict	contredire		
+469	accuse	accuser	1814	ACCUSE
+470	deny	nier	755	DENY
+471	admit (to a wrong)	admettre, avouer (un tort)	2022	ADMIT
+472	agree	être/ se mettre d'accord	3643	AGREE
+473	agreement	accord	3644	AGREEMENT
+474	persuade	persuader	3645	PERSUADE
+475	praise (n)	louange	1687	PRAISE
+476	bless, praise (someone)	bénir, louer	1687	PRAISE
+477	congratulate	féliciter		
+478	boast, brag	se vanter	101	BOAST
+479	tell, recount (story)	raconter (un conte)	1711	TELL
+480	story (tale)	conte, histoire	2060	STORY
+481	proverb	proverbe	3646	PROVERB
+482	speech, discourse	discours	1115	SPEECH
+483	account (report) (n)	rapport, compte rendu	1081	BILL
+484	embrace, hug (v)	embrasser, êtreindre	928	EMBRACE
+485	caress (v)	caresser		
+486	kiss (v)	embrasser, donner un baiser	578	KISS
+487	copulate, have sexual intercourse	faire l'amour, avoir des relations sexuelles	549	COPULATE
+488	nurse, suckle (baby) (tr)	téter, allaiter	2472	SUCKLE (BREASTFEED, NURSE)
+489	tickle (v)	chatouiller	3647	TICKLE (SOMEBODY)
+490	spank (child)	donner une fessée, fesser		
+491	whip (n)	fouet, chicotte	2630	WHIP
+492	help	aider	1897	HELP
+493	protect, defend	protéger, défendre	2900	PROTECT
+494	look after	prendre soin (de qqn)	253	CARE FOR
+495	bring up (a child)	élever (un enfant)	2134	RAISE (BRING UP)
+496	rule over, dominate	gouverner, dominer	1846	RULE
+497	order (someone to do something)	commander, ordonner (à qqn de faire qqch)	1128	ORDER
+498	command (n)	ordre	1998	COMMAND
+499	duty, obligation	(un) devoir, obligation	3471	OBLIGATION (DUTY)
+500	send (someone to do something)	envoyer en commission	1127	SEND
+501	serve	servir	3648	SERVE (SOMEONE)
+502	lead, guide (v)	diriger, guider	43	LEAD (GUIDE)
+503	follow	suivre	1085	FOLLOW
+504	obey	obéir	1635	OBEY
+505	please, satisfy	plaire, satisfaire	1271	DELIGHT
+506	annoy, disturb	embêter, déranger, ennuyer	2869	BOTHER (HARASS)
+507	deceive	tromper, décevoir	3230	DECEIVE
+508	quarrel	querelle	1848	QUARREL
+509	fight	se battre, combattre	1423	FIGHT
+510	stab	poignarder	1434	STAB
+511	kill, murder	tuer	1417	KILL
+512	take revenge	se venger	495	REVENGE
+513	resolve, settle (dispute)	résoudre, régler (une dispute)		
+514	intercede, mediate	intercéder, servir d'intermédiaire		
+515	compromise	compromis		
+516	appease, pacify	apaiser		
+517	steal	voler (dérober)	713	STEAL
+518	rape	viol	953	RAPE
+519	judge (v)	juger	1818	ADJUDICATE
+520	law	loi	1062	LAW
+521	(be) fair, just	(être) juste	84	JUST
+522	(be) guilty	(être) coupable	1682	GUILTY
+523	(be) innocent	(être) innocent	90	INNOCENT
+524	punish	punir	3649	PUNISH
+525	penalty, punishment	pénalité, punition	390	PUNISHMENT
+526	dwell, inhabit	habiter	363	DWELL (LIVE, RESIDE)
+527	inhabitant, resident	habitant, résident		
+528	bush dweller	habitant de la brousse, campagnard		
+529	move away, migrate	émigrer, déménager	229	MOVE AWAY
+530	country, ethnic area	pays	1300	COUNTRY
+531	frontier (of ethnic area)	frontière (de pays)	2546	BORDER
+532	town, city	ville	1391	TOWN
+533	village	village	930	VILLAGE
+534	camp, encampment	campement	1105	CAMP
+535	market (n)	marché	633	MARKET
+536	article of clothing, clothes	vêtement(s), habit(s)	1895	CLOTHES
+537	wear clothes	porter des vêtements	976	WEAR
+538	dress (v)	s'habiller, se vétir	814	DRESS UP
+539	undress	se déshabiller	1755	UNDRESS
+540	(be) naked	(être) nu	590	NAKED
+541	hat	chapeau	771	HAT
+542	shirt	boubou	1622	SHIRT
+543	trousers	pantalon	809	TROUSERS
+544	loincloth	pagne, cache-sexe	1965	LOINCLOTH
+545	robe (man's gown)	boubou	461	BOUBOU
+546	cloth worn by a woman	pagne (de femme)		
+547	baby sling	écharpe (pour porter bébé)	3946	BABY SLING
+548	shoe, sandal	chaussure, sandale	1381	SHOE
+549	bead	perle	1860	BEAD
+550	string, thread (beads) (v)	enfiler (perles)		
+551	bracelet	bracelet	1754	BRACELET
+552	necklace	collier	1961	NECKLACE
+553	ankle ring, bangle	anneau de cheville	1754	BRACELET
+554	ring (finger)	bague, anneau (de doigt)	1374	RING
+555	earring	boucle d'oreille	770	EARRING
+556	pierce (ears)	percer les oreilles	398	PIERCE
+557	labret, lip plug, lip disk	labret		
+558	plait, braid (hair)	tresser (les cheveux)	3295	BRAID (VERB)
+559	(facial) incision(s), tattoo(s)	scarification(s), tatouage(s)	68	TATTOO
+560	cane, walking stick	canne	1296	WALKING STICK
+561	bathe, wash oneself	se laver	138	BATHE
+562	apply (ointment), besmear	s'enduire	3650	APPLY (OINTMENT)
+563	wipe off (excreta)	s'essuyer (des excréments)	1454	WIPE
+564	cut (hair)	couper les cheveux	2155	CUT (WITH SCISSORS)
+565	shave (v)	se raser	231	SHAVE
+566	razor	rasoir	151	RAZOR
+567	comb (n)	peigne	1475	COMB
+568	tooth stick, toothbrush	brosse à dents, frotte-dents en bois	2579	TOOTHBRUSH
+569	food	aliments, nourriture	256	FOOD
+570	meat	viande	634	MEAT
+571	fat	graisse	323	FAT (ORGANIC SUBSTANCE)
+572	oil	huile	2556	OIL (HYDROPHOBIC LIQUID)
+573	soup, broth	soupe	1547	SOUP
+574	pap, mushy food	bouillie	3651	MUSH (FOOD)
+575	bread	pain	1368	BREAD
+576	crust (n)	croûte		
+577	flour	farine	1594	FLOUR
+578	salt	sel	1274	SALT
+579	breakfast	petit déjeuner	1322	BREAKFAST
+580	evening meal	repas du soir	1833	DINNER (SUPPER)
+581	feast	fête	131	FESTIVAL
+582	leftovers	les restes		
+583	spoil (food) (intr)	pourrir, se gâter (aliments)	569	SPOIL (BECOME SPOILED)
+584	mould (n)	moisissure	3251	MOLD (GET ROTTEN)
+585	milk (n)	lait	635	MILK
+586	curdled milk	lait caillé		
+587	alcohol (general)	alcool (général)	404	ALCOHOL (FERMENTED DRINK)
+588	beer (traditional)	bière (traditionelle)	1639	BEER
+589	mead, honey beer	hydromel (bière de miel)	941	MEAD
+590	palm wine	vin de palme	404	ALCOHOL (FERMENTED DRINK)
+591	prepare (food to cook)	préparer (la nourriture)	2909	PREPARE
+592	cut (tr)	couper	1432	CUT
+593	cut open (fruit)	fendre, ouvrir avec un couteau (fruit)	3080	SPLIT OPEN
+594	slice	trancher	2954	SLICE
+595	peel (v)	peler, éplucher	275	PEEL
+596	mix (v)	mélanger	2017	MIX
+597	stir	remuer	696	STIR
+598	strain (food) (v)	passer, filtrer, égoutter	940	STRAIN
+599	pound	piler	354	POUND
+600	grind	moudre	1033	GRIND
+601	knead	pétrir	274	KNEAD
+602	pluck (feathers)	plumer, arracher les plumes	2148	PICK
+603	cook (v)	(faire) cuire, cuisiner	1100	COOK (SOMETHING)
+604	roast	rôtir	1962	ROAST (SOMETHING)
+605	fry	frire	991	FRY
+606	bake (in ashes)	faire cuire (dans les cendres)	183	BAKE
+607	(be) smoked	(être) fumé		
+608	boil (water), bubble up	(faire) bouillir (l'eau), bouillonner	792	BOIL (OF LIQUID)
+609	ferment (alcohol) (v)	fermenter	3652	FERMENT
+610	cooking pot (earthenware)	marmite (en terre)	3653	COOKING POT
+611	metal pot	pot (en métal)		
+612	pot (for water)	jarre (à eau)	1462	POT
+613	ladle	louche	2657	LADLE
+614	cooking stone	pierre de foyer		
+615	grinding stone	pierre à moudre	2459	GRINDSTONE
+616	upper grinding stone	meule supérieure	3022	TOP GRINDSTONE
+617	lower grinding stone	meule inférieure	3023	BOTTOM GRINDSTONE
+618	pestle, pounding stick	pilon	225	PESTLE
+619	mortar, pounding pot	mortier	224	MORTAR
+620	plate	assiette	480	PLATE
+621	bowl	bol, assiette creuse	1530	BOWL
+622	cup	gobelet, coupe, tasse	476	CUP
+623	spoon (traditional)	cuillère (traditionelle)	1378	SPOON
+624	bag	sac	2468	BAG
+625	box	carton, boîte	1465	BOX
+626	basket	panier, corbeille	1539	BASKET
+627	bucket, pail	seau	2052	BUCKET
+628	calabash	calebasse	3918	CALABASH
+629	bottle	bouteille	1321	BOTTLE
+630	stopper, plug	bouchon		
+631	handle	poignée, manche, anse	1254	HANDLE
+632	pour	verser	1487	POUR
+633	spill (liquid) (tr)	renverser, répandre (un liquide)	3130	SPILL (SOMETHING)
+634	take out (from container)	enlever, sortir (d'un récipient)	3654	TAKE OUT
+635	fill	remplir	2006	FILL
+636	(be) full	(être) plein	1429	FULL
+637	(be) empty	(être) vide	1624	EMPTY
+638	(be) open	(être) ouvert	3235	OPEN (STATE)
+639	open (tr)	ouvrir (une porte)	1156	OPEN
+640	close, shut (tr)	fermer (un carton, une porte)	1046	SHUT
+641	stop up	boucher		
+642	cover (v)	couvrir	761	COVER
+643	uncover	découvrir	1108	UNCOVER
+644	store (up)	garder, mettre en réserve, magasiner	3655	STORE UP
+645	bundle (n)	paquet, faisceau	2943	BUNDLE
+646	heap (n)	tas	2984	HEAP
+647	heap up	entasser	1576	PILE UP
+648	wrap up	envelopper	1113	WRAP
+649	unwrap	déballer,défaire (paquet)		
+650	pack (v)	emballer, empaqueter	3656	PACK
+651	strap (n)	courroie, sangle	2973	STRAP
+652	string (n)	ficelle	362	STRING
+653	rope	corde	1218	ROPE
+654	knot	noeud	760	KNOT
+655	fasten, bind (load)	attacher, lier (un fardeau)	1094	FASTEN
+656	tie (knot)	detacher, dénouer	1917	TIE
+657	untie	detacher, dénouer, délier	352	UNTIE
+658	tighten (tr)	serer	1094	FASTEN
+659	(be) tight	(être) serré	3053	TIGHT
+660	loosen	deserrer, relâcher	1933	LOOSEN
+661	(be) loose, slack	(être) lâche, desserré	2506	LOOSE
+662	compound, house	concession, maison	1252	HOUSE
+663	hut	case	1678	HUT
+664	wall	mur	3830	WALL
+665	door, doorway cover	porte	1567	DOOR
+666	doorway	entrée, seuil	1567	DOOR
+667	window	fenêtre	1375	WINDOW
+668	roof	toit	769	ROOF
+669	beam, rafter	poutre	1132	BEAM
+670	floor	plancher, sol	1632	FLOOR
+671	room	pièce (de maison)	1450	ROOM
+672	bedroom	chambre (à coucher)	2505	BEDROOM
+673	kitchen	cuisine	1365	KITCHEN
+674	entrance hut	case d'entrée		
+675	courtyard	cour	4	COURTYARD
+676	fence (n)	clôture	1690	FENCE
+677	fence in (v)	clôturer		
+678	granary	grenier	3657	GRANARY
+679	well (n)	puits	954	WELL
+680	bathing place	lieu de douche		
+681	latrine, toilet	latrine, toilette, lieu d'aisance	219	TOILET
+682	garbage dump	dépotoir, "poubelle"		
+683	garden	jardin	586	GARDEN
+684	shelter (n)	abri	1678	HUT
+685	build	construire, bâtir	1840	BUILD
+686	mark out, peg out (ground)	délimiter, piqueter		
+687	mud block	brique (en argile)		
+688	thatch (n)	chaume	279	THATCH
+689	plaster (n)	crépissage, plâtre		
+690	lime, whitewash	chaux	2540	LIME (MATERIAL)
+691	paint (n)	peinture	647	PAINT (PIGMENTS)
+692	ladder	échelle	1464	LADDER
+693	chair	chaise	1476	CHAIR
+694	stool	tabouret, siege	2058	STOOL
+695	wickerwork	vannerie		
+696	bed	lit	1663	BED
+697	mat	natte	195	MAT
+698	lamp, torch	lampe, torche	2131	TORCH OR LAMP
+699	fan (n)	éventail	1971	FAN (OBJECT)
+700	bell	cloche	2246	BELL
+701	ring (bell) (v)	sonner (une cloche)	2875	RING (MAKE SOUND)
+702	act, do	faire, agir	813	DO
+703	work (n)	travail	984	WORK (LABOUR)
+704	mend, repair	réparer	2243	REPAIR
+705	forge (n)	forge	288	FORGE
+706	hammer	marteau	1481	HAMMER
+707	anvil	enclume	1648	ANVIL
+708	bellows	soufflet	3658	BELLOWS
+709	lump (clay, mud)	motte (d'argile)		
+710	mould (pottery)	moule (poterie)	289	MOLD
+711	potter's kiln	four de potier		
+712	wood	bois	1803	WOOD
+713	cut down (tree)	abattre (un arbre)	355	CUT DOWN
+714	log	bûche, rondin, bille	1803	WOOD
+715	hollow out (log)	creuser, évider (rondin)	46	HOLLOW OUT
+716	axe	hache	677	AXE
+717	chop into pieces	découper, couper en morceaux	2149	CHOP (INTO PIECES)
+718	saw (n)	scie	1948	SAW
+719	saw (wood) (v)	scier	3543	SAW (SOMETHING)
+720	plank (n)	planche	1227	BOARD
+721	knot (in wood)	noeud (dans le bois)	760	KNOT
+722	splinter, sliver (n)	écharde, éclat	124	THORN
+723	chisel (n)	ciseau	1979	CHISEL
+724	nail (n)	clou, pointe	502	NAIL (TOOL)
+725	sew	coudre	1457	SEW
+726	needle	aiguille	1382	NEEDLE (FOR SEWING)
+727	thread (n)	fil	1161	THREAD
+728	hem (n)	ourlet, bord		
+729	pocket	poche	1851	POCKET
+730	(be) torn	(être) déchiré		
+731	weave	tisser	133	WEAVE
+732	cloth	tissu	1616	CLOTH
+733	rag	chiffon	332	RAG
+734	broom	balai	245	BROOM
+735	sweep	balayer	230	SWEEP
+736	polish	polir, cirer	3659	POLISH (SOMETHING)
+737	wash (clothes, utensils)	laver (habits)	1453	WASH
+738	draw water	puiser (de l'eau)	1911	DRAW (WATER)
+739	fetch (firewood)	chercher des fagots	3551	FETCH
+740	dig	creuser	1418	DIG
+741	rubbish	ordures	909	GARBAGE
+742	cultivate, farm (v)	cultiver	1541	CULTIVATE
+743	field	champ	212	FIELD
+744	boundary (of field)	borne (d'un champ)	1010	BOUNDARY
+745	fertile soil	sol fertile		
+746	(be) barren (of land)	stérile, improductif (sol)		
+747	clear (land for planting)	défricher (la terre pour planter)		
+748	sow, plant	semer, planter	1486	PLANT (SOMETHING)
+749	transplant	transplanter, repiquer	2064	SCATTER (SEEDS)
+750	weed (v)	enlever des mauvaises herbes; sarcler	3548	PULL UP WEEDS
+751	hoe (v)	biner	1541	CULTIVATE
+752	hoe (n)	houe, 'daba'	284	HOE
+753	big hoe	grande houe		
+754	sickle	faucille	341	SICKLE
+755	machete, cutlass	machette, coupe-coupe	2680	MACHETE
+756	harvest season	moisson, récolte	3327	AUTUMN OR HARVEST SEASON
+757	harvest (maize) (v)	récolter (le maïs)	1827	HARVEST CROPS
+758	harvest, dig up (yams)	récolter, déterrer (ignames)	1827	HARVEST CROPS
+759	pick, pluck (fruit)	cueillir (fruit)	2148	PICK
+760	harvest, collect (honey from hive)	récolter, recueiller (le miel)	7	GATHER
+761	threshing-floor	aire de battage	223	THRESHING-FLOOR
+762	thresh, beat (grain)	battre (la céréale)	285	THRESH
+763	winnow (n)	van	2462	WINNOWING
+764	winnow, throw in air (grain) (v)	vanner	2462	WINNOWING
+765	shell (groundnuts) (v)	décortiquer (arachides)	3660	SHELL (SOMETHING)
+766	husk (corn) (v)	décortiquer (maïs)	275	PEEL
+767	domesticate, tame	domestiquer, apprivoiser	3901	TAMING
+768	herd (cattle, sheep) (n)	troupeau (boeufs, moutons)	1153	CATTLE
+769	herd, tend (cattle, sheep) (v)	mener, conduire (troupeau)	2885	HERD (SOMETHING)
+770	cattle pen	enclos (de bétail)		
+771	tether (sheep, goats) (v)	attacher (moutons, chèvres)	2891	TIE UP (TETHER)
+772	feed (animals)	donner à manger (aux animaux)	739	FEED
+773	milk (cows, goats) (v)	traire (vaches, chèvres)	93	DRAW MILK
+774	castrate	châtrer, castrer	29	GELD
+775	hunt (v)	chasser	1435	HUNT
+776	stalk (v)	traquer		
+777	chase (v)	poursuivre, faire la chasse	1047	PURSUE
+778	track (animal) (n)	trace (des pas d'animal)		
+779	footprint (human)	empreinte (de pied d'homme)	318	FOOTPRINT
+780	bow (hunting)	arc (de chasse)	994	BOW
+781	arrow	flèche	977	ARROW
+782	poison (on arrow)	poison (sur une flèche)	655	POISON
+783	head of arrow	fer, pointe (de flèche)	2992	TIP (OF OBJECT)
+784	quiver (n)	carquois	995	QUIVER (FOR ARROWS)
+785	lance (spear) (n)	lance (javelot)	945	SPEAR
+786	knife	couteau	1352	KNIFE
+787	throwing stick (n), throwing knife	couteau de jet	135	BOOMERANG
+788	club, cudgel	massue	1763	CLUB
+789	hunting net	filet de chasse		
+790	birdlime (adhesive to catch birds)	glu (pour prendre les oiseaux)		
+791	trap (n)	piège	1075	TRAP (PITFALL)
+792	set (trap)	tendre (un piège)		
+793	trap (animal) (v)	prendre au piège	1170	TRAP (CATCH)
+794	evade	esquiver, éviter		
+795	escape	échapper, s'évader	1615	ESCAPE
+796	wound (animal)	blesser (un animal)	44	INJURE
+797	slaughter, kill (animal for butchering)	égorger, abattre (un animal)	1796	SLAUGHTER
+798	skin (animal) (v)	écorcher (peau d'animal)	291	PULL OFF (SKIN)
+799	fish (v)	pêcher, aller à la pêche	2638	FISHING
+800	fish dam	barrage de poissons		
+801	fish trap	nasse	389	FISH TRAP
+802	fishing net	filet de pêche, "épervier"	388	FISHNET
+803	fishing line	ligne de pêche	19	FISHING LINE
+804	fishhook	hameçon	1074	FISHHOOK
+805	bait	appât	2013	BAIT
+806	have, possess	avoir, posséder	773	HAVE
+807	need (v)	avoir besoin	2339	NEED (SOMETHING)
+808	get, obtain	obtenir, recevoir	694	GET
+809	give	donner	1447	GIVE
+810	return (tr), give back	rendre, renvoyer	85	GIVE BACK
+811	belongings	biens, possessions	3860	POSSESSIONS
+812	owner	propriétaire	1036	OWNER
+813	rich man	(un) riche	3661	RICH PERSON
+814	poor man	(un) pauvre	3662	POOR PERSON
+815	(be) rich	(être) riche	712	RICH
+816	(be) poor	(être) pauvre	1674	POOR
+817	money	argent, monnaie	1559	MONEY
+818	cowrie shell	cauris	3663	COWRIE SHELL
+819	barter, exchange (of goods)	échange (des marchandises)	370	BARTER
+820	buy	acheter	1869	BUY
+821	sell	vendre	1571	SELL
+822	(be) scarce	(être) peu abondant, rare		
+823	(be) expensive	(être) cher, coûteux	1426	EXPENSIVE
+824	(be) inexpensive	(être) bon marché, "moins cher"	1887	CHEAP
+825	price	prix	657	PRICE
+826	haggle, negotiate a price	marchander, débattre le prix		
+827	payment	paiement, versement		
+828	pay (for goods, services, etc.)	payer (les marchandises, les services)	718	PAY
+829	gift	cadeau, don	2982	GIFT
+830	hire (v)	louer, embaucher	856	HIRE
+831	beg (for money)	mendier	3534	BEG
+832	borrow	emprunter	1823	BORROW
+833	lend	prêter	582	LEND
+834	debt	dette	1914	DEBT
+835	offer (v)	offrir		
+836	accept, receive	accepter, recevoir	694	GET
+837	refuse	refuser	49	REFUSE
+838	tax (n)	taxe	873	TAX
+839	tribute	tribute	873	TAX
+840	inheritance	héritage		
+841	inherit	héritier	3664	INHERIT
+842	journey, trip (n)	voyage	2393	JOURNEY
+843	travel, go on a trip (v)	voyager	3665	TRAVEL
+844	traveler	voyageur		
+845	wander	errer	3666	WANDER
+846	(be) lost	(être) perdu, égaré	3667	LOST
+847	path, road	chemin, route	2457	PATH OR ROAD
+848	fork (in path)	bifurcation, embranchement (de la route)		
+849	crossroads, intersection	carrefour		
+850	cross (river)	traverser (un rivière)	574	TRANSIT
+851	canoe	pirogue, canoë	1970	CANOE
+852	paddle (n)	pagaie	234	PADDLE
+853	paddle (v)	pagayer	3668	PADDLE (MOVEMENT)
+854	bale out (canoe, boat)	écoper (pirogue, bateau)	1844	BOAT
+855	capsize	se renverser, chavirer		
+856	bring	apporter, amener	692	BRING
+857	take (away), carry away	emporter, emmener	1749	TAKE
+858	send (something to someone)	envoyer (qqch à qqn)	1127	SEND
+859	carry (in arms)	porter dans les bras	412	CARRY IN HAND
+860	carry (child) on back	porter (enfant) sur le dos	465	CARRY ON BACK
+861	carry on head	porter sur la tête	414	CARRY ON HEAD
+862	headpad	coussin de tête		
+863	load, burden (n)	charge, fardeau	1679	LOAD
+864	load (v)	charger	3669	LOAD (SOMETHING)
+865	unload	décharger		
+866	war	guerre	935	WAR
+867	peace	paix	1338	PEACE
+868	army	armée	1561	ARMY
+869	spy (n)	espion		
+870	spy (v), spy on	espionner		
+871	sword	épée	1535	SWORD
+872	gun	fusil	1566	GUN
+873	shield (n)	bouclier	1064	SHIELD
+874	conquer, defeat	vaincre	782	DEFEAT
+875	(be) defeated	(être) vaincu, battu, défait	3535	BE DEFEATED
+876	prisoner, captive	prisonnier, captif	1072	PRISONER
+877	plunder (a town)	piller (un village)	3670	PLUNDER
+878	music	musique	642	MUSIC
+879	song	chant, chanson	1096	SONG
+880	sing	chanter	1261	SING
+881	hum (v)	fredonner, chantonner	3671	HUM
+882	whistle (v)	siffler	1025	WHISTLE
+883	dance (n)	danse (n)	3472	DANCE (MOVEMENT)
+884	dance (v)	danser	1879	DANCE
+885	big(gest) drum	grand tambour		
+886	small(est) drum	petit tambour		
+887	talking drum	tambour qui parle		
+888	hour glass drum	tambour en forme de sablier		
+889	flute	flute	777	FLUTE
+890	harp	harpe, cithère	2597	HARP
+891	balafon	balafon		
+892	horn (musical instrument)	cor (instrument de musique)	939	HORN (INSTRUMENT)
+893	shell (musical instrument)	coquille (instrument de musique)		
+894	rattle (musical instrument)	hochet (instrument de musique)	300	RATTLE
+895	play instrument	jouer (d'un instrument)	3124	PLAY (INSTRUMENT)
+896	blow (horn)	souffler dans (un cor)	176	BLOW (WITH MOUTH)
+897	draw (picture)	dessiner	2001	PAINTING
+898	decorate	décorer	1739	DECORATE
+899	carve	tailler	228	CARVE
+900	play (child) (intr)	jouer, s'amuser	1413	PLAY
+901	game	jeu	2467	GAME
+902	tobacco pipe	pipe à tabac	1124	PIPE
+903	pipe-stem	tuyau (de pipe)		
+904	tobacco	tabac	974	TOBACCO
+905	awe, reverence (for God)	crainte révérentielle, vénération	3851	AWE
+906	God (supreme being)	Dieu (être suprême)	3231	DEITY
+907	god (lesser), fetish (spirit)	dieu, fétiche (esprit)	53	SPIRIT
+908	demon, evil spirit	démon, esprit mauvais	1973	DEMON
+909	ghost (visible apparition)	spectre (apparition visible)	1175	GHOST
+910	soul, spirit (of living person)	âme, esprit	811	SOUL
+911	spirit (of dead person) (invisible)	esprit (invisible) d'un défunt	53	SPIRIT
+912	pray	prier	24	PRAY
+913	blessing	bénédiction		
+914	divine, prophesy (v)	présager, prophétiser	226	TELL FORTUNES
+915	prophecy (n)	prophétie		
+916	vision (supernatural)	vision (surnaturelle)	2519	SEEING (VISUAL SENSE)
+917	omen	augure, presage	107	OMEN
+918	witchcraft	sorcellerie	392	MAGIC
+919	bewitch, cast spell	ensorceler	118	BEWITCH
+920	curse (v)	maudire	8	CURSE
+921	curse (n)	malédiction	8	CURSE
+922	poison (n)	poison	655	POISON
+923	poison (a person) (v)	empoisonner		
+924	amulet, charm, fetish	fétiche, amulette	2804	AMULET
+925	protect by charm	protéger par fétiche		
+926	mask (n)	masque	2005	MASK
+927	(be) taboo	être interdit, tabou		
+928	exorcise	exorser		
+929	sacrifice	sacrifice	1103	SACRIFICE
+930	pour libation	verser une libation		
+931	dwelling place of the dead (spiritual)	séjour des morts (spirituel)		
+932	tradition, custom	tradition, coutume	1747	CUSTOM
+933	feast (n)	fête, festin	131	FESTIVAL
+934	naming ceremony (baby)	cérémonie de "baptême" (dation du nom au bébé)		
+935	circumcision (male)	circoncision (masculine)	393	CIRCUMCISION
+936	excision (female)	excision (féminine)	393	CIRCUMCISION
+937	initiation (male)	initiation (masculine)	1946	INITIATION CEREMONY
+938	initiation (female)	initiation (féminine)	1946	INITIATION CEREMONY
+939	marry	se marier, épouser	203	MARRY
+940	marriage (state of wedlock)	mariage (par la cérémonie), alliance	2432	MARRIAGE
+941	(be) engaged, (be) betrothed	(être) fiancé		
+942	brideprice (for bride's family)	dot (pour la famille de la mariée)	3024	BRIDE PRICE
+943	wedding (ceremony)	mariage (cérémonie)	1259	WEDDING
+944	bride	mariée	1266	BRIDE
+945	groom	marié	3282	GROOM
+946	polygamy	polygamie		
+947	adultery	adultère	902	ADULTERY
+948	divorce (v)	divorcer	3672	DIVORCE (SEPARATE)
+949	funeral (at occasion of death)	funérailles (à l'occasion de la mort), obsèques	3336	FUNERAL
+950	mourning	deuil	3673	MOURNING
+951	wail, ululate (at funeral) (v)	pleurer, gémir, ululer	1839	CRY
+952	condole, comfort (v)	offrir les condoléances, consoler		
+953	corpse	cadavre	767	CORPSE
+954	bury	enterrer, ensevelir	1719	BURY
+955	grave	tombe, tombeau	1773	GRAVE
+956	cemetery	cimetière	3284	GRAVEYARD
+957	animal	animal	619	ANIMAL
+958	ox (general term), bovine	boeuf, bovidé	1169	OX
+959	bull	taureau	1008	BULL
+960	cow (female)	vache	1007	COW
+961	heifer	génisse		
+962	steer	bouvillon, boeuf châtré		
+963	calf	veau	1989	CALF
+964	herd (of cattle)	troupeau (de boeufs)	1153	CATTLE
+965	goat	chèvre	1502	GOAT
+966	he-goat, billy goat	bouc	2475	MALE GOAT
+967	she-goat, nanny goat	chèvre (femelle)	2476	FEMALE GOAT
+968	kid	cabri, chevreau	1972	YOUNG GOAT (KID)
+969	sheep	mouton	1331	SHEEP
+970	ram	bélier	1344	RAM
+971	ewe	brebis	1345	EWE
+972	lamb	agneau	820	LAMB
+973	flock (of sheep, goats)	troupeau (de moutons, de chèvres)	2939	FLOCK (OF ANIMALS)
+974	chicken	poulet	1318	CHICKEN
+975	rooster (cock)	coq	1511	ROOSTER
+976	hen	poule	1514	HEN
+977	chick	poussin	2512	CHICK
+978	turkey	dindon	2386	TURKEY
+979	guinea fowl	pintade	456	GUINEA FOWL
+980	duck	canard	1360	DUCK
+981	camel	chameau	1871	CAMEL
+982	horse	cheval	615	HORSE
+983	stallion	étalon	936	STALLION
+984	mare (female horse)	jument	938	MARE
+985	colt	poulain	1647	FOAL
+986	donkey	âne	1862	DONKEY
+987	pig	porc, cochon	1337	PIG
+988	boar (male pig)	verrat, cochon mâle	1348	BOAR (MALE PIG)
+989	sow (female pig)	truie, cochon femelle	1351	SOW (FEMALE PIG)
+990	piglet	porcelet, goret, cochonnet	2564	PIGLET
+991	dog	chien	2009	DOG
+992	pup	chiot	74	PUPPY
+993	cat	chat	1208	CAT
+994	kitten	chaton		
+995	elephant	éléphant	1290	ELEPHANT
+996	hippopotamus	hippopotame	3145	HIPPOPOTAMUS
+997	buffalo	buffle	2516	WATER BUFFALO
+998	rhinoceros	rhinocéros	2591	RHINOCEROS
+999	giraffe	giraffe	3089	GIRAFFE
+1000	warthog	phacochère		
+1001	monkey	singe	1350	MONKEY
+1002	baboon	babouin	1197	BABOON
+1003	hyena	hyène	1799	HYENA
+1004	jackal	chacal	3313	JACKAL
+1005	antelope	antilope	3674	ANTELOPE
+1006	zebra	zebra	3675	ZEBRA
+1007	anteater, aardvark, antbear	fourmilier	181	ANTEATER
+1008	pangolin, scaly anteater	pangolin	2508	PANGOLIN
+1009	mouse	souris	1491	MOUSE
+1010	rat	rat	1490	RAT
+1011	cane rat, cutting grass, grass cutter	aulacode (grand), rat de canne		
+1012	palm rat	rat de palme		
+1013	shrew	musaraigne	3676	SHREW
+1014	mole	taupe	1907	MOLE
+1015	mongoose	mangouste	3677	MONGOOSE
+1016	hare	lièvre	1190	HARE
+1017	squirrel	écureuil	1628	SQUIRREL
+1018	porcupine	porc-épic	2510	PORCUPINE
+1019	bat	chauve-souris	1793	BAT
+1020	fruit bat	roussette (grande chauve-souris)	235	FLYING FOX
+1021	wild cat	chat sauvage, fauve	2241	WILD CAT
+1022	civet cat	civette	3157	CIVET
+1023	genet	genette		
+1024	leopard	léopard	1139	LEOPARD
+1025	lion	lion	1386	LION
+1026	hide (of animal)	peau (d'animal)	2614	SKIN (ANIMAL)
+1027	fur	pelage, fourrure	580	FUR
+1028	horn	corne	1393	HORN (ANATOMY)
+1029	hump (of cow)	bosse (de vache)	534	HUMP
+1030	udder	pis, mamelle	154	UDDER
+1031	tail	queue	1220	TAIL
+1032	hoof	sabot	152	HOOF
+1033	mane	crinière	1918	MANE
+1034	elephant's trunk	trompe (d'éléphant)	3678	ELEPHANT TRUNK
+1035	elephant's tusk	defense (d'éléphant)	2495	ELEPHANT TUSK
+1036	den, lair, hole	tanière, antre, terrier	2949	LAIR
+1037	bark (as dog) (v)	aboyer (comme un chien)	1206	BARKING
+1038	bare, show (teeth)	montrer les dents		
+1039	growl	grogner	3679	GROWL
+1040	ruminate, chew cud	ruminer	3680	RUMINATE
+1041	bird	oiseau	937	BIRD
+1042	crow	corbeau	913	CROW
+1043	dove	colombe	1853	DOVE
+1044	weaver-bird	tisserin		
+1045	parrot	perroquet	882	PARROT
+1046	partridge	perdrix	3681	PARTRIDGE
+1047	cattle egret	garde-boeuf		
+1048	heron	héron	758	HERON
+1049	kingfisher	martin pêcheur	2444	KINGFISHER
+1050	hornbill	calao	3260	HORNBILL
+1051	pelican	pélican	472	PELICAN
+1052	stork (marabou)	marabout	3724	STORK
+1053	ostrich	autruche	3797	OSTRICH
+1054	owl	hibou	735	OWL
+1055	eagle	aigle	1905	EAGLE
+1056	hawk	épervier, faucon	307	HAWK
+1057	vulture	vautour	1185	VULTURE
+1058	feather	plume	1201	FEATHER
+1059	wing	aile	1257	WING
+1060	beak, bill	bec	73	BEAK
+1061	crest (of bird)	crête (d'oiseau)		
+1062	comb (of rooster)	crête (de coq)	188	COMB OF BIRD
+1063	crop (of bird)	jabot	611	HARVEST
+1064	gizzard	gésier		
+1065	claw	griffe	72	CLAW
+1066	egg	oeuf	744	EGG
+1067	eggshell	coquille d'oeuf	3857	EGGSHELL
+1068	yolk (of egg)	jaune d'oeuf	1556	YOLK
+1069	nest	nid	539	NEST
+1070	flock (of birds)	vol, volée (d'oiseaux)	2939	FLOCK (OF ANIMALS)
+1071	fly (v)	voler	1441	FLY (MOVE THROUGH AIR)
+1072	dive	plonger	119	DIVE
+1073	soar	planer		
+1074	land (v), alight	aterrir, se poser	1922	LAND (DESCEND)
+1075	perch	se percher	3682	PERCH (OF BIRD)
+1076	flap the wings	battre les ailes		
+1077	cackle (as of chicken)	caqueter (p.ex. poule)	3683	CACKLE
+1078	crow (as a rooster) (v)	chanter (p.ex. coq)	2074	CROW (VERB)
+1079	peck (tr)	picorer	3684	PECK
+1080	lay (eggs)	pondre (oeuf)	2464	LAY EGGS
+1081	incubate, set (on eggs)	couver	2075	BROOD (VERB)
+1082	hatch	éclore	3116	HATCH (OUT)
+1083	fish	poisson	227	FISH
+1084	catfish	poisson-chat, silure	3777	CATFISH
+1085	mudfish (lives in the mud during dry season)	poisson-boue (vit dans la boue en saison sèche)		
+1086	eel	anguille	1013	FRESHWATER EEL
+1087	fish bone	arête de poisson	3799	FISHBONE
+1088	fish-scale	écaille	266	SCALE
+1089	gill	ouïes	1916	GILL
+1090	fin	nageoire	213	FIN
+1091	crab	crabe	2348	CRAB
+1092	shrimp	crevette	2349	SHRIMP
+1093	clam	palourde, clam		
+1094	snail	escargot	1543	SNAIL
+1095	snake	serpent	730	SNAKE
+1096	spitting cobra	cobra cracheur		
+1097	puff adder	vipère		
+1098	python	python	1563	PYTHON
+1099	green mamba	mamba vert		
+1100	lizard	lézard	632	LIZARD
+1101	agama lizard (red-headed)	margouillat		
+1102	chameleon	caméléon	1555	CHAMELEON
+1103	gecko	gecko	2355	GECKO
+1104	monitor lizard	varan (terrestre)	3017	MONITOR LIZARD
+1105	crocodile	crocodile	1857	CROCODILE
+1106	frog	grenouille	503	FROG
+1107	toad	crapaud	894	TOAD
+1108	tortoise (land)	tortue (terrestre)	895	TORTOISE
+1109	turtle (water)	tortue (aquatique)	112	TURTLE
+1110	fang (of snake)	crochet (de serpent)		
+1111	venom (of snake)	venin (de serpent)		
+1112	shell (of turtle)	carapace (de tortue)	598	SHELL
+1113	slither (snake)	onduler, glisser		
+1114	bite (snake)	mordre, piquer (serpent)	1403	BITE
+1115	crawl (lizard)	ramper (lézard)	96	CRAWL
+1116	hiss	siffler (reptile)	3685	HISS
+1117	insect	insecte	620	INSECT
+1118	flea	puce	232	FLEA
+1119	louse	pou (de tête)	1392	LOUSE
+1120	bedbug	punaise	1949	BEDBUG
+1121	maggot (in rotten meat)	asticot, ver blanc	2640	LARVA
+1122	cockroach	cafard	1575	COCKROACH
+1123	ant	fourmi	587	ANT
+1124	army ant, soldier ant	fourmi soldat		
+1125	flying ant	fourmi volante		
+1126	termite	termite	883	TERMITE
+1127	spider	araignée	843	SPIDER
+1128	tarantula	tarentule	3886	TARANTULA
+1129	scorpion	scorpion	1538	SCORPION
+1130	dung beetle	bousier		
+1131	jigger	chique	438	CHIGGOE (JIGGER FLEA)
+1132	grasshopper	sauterelle	607	GRASSHOPPER
+1133	cricket	grillon	2354	CRICKET
+1134	locust	locuste, criquet	810	LOCUST
+1135	praying mantis	mante religieuse	3279	MANTIS
+1136	leech	sangsue	2273	LEECH
+1137	caterpillar	chenille	2247	CATERPILLAR
+1138	centipede	scolopendre	1974	CENTIPEDE
+1139	millipede	iule, mille-pattes		
+1140	earthworm	ver de terre	2350	EARTHWORM
+1141	fly (n)	mouche	1504	FLY (INSECT)
+1142	mosquito	moustique	1509	MOSQUITO
+1143	bee	abeille	665	BEE
+1144	mud wasp	guêpe-maçon		
+1145	dragonfly	libellule	2352	DRAGONFLY
+1146	butterfly	papillon	1791	BUTTERFLY
+1147	moth	papillon de nuit	2828	MOTH
+1148	antenna	antenne		
+1149	sting (v)	piquer	571	STING
+1150	stinger	dard, aiguillon	3798	STINGER
+1151	spider's web	toile d'araignée	1065	SPIDER WEB
+1152	cocoon	cocon		
+1153	termite hill	termitière		
+1154	beehive	ruche	88	BEEHIVE
+1155	beeswax, bee-bread	cire d'abeille	1931	BEESWAX
+1156	honey	miel	942	HONEY
+1157	swarm (n)	essaim	2974	SWARM (OF BIRDS)
+1158	tree	arbre	906	TREE
+1159	ebony tree	ébène		
+1160	mahogany tree	acajou	455	MAHOGANY TREE
+1161	teak tree	teck		
+1162	baobab tree	baobab	997	BAOBAB TREE
+1163	silk-cotton tree, kapok tree	kapokier	2499	KAPOK TREE
+1164	shea-butter tree, shea-nut tree	karité	454	SHEA NUT TREE
+1165	fig tree	figuier		
+1166	thorn-tree	arbre épineux		
+1167	tamarind tree	tamarinier	35	TAMARIND
+1168	oil palm	palmier à huile		
+1169	coconut palm	cocotier	147	COCONUT TREE
+1170	raffia palm	raphia		
+1171	date palm	dattier		
+1172	bush	arbuste, buisson	1683	BUSH
+1173	grass	herbe	606	GRASS
+1174	bamboo	bambou	1927	BAMBOO
+1175	reed	roseau	659	REED
+1176	weeds	mauvaises herbes	3288	WEED
+1177	leaf	feuille	628	LEAF
+1178	branch (of tree)	branche (d'arbre)	1531	BRANCH
+1179	trunk (of tree)	tronc (d'arbre)	344	TREE TRUNK
+1180	bark (of tree)	écorce (d'arbre)	1204	BARK
+1181	sap	sève	345	SAP
+1182	stump	souche	241	TREE STUMP
+1183	root	racine	670	ROOT
+1184	bulb, tuber	bulbe, rubercule	2617	BULB
+1185	stem, stalk (of maize, millet, etc.)	tige (de maïs, de mil)	2628	PLANT STEM
+1186	silk, hair (of maize)	poils, "barbe" (de maïs)		
+1187	blade (of grass)	brin (d'herbe)	2731	NEEDLE (CLASSIFIER)
+1188	flower	fleur	239	FLOWER
+1189	bud	bourgeon, bouton	1684	BUD
+1190	shoot (new plant)	pousse, rejeton	3358	SPROUT (SHOOT)
+1191	vine	liane	343	VINE
+1192	tendril	vrille		
+1193	thorn	épine	124	THORN
+1194	palm branch, frond	palme		
+1195	midrib of palm-frond	nervure centrale de palme, rachis		
+1196	palm needle	foliole, feuille du palmier		
+1197	juice	jus	1499	JUICE
+1198	stone, pit	noyau	1762	STONE (OF FRUIT)
+1199	regime (of bananas)	régime (de bananes)		
+1200	corn cob	épi (de maïs)		
+1201	kernel (of corn, maize)	grain (de maïs)		
+1202	seed	grain, semence	714	SEED
+1203	skin (of fruit)	peau, pelure (de fruit)	2373	SKIN (OF FRUIT)
+1204	shell (of groundnut)	coquille (d'arachide)	3865	BARK OR SHELL
+1205	corn husk (n)	enveloppe (de maïs)	3686	CORN HUSK
+1206	chaff	balle	2363	CHAFF (HUSK)
+1207	fruit	fruit	1507	FRUIT
+1208	banana	banane (douce)	868	BANANA
+1209	plantain	plantain, banane à cuire	399	PLANTAIN
+1210	lemon	citron	3091	LEMON
+1211	orange	orange	2627	ORANGE (FRUIT)
+1212	grapefruit	pamplemousse	3804	GRAPEFRUIT OR POMELO
+1213	pawpaw, papaya	papaye	2445	PAPAYA
+1214	pineapple	ananas	2440	PINEAPPLE
+1215	guava	goyave	3981	GUAVA
+1216	avocado	avocat	3725	AVOCADO
+1217	fig	figue	322	FIG
+1218	date	datte	3801	DATE (FRUIT)
+1219	tomato	tomate	986	TOMATO
+1220	onion	oignon	2366	ONION
+1221	garlic	ail	2368	GARLIC
+1222	pepper (green)	poivre (vert)	919	CHILI PEPPER
+1223	red pepper, hot pepper	piment, poivron rouge	919	CHILI PEPPER
+1224	okra	gumbo	1737	OKRA
+1225	egg-plant	aubergine	1146	AUBERGINE
+1226	mushroom	champignon	641	MUSHROOM
+1227	cassava, manioc	manioc	925	CASSAVA
+1228	cocoyam, taro	taro	351	TARO
+1229	yam	igname	410	YAM
+1230	sweet potato	potate douce	159	SWEET POTATO
+1231	potato	pomme de terre	593	POTATO
+1232	maize, corn	maïs	506	MAIZE
+1233	millet (rainy season)	mil (saison de pluies)	931	MILLET
+1234	sorghum (dry season)	sorgho (saison sèche)	347	SORGHUM
+1235	guinea corn	millet de Guinée, petit mil	347	SORGHUM
+1236	rice	riz	926	RICE
+1237	groundnut, peanut	arachide	595	GROUNDNUT (PEANUT)
+1238	sesame seed	(graines de) sésame	2797	SESAME
+1239	cola nut	noix de kola		
+1240	palm nut	noix de palm		
+1241	sugar cane	canne à sucre	146	SUGAR CANE
+1242	coffee	café	1299	COFFEE
+1243	rubber	caoutchouc, latex		
+1244	cotton	coton	1850	COTTON
+1245	grow (of plants)	pousser (plantes)	3461	GROW PLANTS
+1246	sprout (v)	apparaître, germer	2076	SPROUT (VERB)
+1247	(be) ripe	(être) mûr (fruit)	178	RIPE
+1248	ripen, become ripe	mûrir	179	RIPEN
+1249	(be) unripe	(être) non-mûr, vert	1958	UNRIPE
+1250	(be) rotten	(être) pourri, gâté	1728	ROTTEN
+1251	(be) shrivelled, (be) wrinkled (fruit)	(être) ridé, ratiné, flétri	380	WRINKLED
+1252	wither (plant)	se flétrir, se faner	2907	ROT
+1253	blight (n)	rouille, nielle		
+1254	world	monde	965	WORLD
+1255	place	endroit, lieu	723	PLACE (POSITION)
+1256	desert	désert	3687	DESERT
+1257	grassland	savane	2819	GRASSLAND
+1258	forest	forêt	420	FOREST
+1259	open place, clearing	clairière	2284	CLEARING
+1260	bush country, rural area	brousse, campagne		
+1261	ground, land	sol, terre	2159	GROUND
+1262	mountain	montagne	639	MOUNTAIN
+1263	summit, highest point	sommet, cime	1614	SUMMIT
+1264	cliff	falaise	992	CLIFF
+1265	valley	vallée	921	VALLEY
+1266	ditch	fossé, rigole	2002	DITCH
+1267	pit	fosse	2539	PIT (POTHOLE)
+1268	hole	trou	1667	HOLE
+1269	crevice	fissure, fente	2948	GAP (DISTANCE)
+1270	cave	grotte, caverne	1155	CAVE
+1271	rock (large)	pierre	668	ROCK
+1272	stone (small)	caillou	857	STONE
+1273	gravel	gravier	3028	GRAVEL
+1274	sand	sable	671	SAND
+1275	dust	poussière	2	DUST
+1276	dirt, soil	terre (sol)	1228	EARTH (SOIL)
+1277	clay	argile	1399	CLAY
+1278	mud	boue	640	MUD
+1279	iron	fer	621	IRON
+1280	gold	or	1369	GOLD
+1281	silver	argent	759	SILVER
+1282	copper	cuivre	1825	COPPER
+1283	rust (n)	rouille	3064	RUST
+1284	water	eau	948	WATER
+1285	ocean, sea	océan, mer	2282	SEA OR OCEAN
+1286	lake	lac	624	LAKE
+1287	pool	étang		
+1288	waterhole	mare		
+1289	marsh	marais, marécage	3688	MARSH
+1290	spring	source	849	SPRING (OF WATER)
+1291	waterfall	chute, cataracte	943	WATERFALL
+1292	brook, stream	ruisseau	947	STREAM
+1293	river	rivière, fleuve	666	RIVER
+1294	current (river, stream)	courant	2935	CURRENT (STREAM)
+1295	riverbed (dry)	wadi, lit sec de rivière	993	RIVER BED
+1296	river bank	bord (de rivière), rive	3463	RIVERBANK
+1297	ford (n)	gué	2818	FORD (CROSSING)
+1298	bridge	pont	1011	BRIDGE
+1299	island	île	622	ISLAND
+1300	beach	plage	3460	BEACH
+1301	wave	vague	978	WAVE
+1302	bubble	bulle	3689	BUBBLE
+1303	foam	écume	1768	FOAM
+1304	slime (organic)	vase (organique)		
+1305	fire	feu	221	FIRE
+1306	flame	flamme	889	FLAME
+1307	spark	étincelle	518	SPARK
+1308	smoke	fumée	778	SMOKE (EXHAUST)
+1309	fireplace	foyer	185	FIREPLACE
+1310	firewood	bois à brûler	10	FIREWOOD
+1311	charcoal	charbon de bois	1188	CHARCOAL
+1312	ashes	cendres	646	ASH
+1313	sky	ciel	1732	SKY
+1314	air (breathed)	air (respiré)	27	AIR
+1315	cloud	nuage	1489	CLOUD
+1316	rainbow	arc-en-ciel	1733	RAINBOW
+1317	sun	soleil	1343	SUN
+1318	moon	lune	1313	MOON
+1319	full moon	pleine lune	3690	FULL MOON
+1320	new moon	nouvelle lune	3691	NEW MOON
+1321	eclipse (moon)	éclipse (lunaire)	2285	ECLIPSE
+1322	star	étoile	1430	STAR
+1323	Pleiades	Pléiade		
+1324	Big Dipper, Plough, Great Bear	la Grande Ourse, Girafe	3342	URSA MAJOR
+1325	Orion	Orion	3945	ORION'S CONSTELLATION
+1326	shooting star, meteor	étoile filante, météore	2288	METEOROID (SHOOTING OR SHINING STAR)
+1327	noise, sound (n)	bruit, son	1811	SOUND OR NOISE
+1328	rustle (leaves) (v)	bruire	2877	RUSTLE (OF LEAVES)
+1329	squeak (wheel) (v)	grincer, crier	3692	SQUEAK
+1330	wind (n)	vent	960	WIND
+1331	harmattan	harmattan	451	HARMATTAN
+1332	storm	orage, "tornade"	858	STORM
+1333	thunder	tonnerre	1150	THUNDER
+1334	lightning	éclair	1654	LIGHTNING
+1335	rain	pluie	658	RAIN (PRECIPITATION)
+1336	drizzle	pluie fine, bruine	1016	DRIZZLE
+1337	hail	grêle	609	HAIL
+1338	dew	rosée	1977	DEW
+1339	flood (n)	inondation		
+1340	dry up, evaporate	tarir, évaporer	1786	DRY UP
+1341	drought, famine	sécheresse, famine, disette	199	FAMINE
+1342	season	saison	691	SEASON
+1343	rainy season	saison des pluies, hivernage	453	RAINY SEASON
+1344	dry season	saison sèche	452	DRY SEASON
+1345	hot weather	temps chaud	3693	HOT WEATHER
+1346	cold weather	temps froid	3694	COLD WEATHER
+1347	light	lumière	630	LIGHT (RADIATION)
+1348	sunshine	lumière du soleil	3276	SUNSHINE
+1349	moonlight	claire de lune		
+1350	shadow	ombre	1388	SHADE
+1351	darkness	obscurité	11	DARKNESS
+1352	time	temps	892	TIME
+1353	now	maintenant	1376	NOW
+1354	before	avant	1882	BEFORE
+1355	after	après	1685	AFTER
+1356	early	tôt, de bonne heure	672	EARLY
+1357	late	tard	425	BE LATE
+1358	once	une fois	374	ONE TIME
+1359	again	encore, de nouveau	204	AGAIN
+1360	sometimes	quelquefois, parfois	1544	SOMETIMES
+1361	often	souvent	1852	OFTEN
+1362	usually	habituellement, d'habitude		
+1363	always	toujours	1676	ALWAYS
+1364	never	jamais	1656	NEVER
+1365	spend time, pass time	passer le temps		
+1366	wait	attendre	1590	WAIT (FOR)
+1367	day	jour, journée	1225	DAY (NOT NIGHT)
+1368	month	mois	1370	MONTH
+1369	year	an, année	1226	YEAR
+1370	today	aujourd'hui	1283	TODAY
+1371	yesterday	hier	1174	YESTERDAY
+1372	day before yesterday	avant-hier	1180	DAY BEFORE YESTERDAY
+1373	tomorrow	demain	1329	TOMORROW
+1374	day after tomorrow	après-demain	1179	DAY AFTER TOMORROW
+1375	olden times	autrefois, temps d'antan		
+1376	dawn (before sunrise)	aube	729	DAWN
+1377	sunrise	lever du soleil	2296	SUNRISE
+1378	morning	matin	1339	MORNING
+1379	noon	midi	12	MIDDAY
+1380	afternoon	après-midi	1807	AFTERNOON
+1381	sunset	coucher du soleil	2295	SUNSET
+1382	dusk, twilight (after sunset)	crépuscule	2297	DUSK
+1383	daytime	jour, journée (lumière)	1225	DAY (NOT NIGHT)
+1384	night	nuit	1233	NIGHT
+1385	thing	chose	738	THING
+1386	piece	morceau	594	PIECE
+1387	top	le dessus, le haut	1753	TOP
+1388	bottom	le fond	690	BOTTOM
+1389	front (of something)	le devant (de qqch)	2194	FRONT (PART)
+1390	back (of something)	le dos, l'arrière (de qqch)	2323	BACK (PART)
+1391	side (of something)	le côté (de qqch)	682	SIDE
+1392	middle	le milieu	1093	MIDDLE
+1393	edge (n)	bord, marge	863	EDGE
+1394	point (n)	pointe	2992	TIP (OF OBJECT)
+1395	bump (n), protuberance	bosse, proturbance, saillie	1903	SWELLING
+1396	spot (n)	tache, tacheture	519	SPOT
+1397	move (intr)	bouger, se déplacer	2874	MOVE (ONESELF)
+1398	movement	mouvement	3695	MOVEMENT
+1399	come	venir	1446	COME
+1400	go	aller	695	GO
+1401	approach (v)	s'approcher	1778	APPROACH
+1402	arrive	arriver	1387	ARRIVE
+1403	remain, stay	rester, demeurer	987	REMAIN
+1404	leave (place)	quitter, partir	1752	LEAVE
+1405	return, go back	retourner, rentrer	581	COME BACK
+1406	go round, detour	contourner		
+1407	enter, go in	entrer	749	ENTER
+1408	come (or go) out, exit (v)	sortir	1107	GO OUT
+1409	ascend, go up	monter	705	GO UP (ASCEND)
+1410	descend, go down	descendre	2014	GO DOWN (DESCEND)
+1411	fall (intr)	tomber	1280	FALL
+1412	swing (v), go back and forth	balancer	2871	SWING (MOVEMENT)
+1413	slide	glisser	1324	SLIP
+1414	roll	rouler	827	ROLL
+1415	spread (disease, fire)	se répandre, s'étendre		
+1416	burst	éclater	3020	BREAK (BREAKING)
+1417	disappear	disparaître	485	DISAPPEAR
+1418	speed (n)	vitesse	2881	URGE (SOMEONE)
+1419	(be) fast	(être) rapide	1631	FAST
+1420	(be) slow	(être) lent	701	SLOW
+1421	hasten, hurry	se dépêcher, se presser, se hâter	754	HURRY
+1422	take	prendre	1749	TAKE
+1423	snatch, seize	saisir, arracher	855	SEIZE
+1424	catch (object in air)	attraper (un objet dans l'air)	702	CATCH
+1425	pick up	ramasser	371	PICK UP
+1426	hold	tenir	1448	HOLD
+1427	raise, lift	soulever	501	LIFT
+1428	lower (tr)	baisser		
+1429	drop (tr)	laisser tomber	2866	DROP (SOMETHING)
+1430	throw	lancer	1456	THROW
+1431	shoot (v)	tirer (une arme)	1172	SHOOT
+1432	knock down, knock over (an object)	terrasser, renverser (un object)		
+1433	turn over (tr)	retourner	1445	TURN (SOMETHING)
+1434	pull	tirer	1455	PULL
+1435	drag	trainer	2030	DRAG
+1436	push	pousser	1452	PUSH
+1437	steer (v)	diriger conduire		
+1438	overtake, pass (tr)	surpasser, dépasser	1951	PASS
+1439	surround	entourer	3274	ENCIRCLE
+1440	twist	tordre	430	TWIST
+1441	fold (v)	plier	1470	FOLD
+1442	coil (rope) (v)	enrouler		
+1443	hang up	accrocher	357	HANG UP
+1444	spread out (maize) (tr)	étaler (maïs)	38	SPREAD OUT
+1445	stretch	étirer, tendre	214	STRETCH
+1446	hit, strike	frapper, donner un coup	353	STRIKE
+1447	beat	battre	1665	BEAT
+1448	bump (v), knock against	heurter, cogner	1903	SWELLING
+1449	rub	frotter	1449	RUB
+1450	scrape (v)	gratter, racler	1767	SCRAPE
+1451	scratch (v)	égratigner, érafler	1436	SCRATCH
+1452	pierce	percer	398	PIERCE
+1453	tear (tr)	déchirer	1735	TEAR (SHRED)
+1454	strip off (bark)	écorcer, enlever (l'écorce)		
+1455	shake (tr)	secouer	1909	SHAKE
+1456	squeeze	presser	1414	SQUEEZE
+1457	crush (tr)	écraser	1520	CRUSH
+1458	create, make	créer, faire fabriquer	734	MAKE
+1459	alter, change (tr)	changer (tr), modifier	2856	CHANGE (SOMETHING)
+1460	break (tr)	casser	2558	BREAK (CLEAVE)
+1461	destroy, spoil	détruire, gâter	681	DESTROY
+1462	(be) ruined, (be) spoiled	(être) gâté, abîmé, ruiné	1728	ROTTEN
+1463	join, put together	joindre, unir, relier	1743	JOIN
+1464	accumulate	accumuler		
+1465	gather	amasser, assembler	7	GATHER
+1466	divide, separate (tr)	diviser, séparer	1119	DIVIDE
+1467	scatter (tr)	éparpiller, répandre	3705	SCATTER
+1468	throw away, get rid of	jeter, se débarrasser	3696	THROW AWAY
+1469	put, place, set	mettre, placer, poser	998	PUT
+1470	leave (something somewhere)	laisser (qqch qqpt)	1752	LEAVE
+1471	keep, save	garder, mettre de côté	1997	PRESERVE
+1472	hide (tr)	cacher	602	HIDE (CONCEAL)
+1473	lose (tr)	perdre	1660	LOSE
+1474	look for	chercher, essayer de trouver	1468	LOOK FOR
+1475	find	trouver	719	FIND
+1476	blow (of wind) (v)	souffler (vent)	175	BLOW (OF WIND)
+1477	blow down	renverser (vent)		
+1478	blow away (intr)	s'envoler	176	BLOW (WITH MOUTH)
+1479	fan (v)	éventer	360	FAN (ACTION)
+1480	flow	couler	2003	FLOW
+1481	drip	dégoutter, égoutter	2253	DRIP (EMIT LIQUID)
+1482	leak (v)	fuir, s'échapper (liquide)	2253	DRIP (EMIT LIQUID)
+1483	sprinkle	asperger	2064	SCATTER (SEEDS)
+1484	smear (tr)	enduire	364	SMEAR
+1485	dip	plonger, tremper (dans l'eau)	3697	DIP
+1486	soak	(faire) tremper	2069	SOAK (VERB)
+1487	wring out	essorer	3224	WRING
+1488	dry out (clothes)	sécher	2015	MAKE DRY
+1489	float	flotter	1574	FLOAT
+1490	sink (v)	couler, sombrer	1088	SINK (DESCEND)
+1491	drown (intr)	se noyer	1904	DROWN
+1492	shine	briller	708	SHINE
+1493	fade	perdre l'éclat, se faner	2704	FADE (LOOSE COLOR)
+1494	(be) bright	(être) brilliant, vif	679	BRIGHT
+1495	(be) dim	(être) faible, pâle, sombre	706	DARK
+1496	light (fire) (v)	allumer (un feu)	737	LIGHT (IGNITE)
+1497	quench, extinguish	éteindre	127	EXTINGUISH
+1498	burn (intr), blaze	brûler (intransitif), flamber	1428	BURNING
+1499	melt (intr)	fondre	2334	MELT
+1500	singe	brûler légèrement, roussir	3698	SINGE
+1501	begin	commencer	1806	BEGIN
+1502	beginning	commencement, début	1557	BEGINNING
+1503	continue, resume	continuer, reprendre	3699	CONTINUE
+1504	end (n)	fin	743	END (OF TIME)
+1505	cease, stop	cesser, s'arrêter	1928	CEASE
+1506	finish, complete (v)	finir, achiever	1766	FINISH
+1507	(be) big	(être) grand, gros	1202	BIG
+1508	enlarge	agrandir		
+1509	(be) small	(être) petit	1246	SMALL
+1510	diminish	diminuer, réduire	1184	DIMINISH
+1511	(be) high	(être) haut	1265	HIGH
+1512	(be) low	(être) bas	721	LOW
+1513	(be) long	(être) long	1203	LONG
+1514	lengthen	rallonger, render plus long	3700	LENGTHEN
+1515	(be) short	(être) court	1645	SHORT
+1516	shorten	raccourcir, rendre plus court		
+1517	(be) fat, (be) thick	(être) épais, gras	1244	THICK
+1518	(be) thin	(être) mince	2249	THIN (OF SHAPE OF OBJECT)
+1519	(be) wide	(être) large	1243	WIDE
+1520	widen	élargir		
+1521	(be) narrow	(être) étroit	1267	NARROW
+1522	(be) deep	(être) profond	1593	DEEP
+1523	deepen	approfondir		
+1524	(be) shallow	(être) peu profond	193	SHALLOW
+1525	(be) flat	(être) plat	1633	FLAT
+1526	flatten	aplatir, aplanir		
+1527	(be) hollow	(être) creux	3701	HOLLOW
+1528	swell (intr)	se gonfler, enfler	1573	SWELL
+1529	(be) round	(être) rond	1395	ROUND
+1530	(be) straight	(être) droit	1404	STRAIGHT
+1531	straighten	redresser, redonner une forme droite		
+1532	(be) crooked	(être) courbé, tordu	297	CROOKED
+1533	bend, crook, curve (n)	courbe	2004	BEND
+1534	(be) heavy	(être) lourd	1210	HEAVY
+1535	weight	poids	2466	WEIGHT
+1536	(be) light (not heavy)	(être) léger	1052	LIGHT (WEIGHT)
+1537	(be) sharp	(être) pointu, trenchant, aigu	1396	SHARP
+1538	sharpen (knife)	aiguiser (couteau)	251	SHARPEN (SOMETHING)
+1539	sharpen, bring to point (arrow)	aiguiser (flèche)	251	SHARPEN (SOMETHING)
+1540	(be) blunt, dull	(être) émoussé, moins tranchant, moins aigue	379	BLUNT
+1541	(be) rough	(être) rigueux, raboteux	1923	ROUGH
+1542	(be) smooth	(être) lisse	1234	SMOOTH
+1543	make smooth	rendre lisse, lisser		
+1544	(be) hard	(être) dur	1884	HARD
+1545	harden	durcir		
+1546	(be) soft	(être) mou	1856	SOFT
+1547	soften	ramollir		
+1548	(be) dry	(être) sec	1398	DRY
+1549	(be) wet	(être) mouillé	1726	WET
+1550	(be) slippery	(être) glissant	3702	SLIPPERY
+1551	(be) sticky	(être) gluant, poisseux, collant	3703	STICKY
+1552	(be) hot (objects)	(être) chaud	2272	HOT OR WARM
+1553	(be) cold (objects)	(être) froid	1287	COLD
+1554	colour	couleur	1613	COLOR
+1555	(be) white	(être) blanc	1335	WHITE
+1556	(be) black	(être) noir	163	BLACK
+1557	(be) red	(être) rouge	156	RED
+1558	(be) blue	(être) bleu	837	BLUE
+1559	(be) green	(être) vert	1425	GREEN
+1560	(be) brown	(être) brun	2409	BROWN
+1561	(be) yellow	(être) jaune	1424	YELLOW
+1562	(be) dark (colour)	(être) foncé, sombre	706	DARK
+1563	(be) light (colour)	(être) clair	250	LIGHT (COLOR)
+1564	taste (n)	goût	2190	TASTE
+1565	(be) sweet	(être) bon (au gout), sucré	717	SWEET
+1566	(be) sour	(être) acide, aigre	1906	SOUR
+1567	(be) bitter	(être) amer	887	BITTER
+1568	odour, smell (n)	odeur, parfum	3704	ODOR (SMELL)
+1569	stink, smell (bad)	puer, sentir mauvais	1587	SMELL (STINK)
+1570	(be) able (to)	(être) capable, pouvoir	972	BE ABLE
+1571	(be) strong (physically)	(être) fort	785	STRONG
+1572	strength	force	202	STRENGTH
+1573	(be) weak	(être) faible	1601	WEAK
+1574	(be) great, (be) powerful	(être) grand, puissant	3001	POWERFUL
+1575	splendour, glory	splendeur, gloire	3964	SPLENDOR
+1576	(be) good	(être) bon	1035	GOOD
+1577	(be) bad	(être) mauvais	1292	BAD
+1578	right, (be) correct	correct, (avoir) raison	1725	CORRECT (RIGHT)
+1579	truth	vérité	1638	TRUTH
+1580	(be) perfect	(être) parfait		
+1581	(be) wrong	(avoir) tort, (être) fautif	1390	WRONG
+1582	(be) beautiful	(être) beau	1427	BEAUTIFUL
+1583	(be) ugly	(être) laid	1548	UGLY
+1584	(be) clean	(être) propre	704	CLEAN
+1585	(be) dirty	(être) sale	1230	DIRTY
+1586	(be) important	(être) important	1285	IMPORTANT
+1587	(be) amusing, funny	(être) amusant, drôle	1976	MERRY
+1588	(be) new	(être) nouveau, neuf	1231	NEW
+1589	(be) old (not new)	(être) vieux, ancien	2113	OLD (USED)
+1590	one (1)	un (1)	1493	ONE
+1591	two (2)	deux (2)	1498	TWO
+1592	three (3)	trois (3)	492	THREE
+1593	four (4)	quatre (4)	1500	FOUR
+1594	five (5)	cinq (5)	493	FIVE
+1595	six (6)	six (6)	1703	SIX
+1596	seven (7)	sept (7)	1704	SEVEN
+1597	eight (8)	huit (8)	1705	EIGHT
+1598	nine (9)	neuf (9)	1483	NINE
+1599	ten (10)	dix (10)	1515	TEN
+1600	eleven (11)	onze (11)	1706	ELEVEN
+1601	twelve (12)	douze (12)	1707	TWELVE
+1602	thirteen (13)	treize (13)	1708	THIRTEEN
+1603	fourteen (14)	quatorze (14)	2451	FOURTEEN
+1604	fifteen (15)	quinze (15)	1709	FIFTEEN
+1605	sixteen (16)	seize (16)	2454	SIXTEEN
+1606	seventeen (17)	dix-sept (17)	2453	SEVENTEEN
+1607	eighteen (18)	dix-huit (18)	1713	EIGHTEEN
+1608	nineteen (19)	dix-neuf (19)	1714	NINETEEN
+1609	twenty (20)	vingt (20)	1710	TWENTY
+1610	twenty-one (21)	vingt et un (21)	1734	TWENTY ONE
+1611	twenty-two (22)	vingt-et-deux (22)	3166	TWENTY TWO
+1612	thirty (30)	trente (30)	1715	THIRTY
+1613	forty (40)	quarante (40)	1716	FORTY
+1614	fifty (50)	cinquante (50)	1717	FIFTY
+1615	sixty (60)	soixante (60)	1718	SIXTY
+1616	seventy (70)	soixante-dix (70)	1721	SEVENTY
+1617	eighty (80)	quatre-vingt (80)	1722	EIGHTY
+1618	ninety (90)	quatre-vingt-dix (90)	1724	NINETY
+1619	hundred (100)	cent (100)	1634	HUNDRED
+1620	two hundred (200)	deux cents (200)	2676	TWO HUNDRED
+1621	five hundred (500)	cinq cents (500)	3516	FIVE HUNDRED
+1622	thousand (1000)	mille (1000)	1843	THOUSAND
+1623	(be) first	(être) premier	728	FIRST
+1624	(be) second	(être) deuxième, second	1384	SECOND
+1625	(be) third	(être) troisième	1859	THIRD
+1626	(be) last	(être) dernier	1529	LAST (FINAL)
+1627	add	ajouter	2882	ADD
+1628	subtract, take away	soustraire, diminuer		
+1629	increase (intr)	augmenter (intr)	1041	INCREASE
+1630	decrease (intr)	diminuer (intr)	2864	DECREASE
+1631	count (v)	compter	1420	COUNT
+1632	arrange	arranger, mettre en ordre	1568	ARRANGE
+1633	(be) equal	(être) égal	1570	EQUAL
+1634	(be) abundant	(être) abondant	712	RICH
+1635	enough	assez, suffisamment	1881	ENOUGH
+1636	lack (v)	manquer	2329	LACK (NOT HAVE)
+1637	(be) used up	(être) épuisé		
+1638	all	tout, tous	98	ALL
+1639	many	beaucoup (de)	1198	MANY
+1640	few	peu (de)	1242	FEW
+1641	half	moitié	816	HALF
+1642	whole	entier, l'ensemble, le tout	2277	WHOLE
+1643	everybody	tout le monde		
+1644	everything	tout, toutes choses	98	ALL
+1645	everywhere	partout	2999	EVERYWHERE
+1646	nobody	(aucune) personne, nul	3887	NOBODY
+1647	nothing	rien	687	NOTHING
+1648	I	je	1209	I
+1649	you (masc, sing)	tu (masc, sing)	1215	THOU
+1650	he (human)	il (humain)	1211	HE
+1651	we (incl)	nous (incl)	1131	WE (INCLUSIVE)
+1652	you (pl)	vous (pl)	1213	YOU
+1653	they (human)	ils (humains)	817	THEY
+1654	here	ici	136	HERE
+1655	there	là	1937	THERE
+1656	far	loin, éloigné, lointain	1406	FAR
+1657	near	proche, près	1942	NEAR
+1658	north	nord	1598	NORTH
+1659	south	sud	1595	SOUTH
+1660	east	est	1877	EAST
+1661	west	ouest	1817	WEST
+1662	up	en haut	1591	UP
+1663	down	en bas	1326	DOWN
+1664	forward (direction)	en avant	2912	FORWARD
+1665	backward (direction)	en arrière	2911	BACKWARD
+1666	right (direction)	(à) droite	1019	RIGHT
+1667	left (direction)	(à) gauche	244	LEFT
+1668	over, above	par dessus, au-dessus	1741	ABOVE
+1669	under, below	sous, en-dessous	1485	BELOW OR UNDER
+1670	in front of, before	devant	1883	IN FRONT OF
+1671	behind	derrière, en arrière	1686	BEHIND
+1672	beside	à côté de	1816	BESIDE
+1673	inside	à l'intérieur	1606	INSIDE
+1674	outside	(en) dehors	762	OUTSIDE
+1675	between	entre	689	BETWEEN
+1676	towards	vers (direction)	2754	TOWARDS
+1677	away from	de (direction)		
+1678	with	avec	1340	WITH
+1679	this (man)	ce (monsieur)-ci	1214	THIS
+1680	that (man)	ce(monsieur)-là	78	THAT
+1681	some (men)	quelques (messieurs)	1241	SOME
+1682	other (men)	d'autres (messieurs)	197	OTHER
+1683	who?	qui?	1235	WHO
+1684	what?	quoi?	1236	WHAT
+1685	which (one)?	(le) quel?	727	WHICH
+1686	where?	où?	1237	WHERE
+1687	when?	quand?	1238	WHEN
+1688	why?	pourquoi?	1270	WHY
+1689	how?	comment?	1239	HOW
+1690	how many?	combien?	822	HOW MANY
+1691	and	et	1577	AND
+1692	if	si	1459	IF
+1693	because	parce que	1157	BECAUSE
+1694	perhaps	peut-être	2278	PERHAPS
+1695	really, truly	vraiment, réellement		
+1696	well (adv)	bien	954	WELL
+1697	poorly	mal, médiocrement, peu bien		
+1698	only	seulement	1580	ONLY
+1699	yes	oui	1268	YES
+1700	no	non	1269	NO

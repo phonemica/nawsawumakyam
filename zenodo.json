@@ -1,0 +1,26 @@
+{
+  "title": "CLDF dataset derived from Nawsawu's \"Descriptive Phonology of Makyam Naga\" from 2016",
+  "access_right": "open",
+  "keywords": ["cldf:Wordlist", "linguistics"],
+  "creators": [
+    {
+      "name": "Nawsawu"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kellen Parker van Dam",
+      "type": "Editor"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "lexibank"
+    }
+  ],
+  "upload_type": "dataset",
+  "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Nawsawu (2016) Descriptive Phonology of Makyam Naga. Chiang Mai: Payap University</p>\n</blockquote>",
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}

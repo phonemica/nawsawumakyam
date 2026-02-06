@@ -1,0 +1,1643 @@
+NUMBER,ENGLISH,PAGE,CONCEPTICON_ID,CONCEPTICON_GLOSS
+1,sky,155,2671,SKY
+2,sun,155,2897,SUN
+3,moon,155,1886,MOON
+4,star,155,2812,STAR
+5,cloud (rain),155,,
+6,mist/fog,155,,
+7,rain,155,2351,RAIN
+8,rainbow,155,2352,RAINBOW
+9,lightning (flashing),155,,
+10,thunder,155,3027,THUNDER
+11,shadow/shade,156,,
+12,wind,156,4497,WIND
+13,night,156,1988,NIGHT
+14,day,156,751,DAY
+15,morning,156,1890,MORNING
+16,noon,156,2000,NOON
+17,yesterday,156,4548,YESTERDAY
+18,tomorrow,156,4236,TOMORROW
+19,year,156,4543,YEAR
+20,east,156,884,EAST
+21,west,156,4454,WEST
+22,water,156,4425,WATER
+23,to be hot (water),156,,
+24,to be hot (person),156,,
+25,to be warm (water),156,,
+26,to be cold (person),156,,
+27,to be cool (water),157,,
+28,stream,157,,
+29,river,157,2415,RIVER
+30,sea,157,2535,SEA
+31,soil (earth),157,,
+32,mud,157,1917,MUD
+33,dust,157,862,DUST
+34,stone,157,,
+35,sand,157,2499,SAND
+36,lime (for betel chew),157,,
+37,gold,157,1233,GOLD
+38,silver,157,2646,SILVER
+39,iron,157,1537,IRON
+40,mountain,157,1906,MOUNTAIN
+41,cave (natural),157,,
+42,jungle/forest,157,,
+43,tree,158,2941,TREE
+44,branch (tree),158,,
+45,tree bark,158,,
+46,thorn,158,,
+47,root (tree),158,,
+48,leaf (tree),158,,
+49,flower,158,1100,FLOWER
+50,fruit (tree),158,,
+51,seed (tree),158,,
+52,grass (field/jungle),158,,
+53,bamboo plant (large),158,,
+54,bamboo shoot (edible),158,,
+55,mushroom,158,,
+56,cane/rattan,158,,
+57,kapok,158,,
+58,sugarcane,159,,
+59,betel nut,159,,
+60,opium,159,,
+61,(rice/millet) beer,159,,
+62,banana (fruit),159,,
+63,mango (fruit),159,,
+64,eggplant (fruit),159,,
+65,soy bean,159,,
+66,ginger,159,,
+67,garlic,159,,
+68,corn,159,,
+69,red pepper,159,,
+70,dry (burned) field,159,,
+71,wet rice field,159,,
+72,paddy rice,159,,
+73,rice seedling,159,,
+74,to be ripe,159,,
+75,pounded rice,160,,
+76,cooked rice,160,,
+77,to winnow (rice),160,,
+78,to dry (rice),160,,
+79,to pound (rice),160,,
+80,to grind,160,,
+81,to cook (rice),160,,
+82,to boil (rice),160,,
+83,rice husk (powder),160,,
+84,salt,160,2495,SALT
+85,animal (tame/wild),160,,
+86,tiger,160,3034,TIGER
+87,pangolin,160,,
+88,bear,160,,
+89,barking deer,160,,
+90,monkey,160,1881,MONKEY
+91,gibbon,161,,
+92,rabbit,161,,
+93,porcupine,161,2265,PORCUPINE
+94,rat,161,2362,RAT
+95,dog,161,818,DOG
+96,to bark,161,3088,TO BARK
+97,to bite,161,3185,TO BITE
+98,cat,161,467,CAT
+99,pig,161,,
+100,cow,161,684,COW
+101,milk (cow),161,,
+102,buffalo,161,,
+103,horn (of buffalo),161,,
+104,tail,161,2951,TAIL
+105,elephant,161,909,ELEPHANT
+106,elephant tusk,161,,
+107,bird,161,161,BIRD
+108,pigeon,162,,
+109,birdʼs nest,162,,
+110,wing,162,4501,WING
+111,feather (body hair),162,,
+112,to fly,162,3480,TO FLY
+113,egg,162,895,EGG
+114,chicken,162,,
+115,crest (of chicken or bird),162,,
+116,fish,162,984,FISH
+117,snake,162,2701,SNAKE
+118,poison from snake (venom),162,,
+119,house lizard,162,,
+120,turtle,162,,
+121,crocodile,162,701,CROCODILE
+122,otter,162,,
+123,frog,163,1161,FROG
+124,insect,163,1458,INSECT
+125,spider,163,2764,SPIDER
+126,spider web,163,2765,SPIDER WEB
+127,louse (head),163,,
+128,termite,163,,
+130,cockroach,163,587,COCKROACH
+131,snail,163,,
+132,mosquito,163,,
+133,bee,163,238,BEE
+134,fly,163,,
+135,butterfly,163,417,BUTTERFLY
+136,scorpion,163,2527,SCORPION
+137,water leech,163,,
+138,land leech,163,,
+139,earthworm,164,883,EARTHWORM
+140,head,164,1333,HEAD
+141,face,164,991,FACE
+142,brain,164,,
+143,hair (head),164,,
+144,body hair,164,,
+145,forehead,164,1124,FOREHEAD
+146,eyebrow,164,979,EYEBROW
+147,eye,164,972,EYE
+148,eyelid,164,981,EYELID
+149,nose,164,2004,NOSE
+150,cheek,164,510,CHEEK
+151,ear,164,874,EAR
+152,mouth,164,1913,MOUTH
+153,tongue,164,,
+154,spit (noun),164,,
+155,tooth,164,4242,TOOTH
+156,gums,165,,
+157,chin,165,528,CHIN
+158,beard,165,224,BEARD
+159,to shave (beard),165,,
+160,neck,165,1962,NECK
+161,shoulder,165,2618,SHOULDER
+162,back,165,,
+163,belly,165,,
+164,navel,165,1958,NAVEL
+165,heart,165,1343,HEART
+166,liver,165,1694,LIVER
+167,intestines,165,,
+168,arm,165,113,ARM
+169,elbow,165,899,ELBOW
+170,armpit,165,115,ARMPIT
+171,palm,165,,
+172,finger,165,,
+173,fingernail,166,,
+174,leg,166,,
+175,thigh,166,,
+176,knee,166,1591,KNEE
+178,shin,166,2600,SHIN
+179,heel,166,,
+180,bone,166,328,BONE
+181,joint,166,,
+182,marrow,166,119,ARROW
+183,rib,166,2404,RIB
+184,meat/flesh (edible),166,,
+185,fat/grease,166,,
+186,skin,166,,
+187,blood,166,313,BLOOD
+188,sweat,166,2922,SWEAT
+189,pus,167,2320,PUS
+190,excrement,167,,
+191,urine,167,4361,URINE
+192,man,167,,
+193,woman,167,4411,WOMAN
+194,person,167,,
+195,father,167,1019,FATHER
+196,mother,167,1898,MOTHER
+197,to be old (person),167,,
+198,child (young person),167,521,CHILD (YOUNG PERSON)
+199,son (one’s own male child),167,,
+200,son-in-law,167,,
+201,husband,167,1449,HUSBAND
+202,wife,167,4482,WIFE
+203,widow,167,4480,WIDOW
+204,brother (elder of father),168,,
+205,brother (elder of mother),168,,
+206,sister (elder of father),168,,
+207,sister (elder of mother),168,,
+208,brother (younger of father),168,,
+209,brother (younger of mother),168,,
+210,sister (younger of father),168,,
+211,sister (younger of mother),168,,
+212,friend,168,1157,FRIEND
+213,name,168,,
+214,village,168,4389,VILLAGE
+215,road/path,168,,
+216,boat,169,,
+217,house,169,1431,HOUSE
+218,door,169,826,DOOR
+219,roof,169,2424,ROOF
+220,area under house,169,,
+221,wall of house,169,,
+222,sleeping area,169,,
+223,mat,169,1781,MAT
+224,pillow,169,2198,PILLOW
+225,blanket,169,305,BLANKET
+226,clothing,169,,
+227,to weave (cloth),169,,
+228,to dye (cloth),169,,
+229,sarong (male),169,,
+230,sarong (female),169,,
+231,trousers,169,,
+232,to sew,169,3973,TO SEW
+233,needle,170,1966,NEEDLE
+234,comb,170,602,COMB
+235,ring,170,,
+236,pot (cooking),170,,
+237,mortar (for peppers),170,,
+238,pestle (for peppers),170,,
+239,spoon,170,2782,SPOON
+240,plate,170,2112,PALATE
+241,firewood,170,1071,FIREWOOD
+242,fire,170,1063,FIRE
+243,to burn something,170,,
+244,to extinguish (fire),170,,
+245,ashes,170,126,ASHES
+246,smoke,170,2695,SMOKE
+247,drum (musical instrument),170,,
+248,gong,171,,
+249,bow,171,,
+250,crossbow,171,,
+251,arrow,171,119,ARROW
+252,spear,171,2756,SPEAR
+253,knife/blade,171,,
+254,to hear,171,3596,TO HEAR
+255,to listen,171,3692,TO LISTEN
+256,to be smelly,171,,
+257,to smell (sniff),171,,
+258,to see,171,3960,TO SEEM
+259,to look at,171,,
+260,to weep,171,4098,TO SWEEP
+261,to eat,171,3407,TO EAT
+262,to swallow,171,4092,TO SWALLOW
+263,to be hungry,171,,
+264,to be full (after eating),172,,
+265,to be thirsty,172,,
+266,to drink,172,3395,TO DRINK
+267,to be drunk (alcohol),172,,
+268,to vomit,172,4184,TO VOMIT
+269,to spit,172,4034,TO SPIT
+270,to cough,172,3305,TO COUGH
+271,to sneeze,172,,
+272,to yawn,172,4226,TO YAWN
+273,to breathe,172,,
+274,to blow (on the fire),172,,
+275,to whistle,172,4214,TO WHISTLE
+276,to suck (milk),172,,
+277,to lick,172,3685,TO LICK
+278,to smile,172,4016,TO SMILE
+279,to laugh,173,3670,TO LAUGH
+280,to speak,173,4031,TO SPEAK
+281,to tell about,173,,
+282,to shout,173,3988,TO SHOUT
+283,to lie/fib,173,,
+284,to sing,173,3995,TO SING
+285,to think,173,4131,TO THINK
+286,to know,173,3664,TO KNOW
+287,to forget,173,3491,TO FORGET
+288,to choose,173,3265,TO CHOOSE
+289,to love,173,,
+290,to hate,173,,
+291,to be ashamed,173,3095,TO BE ASHAMED
+292,to wait,173,4185,TO WAIT
+293,to count,173,,
+294,to be afraid,173,3091,TO BE AFRAID
+295,to be angry,173,,
+296,to sleep,174,,
+297,to snore,174,4021,TO SNORE
+298,to dream,174,,
+299,to get up (from bed),174,,
+300,to be hurt (after hitting finger with hammer),174,,
+301,medicine,174,,
+302,to be itchy,174,,
+303,to scratch oneself,174,,
+304,to shiver,174,,
+305,to die,174,3355,TO DIE
+306,ghost,174,,
+307,to sit (remain),174,,
+308,to stand (remain),174,,
+309,to kneel,175,,
+310,to walk,175,,
+311,to crawl on belly (like a snake),175,,
+312,to go,175,,
+313,to come,175,3277,TO COME
+314,to return,175,,
+315,to run,175,3939,TO RUN
+316,to ascend,175,,
+317,to descend,175,,
+318,to enter (house),175,,
+319,to go out/exit (house),175,,
+320,to push,175,3861,TO PUSH
+321,to pull,175,,
+322,to kick,175,3656,TO KICK
+323,to throw,175,4134,TO THROW
+324,to fall (from a height),176,,
+325,to swim,176,4100,TO SWIM
+326,to float,176,3475,TO FLOAT
+327,to submerge something,176,,
+328,to flow (river),176,,
+329,to give,176,3530,TO GIVE
+330,to tie (something),176,,
+331,to wipe,176,4216,TO WIPE
+332,to rub/scrub,176,,
+333,to wash (hands),176,,
+334,to wash (clothes),176,4194,TO WASH (CLOTHES)
+335,to bathe,176,,
+336,to hit/beat (with force),176,,
+337,to split,176,4034,TO SPIT
+338,to slice/saw,176,,
+339,to cut (hair),177,,
+340,to stab,177,,
+341,to plant,177,,
+342,to dig (with a tool),177,,
+343,to bury (a corpse),177,,
+344,to work,177,,
+345,to play,177,3801,TO PAY
+346,to dance,177,3327,TO DANCE
+347,to shoot (gun),177,,
+348,to hunt,177,3614,TO HUNT
+349,to kill,177,3658,TO KILL
+350,to fight (hand-to- hand),177,,
+351,to buy,177,3228,TO BUY
+352,to sell,177,3962,TO SELL
+353,to exchange,177,,
+354,to pay,178,3801,TO PAY
+355,to steal,178,4058,TO STEAL
+356,to hide oneself,178,,
+357,one (person),178,,
+358,two (persons),178,,
+359,three (persons),178,,
+360,four (persons),178,,
+361,five (persons),178,,
+362,six (persons),178,,
+363,seven (persons),178,,
+364,eight (persons),178,,
+365,nine (persons),178,,
+366,ten (persons),178,,
+367,twenty (persons),178,,
+368,hundred (persons),178,,
+369,thousand (persons),178,,
+370,to be many (people),179,,
+371,all,179,,
+372,some (people),179,,
+373,to be few (people),179,,
+374,half (quantity),179,,
+375,to be big,179,,
+376,to be small,179,,
+377,to be long,179,,
+378,to be short (length),179,,
+379,to be tall,179,,
+380,to be short (height),179,,
+381,to be thick (thing),179,,
+382,to be thin (thing),179,,
+383,to be fat (person),179,,
+384,to be skinny (person),179,,
+385,to be wide/broad,180,,
+386,to be narrow,180,,
+387,to be deep,180,,
+388,to be shallow,180,,
+389,to be round,180,,
+390,to be full (container),180,,
+391,right side,180,2413,RIGHT SIDE
+392,left side,180,,
+393,to be straight (road),180,,
+394,to be far (village many miles away),180,,
+395,to be near (village very near),180,,
+396,this,180,,
+397,that,180,,
+398,black,181,293,BLACK
+399,white,181,4471,WHITE
+400,red,181,2375,RED
+401,green,181,1271,GREEN
+402,yellow,181,4544,YELLOW
+403,to be dirty (clothes),181,,
+404,to be new (things),181,,
+405,to be old (things),181,,
+406,to be dark (outside),181,,
+407,to shine (flashlight),181,,
+408,to be the same,181,,
+409,to be sweet,181,,
+410,to be sour,181,,
+411,to be bitter,181,,
+412,to be spicy,181,,
+413,to be rotten,182,,
+414,to be swollen,182,,
+415,to be dry (rice),182,,
+416,to be wet (with water),182,,
+417,to be sharp,182,,
+418,to be blunt,182,,
+419,to be heavy,182,,
+420,to be light,182,,
+421,to be hard (rock),182,,
+422,to be soft (cotton),182,,
+423,to be smooth (road),182,,
+424,to be rough (road),182,,
+425,to be fast,182,,
+426,to be slow,182,,
+427,to be strong,182,,
+428,to be weak,183,,
+429,to be tired,183,3146,TO BE TIED
+430,"to be ill, sick",183,,
+431,to be blind,183,,
+432,to be deaf,183,,
+433,bald,183,187,BALD
+434,to be good,183,,
+435,to be bad,183,,
+436,to be correct,183,,
+437,to be wrong,183,,
+438,when (past),183,,
+439,when (future),183,,
+440,where,183,,
+441,who,183,,
+442,what,183,,
+443,how many (persons),183,,
+444,I (1s),184,,
+445,you (2s),184,,
+446,he/she (3s),184,,
+447,we (1p),184,,
+448,you (2p),184,,
+449,they (3p),184,,
+450,to take,184,4106,TO TAKE
+451,to put/place,184,,
+452,to be lost or disappear,184,,
+453,to bend,184,3176,TO BEND
+454,to lift,184,,
+455,to do/make (something),184,,
+456,don’t do it,184,,
+457,to be difficult,184,,
+458,to be easy,185,,
+459,to be loose,185,,
+460,to be tight,185,,
+461,"to set free, let go (animal)",185,,
+462,to squeeze,185,4044,TO SQUEEZE
+463,body,185,323,BODY
+464,eyelash,185,980,EYELASH
+465,lip,185,1682,LIP
+466,molar tooth,185,1870,MOLAR (TOOTH)
+467,jaw,185,1549,JAW
+468,throat,185,3024,THROAT
+469,"voice box, larynx, Adam’s apple",185,,
+470,chest,185,,
+471,breast,185,364,BREAST
+472,waist,185,4414,WAIST
+473,umbilical cord,186,,
+474,womb,186,4519,WOMB
+475,buttock,186,420,BUTTOCK
+476,wrist,186,4535,WRIST
+477,fist,186,1081,FIST
+478,thumb,186,3026,THUMB
+479,knuckle (B-joint),186,,
+480,hip,186,,
+481,ankle,186,88,ANKLE
+482,sole (of foot),186,,
+483,toe,186,,
+484,bone marrow,186,329,BONE MARROW
+485,skeleton,186,2661,SKELETON
+486,skull,186,2668,SKULL
+487,breastbone,186,,
+488,"spine, backbone",186,,
+489,kidney,186,1581,KIDNEY
+490,lung,187,1730,LUNG
+491,bladder,187,,
+492,muscle,187,1925,MUSCLE
+493,tendon,187,2985,TENDON
+494,vein,187,,
+495,breath,187,,
+496,phlegm,187,,
+497,"nasal mucus, snot",187,,
+498,earwax,187,,
+499,tears (n),187,,
+500,"bile, gall",187,272,"BILE, GALL"
+501,blink,187,,
+502,wink (eye),187,,
+503,blow nose,187,,
+504,pant,187,,
+505,belch,187,,
+506,hiccough (n),188,,
+507,groan (with pain),188,,
+508,grunt (from effort),188,,
+509,"perspire, sweat (v)",188,,
+510,bleed,188,,
+511,(be) dizzy,188,,
+512,faint,188,,
+513,wake up (intr),188,,
+514,notice (v),188,,
+515,feel (passive),188,,
+516,taste,188,,
+517,chew,188,,
+518,choke,188,,
+519,lie down,188,,
+520,turn round (intr),188,,
+521,step (v),188,,
+522,stumble,189,,
+523,limp,189,,
+524,run,189,,
+525,jump (v),189,,
+526,stamp (with foot),189,,
+527,trample,189,,
+528,wave (hand as a greeting) (v),189,,
+529,"indicate, point (as with the finger)",189,,
+530,clap (hands),189,,
+531,slap (v),189,,
+532,straddle,189,,
+533,lean against (intr),189,,
+534,bow (as in greeting),189,,
+535,(be) seated,189,,
+536,squat,190,,
+537,(be) sleepy,190,,
+538,rest,190,,
+539,"(be) awake, alert",190,,
+540,wrinkle (on skin),190,,
+541,pimple,190,2201,PIMPLE
+542,hump (back of animal),190,,
+543,barren woman,190,,
+544,blind person,190,311,BLOND PERSON
+545,deaf (mute) person,190,,
+546,cripple (n),190,,
+547,dwarf,190,865,DWARF
+548,senile person,190,,
+549,mad person,190,179,BAD PERSON
+550,"(be) healthy, (be) well",190,,
+551,"(be) sick, (be) ill",191,,
+552,hurt oneself,191,,
+553,"heal (tr), cure (v)",191,,
+554,"get well, recover",191,,
+555,revive,191,,
+556,abscess,191,13,ABSCESS
+557,swelling,191,,
+558,tumour,191,,
+559,bruise (n),191,,
+560,burn (n),191,,
+561,goiter,191,,
+562,"wound, sore",191,,
+563,scar,191,2521,SCAR
+564,intestinal worm,191,1534,INTESTINAL WORM
+565,"illness, disease",191,,
+566,elephantiasis,192,,
+567,ringworm,192,,
+568,leprosy,192,1655,LEPROSY
+569,malaria (fever),192,,
+570,fever (not malaria),192,,
+571,"stomachache, upset stomach",192,,
+572,headache,192,,
+573,diarrhea,192,,
+574,scabies (the itch),192,,
+575,life,192,1665,LIFE
+576,(be) alive,192,,
+577,menstrual period,192,,
+578,(be) pregnant,192,,
+579,miscarriage,192,,
+580,"labour (n), birth pains",192,,
+581,"bear (child), give birth",193,,
+582,(be) born,193,,
+583,(be) young,193,,
+584,grow up,193,,
+585,death,193,758,DEATH
+586,(be) dead,193,,
+587,believe,193,,
+588,hope (v),193,,
+589,knowledge,193,1597,KNOWLEDGE
+590,wisdom,193,,
+591,(be) wise,193,,
+592,(be) intelligent,193,,
+593,(be) stupid,193,,
+594,(be) confused,193,,
+595,learn,193,,
+596,teach,194,,
+597,show,194,,
+598,remember,194,,
+599,"(be) happy, (be) joyful",194,,
+600,rejoice,194,,
+601,(be) sad,194,,
+602,sorrow (n),194,,
+603,shame (n),194,,
+604,pity (n),194,,
+605,fear (n),194,,
+606,frighten,194,,
+607,"startle, surprise",194,,
+608,(be) proud,194,,
+609,respect (v),194,,
+610,honour (v),194,,
+611,"despise, disdain",195,,
+612,disgusting,195,804,DISGUSTING
+613,"want, desire (v)",195,,
+614,decide,195,,
+615,hesitate,195,,
+616,abstain,195,,
+617,"allow, permit",195,,
+618,forbid,195,,
+619,prevent,195,,
+620,plan (n),195,,
+621,try,195,,
+622,succeed,195,,
+623,fail,195,,
+624,pretend,195,,
+625,(be) kind,195,,
+626,(be) generous,195,,
+627,(be) selfish,196,,
+628,(be) honest,196,,
+629,(be) corrupt,196,,
+630,(be) wicked,196,,
+631,(be) fierce,196,,
+632,(be) jealous,196,,
+633,(be) shy,196,,
+634,"(be) courageous, (be) brave",196,,
+635,coward,196,685,COWARD
+636,(be) curious,196,,
+637,"(be) eager, (be) zealous",196,,
+638,(be) lazy,196,,
+639,(be) patient,196,,
+640,(be) impatient,196,,
+641,"(be) restless, (be) unsettled",197,,
+642,(be) stubborn,197,,
+643,reputation,197,2389,REPUTATION
+644,"hardship, distress",197,,
+645,suffer,197,,
+646,obstruct,197,,
+647,"stumbling block, obstruction",197,,
+648,danger,197,740,DANGER
+649,"problem, trouble",197,,
+650,self,197,2551,SELF
+651,white man,197,,
+652,fetus,197,1043,FETUS
+653,baby,197,166,BABY
+654,twin,197,4309,TWIN
+655,boy,198,349,BOY
+656,girl,198,1212,GIRL
+657,adult,198,,
+658,young man,198,,
+659,young woman,198,,
+660,virgin,198,4397,VIRGIN
+661,divorced man,198,,
+662,divorced woman,198,,
+663,old person,198,,
+664,relative (by blood),198,,
+665,ancestor,198,76,ANCESTOR
+666,grandparent,198,1254,GRANDPARENT
+667,father’s younger brother (uncle),198,,
+668,father’s older brother (uncle,198,,
+669,mother’s younger brother (uncle),198,,
+670,mother’s older brother (uncle),199,,
+671,mother’s younger sister (aunt),199,,
+672,mother’s older sister (aunt),199,,
+673,father’s younger sister (aunt),199,,
+674,father’s older sister (aunt),199,,
+675,cousin,199,,
+676,firstborn,199,1076,FIRSTBORN
+677,descendant,199,777,DESCENDANT
+678,son,199,2728,SON
+679,daughter,199,747,DAUGHTER
+680,grandchild,199,1250,GRANDCHILD
+681,nephew,199,1970,NEPHEW
+682,niece,199,1987,NIECE
+683,"in-law, relative by marriage",199,,
+684,father-in-law,200,1021,FATHER-IN-LAW
+685,mother-in-law,200,1901,MOTHER-IN-LAW
+686,brother-in-law,200,384,BROTHER-IN-LAW
+687,sister-in-law,200,2658,SISTER-IN-LAW
+688,daughter-in-law,200,749,DAUGHTER-IN-LAW
+689,widower,200,,
+690,orphan,200,2081,ORPHAN
+691,fiancé (betrothed boyfriend),200,,
+692,fiancée (betrothed girlfriend),200,,
+693,boyfriend,200,,
+694,girlfriend,200,,
+695,"tribe, ethnic group",200,,
+696,clan,200,,
+697,family,200,1002,FAMILY
+698,neighbour,201,1968,NEIGHBOUR
+699,acquaintance,201,,
+700,host,201,1426,HOST
+701,"guest, visitor",201,,
+702,stranger (unknown person),201,,
+703,enemy,201,922,ENEMY
+704,traitor,201,4264,TRAITOR
+705,thief,201,3007,THIEF
+706,guide (n),201,,
+707,messenger,201,1820,MESSENGER
+708,crowd,201,,
+709,"chief, headman",201,,
+710,elder,201,901,ELDER
+711,master,201,,
+712,slave,201,2676,SLAVE
+713,farmer,202,1012,FARMER
+714,fisherman,202,1079,FISHERMAN
+715,hunter,202,1448,HUNTER
+716,blacksmith,202,300,BLACKSMITH
+717,potter,202,,
+718,weaver,202,,
+719,butcher(n),202,,
+720,carpenter,202,,
+721,trader,202,4260,TRADER
+722,seller,202,,
+723,teacher,202,2976,TEACHER
+724,sonk,202,,
+725,nun,202,2020,NUN
+726,novice,202,2014,NOVICE
+727,(domestic) servant,202,,
+728,beggar,202,,
+729,soldier,203,2718,SOLDIER
+730,prostitute,203,,
+731,"midwife, sage",203,,
+732,"medicine man, traditional healer",203,,
+733,fetish priest,203,,
+734,sorcerer (male),203,,
+735,witch (female),203,,
+736,fortune teller,203,,
+737,"meet, encounter",203,,
+738,accompany,203,,
+739,(be) together,203,,
+740,"assemble, meet together",203,,
+741,invite,203,,
+742,(be) alone,203,,
+743,abandon,203,,
+744,"flee, run away from",204,,
+745,drive away,204,,
+746,avoid,204,,
+747,imitate,204,,
+748,admire,204,,
+749,language,204,1612,LANGUAGE
+750,word,204,4529,WORD
+751,meaning (n),204,,
+752,say,204,,
+753,scold,204,,
+754,voice,204,4402,VOICE
+755,whisper (v),204,,
+756,mumble,204,,
+757,stutter,204,,
+758,(be) eloquent,204,,
+759,(be) silent,205,,
+760,write (v),205,,
+761,greet (v.),205,,
+762,call (someone),205,,
+763,"say goodbye, take leave of",205,,
+764,announce,205,,
+765,announcement,205,,
+766,news,205,1982,NEWS
+767,explain,205,,
+768,advise,205,,
+769,gossip (v),205,,
+770,"ask, request",205,,
+771,thank,205,,
+772,promise (n),205,2296,PROMISE (N.)
+773,oath,205,2030,OATH
+774,swear,206,,
+775,insult (v),206,,
+776,insult (n),206,,
+777,slander (v),206,,
+778,threaten,206,,
+779,argue,206,,
+780,argument,206,,
+781,"grumble, complain",206,,
+782,contradict,206,,
+783,accuse,206,,
+784,deny,206,,
+785,admit (to a wrong),206,,
+786,agree,206,,
+787,agreement,206,,
+788,persuade,206,,
+789,praise (n),207,,
+790,"bless, praise (someone)",207,,
+791,congratulate,207,,
+792,"boast, brag",207,,
+793,story (tale),207,,
+794,proverb,207,2310,PROVERB
+795,"speech,discourse",207,,
+796,account (report),207,,
+797,"embrace, hug (v)",207,,
+798,caress (v),207,,
+799,kiss (v),207,,
+800,"nurse, suckle (baby)",207,,
+801,tickle (v),207,,
+802,spank (child),207,,
+803,whip (n),207,,
+804,help,208,,
+805,protect,208,,
+806,look after,208,,
+807,bring up (a child),208,,
+808,"rule over, dominate",208,,
+809,order (someone to do something),208,,
+810,command (n),208,,
+811,"duty, obligation",208,,
+812,send (someone to do something),208,,
+813,serve,208,,
+814,"lead, guide (v)",208,,
+815,follow,208,,
+816,obey,208,,
+817,please,209,,
+818,annoy,209,,
+819,deceive,209,,
+820,quarrel,209,2324,QUARREL
+821,take revenge,209,,
+822,"resolve, settle (dispute)",209,,
+823,"intercede, mediate",209,,
+824,compromise,209,,
+825,"appease, pacify",209,,
+826,judge (v),209,,
+827,law,209,,
+828,"(be) fair, just",209,,
+829,(be) guilty,209,,
+830,(be) innocent,209,,
+831,punish,210,,
+832,to fine,210,,
+833,"penalty, punishment",210,,
+834,dwell,210,,
+835,"inhabitant, resident",210,,
+836,country dweller,210,,
+837,move away,210,,
+838,"country, ethnic area",210,,
+839,frontier (of ethnic area),210,,
+840,"town, city",210,,
+841,market (n),210,,
+842,wear clothes,210,,
+843,dress (v),210,,
+844,undress,210,,
+845,hat,211,,
+846,loincloth,211,,
+847,baby sling,211,,
+848,"shoe, sandal",211,,
+849,bead,211,218,BEAD
+850,"string, thread (beads) (v)",211,,
+851,bracelet,211,350,BRACELET
+852,necklace,211,,
+853,"ankle ring, bangle",211,,
+854,earring,211,879,EARRING
+855,pierce (ears),211,,
+856,"plait, braid (hair)",211,,
+857,tattoo(s),211,,
+858,"cane, walking stick",211,,
+859,"apply (ointment), besmear",211,,
+860,razor,212,,
+861,"tooth stick, toothbrush",212,,
+862,food,212,1112,FOOD
+863,oil,212,,
+864,"soup, broth",212,,
+865,flour,212,,
+866,breakfast,212,362,BREAKFAST
+867,lunch,212,,
+868,evening meal,212,,
+869,feast,212,1025,FEAST
+870,leftovers,212,,
+871,spoil (food) (intr),212,,
+872,rice wine,212,,
+873,prepare (food to cook),212,,
+874,cut (tr),212,,
+875,cut open (fruit),213,,
+876,slice,213,,
+877,peel (v),213,,
+878,mix (v),213,,
+879,stir,213,,
+880,strain (food) (v),213,,
+881,pluck (feathers),213,,
+882,roast,213,,
+883,fry,213,,
+884,bake (in ashes),213,,
+885,(be) smoked,213,,
+886,ferment (alcohol) (v),213,,
+887,cooking pot (earthenware),213,,
+888,pot (for water),213,,
+889,ladle,213,1600,LADLE
+890,cooking stone,214,,
+891,bowl,214,,
+892,cup,214,721,CUP
+893,chopsticks,214,,
+894,bag,214,,
+895,box,214,,
+896,basket,214,208,BASKET
+897,"bucket, pail",214,,
+898,bottle,214,336,BOTTLE
+899,"stopper, plug",214,2850,"STOPPER, PLUG"
+900,handle,214,,
+901,pour,214,,
+902,spill (liquid) (tr),214,,
+903,take out (from container),214,,
+904,fill,214,,
+905,(be) empty,214,,
+906,(be) open [blossom],215,,
+907,open (tr),215,,
+908,"close, shut (tr)",215,,
+909,stop up (v),215,,
+910,cover (v),215,,
+911,uncover,215,,
+912,store (up),215,,
+913,bundle (n),215,,
+914,heap (n),215,,
+915,heap up (v),215,,
+916,wrap up (v),215,,
+917,unwrap (v),215,,
+918,pack (v),215,,
+919,strap (n),215,,
+920,rope,215,,
+921,knot (n),215,,
+922,"fasten, bind (load)",216,,
+923,untie,216,,
+924,tighten (tr),216,,
+925,(be) tight,216,,
+926,loosen,216,,
+927,hut (in the field),216,,
+928,window,216,4498,WINDOW
+929,"beam, rafter",216,,
+930,floor,216,,
+931,room,216,2427,ROOM
+932,bedroom,216,,
+933,kitchen,216,,
+934,sitting room,216,,
+936,fence (n),216,,
+937,fence in (v),216,,
+938,granary (to store rice),217,,
+939,well (n),217,,
+940,bathing place,217,,
+941,"latrine, toilet",217,,
+942,garbage dump,217,,
+943,garden,217,1192,GARDEN
+944,shelter (n),217,,
+945,build,217,,
+946,thatch (n),217,,
+947,plaster (n),217,,
+948,paint (n),217,,
+949,ladder,217,,
+950,chair,217,,
+951,table,217,2804,STABLE
+952,lamp,217,,
+953,fan (n),218,,
+954,bell,218,251,BELL
+955,ring (bell) (v),218,,
+956,"act, do",218,,
+957,work (n),218,4530,WORK (N.)
+958,"mend, repair",218,,
+959,forge (n),218,,
+960,hammer,218,1300,HAMMER
+961,anvil,218,,
+962,bellows,218,254,BELLOWS
+963,"lump (clay, mud)",218,,
+964,mould (pottery),218,,
+965,potter’s kiln,218,,
+966,wood,218,,
+967,cut down (tree),218,,
+968,log,218,1701,LOG
+969,hollow out (log),218,,
+970,axe,219,156,AXE
+971,saw (n),219,,
+972,plank (n),219,,
+973,knot (in wood),219,,
+974,"splinter, sliver (n)",219,,
+975,chisel (n),219,,
+976,nail (n),219,,
+977,thread (n),219,,
+978,hem (n),219,,
+979,pocket,219,2239,POCKET
+980,(be) torn,219,,
+981,cloth,219,,
+982,rag,219,,
+983,broom,219,379,BROOM
+984,sweep,219,,
+985,polish,219,,
+986,draw water,220,,
+987,fetch (firewood),220,,
+988,rubbish,220,,
+989,"cultivate, farm (v)",220,,
+990,fertile soil,220,1040,FERTILE (SOIL)
+991,(be) barren (of land),220,,
+992,clear (land for planting),220,,
+993,weed (v),220,,
+994,hoe (v),220,,
+995,hoe (n),220,,
+996,sickle,220,2635,SICKLE
+997,"machete, cutlass",220,,
+998,harvest season,220,,
+999,harvest (rice) (v),220,,
+1000,"pick, pluck (fruit)",220,,
+1001,"harvest, collect (honey from hive)",221,,
+1002,threshing-floor,221,3022,THRESHING FLOOR
+1003,"thresh, beat (grain)",221,,
+1004,winnow (v),221,,
+1005,husk (corn) (v),221,,
+1006,"domesticate, tame",221,,
+1007,"herd (cattle, sheep) (n)",221,,
+1008,"herd, tend (cattle, sheep) (v)",221,,
+1009,cattle pen,221,,
+1010,"tether (sheep, goats) (v)",221,,
+1011,feed (animals),221,,
+1012,castrate,221,,
+1013,stalk (v),221,,
+1014,chase (v),222,,
+1015,footprint (human),222,,
+1016,poison (on arrow),222,,
+1017,head of arrow,222,,
+1018,quiver (n),222,,
+1019,birdlime (adhesive to catch birds),222,,
+1020,trap (n),222,,
+1021,set (trap),222,,
+1022,trap (animal) (v),222,,
+1023,evade,222,,
+1024,escape,222,,
+1025,wound (animal),222,,
+1026,skin (animal) (v),222,,
+1027,fish (v),222,,
+1028,fish dam,222,,
+1029,fishing net,222,,
+1030,fishing line,223,,
+1031,fishhook,223,,
+1032,bait,223,,
+1033,"have, possess",223,,
+1034,need (v),223,,
+1035,"get, obtain",223,,
+1036,belongings,223,,
+1037,owner,223,2093,OWNER
+1038,rich man,223,,
+1039,poor man,223,,
+1040,(be) rich,223,,
+1041,to be poor,223,,
+1042,money,223,1737,MONEY
+1043,(be) scarce,223,,
+1044,(be) expensive,223,,
+1045,(be) inexpensive,223,,
+1046,price,224,2281,PRICE
+1047,"haggle, negotiate a price",224,,
+1048,salary,224,2493,SALARY
+1049,gift,224,,
+1050,hire (v),224,,
+1051,beg (for money),224,,
+1052,borrow,224,,
+1053,lend,224,,
+1054,debt,224,759,DEBT
+1055,offer (v),224,,
+1056,"accept, receive",224,,
+1057,refuse,224,,
+1058,tax (n),224,,
+1059,tribute,224,,
+1060,inheritance,224,1509,INHERITANCE
+1061,inherit,224,,
+1062,"journey, trip (n)",225,,
+1063,bicycle,225,,
+1064,"travel, go on a trip (v)",225,,
+1065,traveler,225,,
+1066,driver,225,2415,RIVER
+1067,passenger,225,,
+1068,wander,225,,
+1069,(be) lost,225,,
+1070,fork (in path),225,,
+1071,"crossroads, intersection",225,,
+1072,cross (river),225,,
+1073,paddle (n),225,,
+1074,paddle (v),225,,
+1075,"bale out (canoe, boat)",225,,
+1076,capsize,226,,
+1077,bring,226,333,BORING
+1078,send (something to someone),226,,
+1079,carry (in arms),226,,
+1080,carry (child) on back,226,,
+1081,carry on head,226,,
+1082,"load, burden (n)",226,,
+1083,load (v),226,,
+1084,unload,226,,
+1085,war,226,4417,WAR
+1086,peace,226,2145,PEACE
+1087,army,226,116,ARMY
+1088,spy (n),226,,
+1089,"spy (v), spy on",226,,
+1090,sword,227,2934,SWORD
+1091,gun,227,,
+1092,shield (n),227,,
+1093,"conquer, defeat",227,,
+1094,(be) defeated,227,,
+1095,"prisoner, captive",227,,
+1096,plunder (a town),227,,
+1098,music,227,1928,MUSIC
+1099,song,227,2730,SONG
+1100,hum (v),227,,
+1101,dance (n),227,737,DANCE (N.)
+1102,big (gest) drum,227,,
+1103,flute,227,1103,FLUTE
+1105,horn (musical instrument),227,,
+1106,play instrument,228,,
+1107,blow (horn),228,,
+1108,draw (picture),228,,
+1109,decorate,228,,
+1110,carve,228,,
+1111,toys,228,,
+1112,tobacco pipe,228,4230,TOBACCO PIPE
+1113,tobacco,228,4229,TOBACCO
+1114,"awe, reverence (for God)",228,,
+1115,God (supreme being),228,,
+1116,"demon, evil spirit",228,,
+1117,ghost (visible apparition),228,,
+1118,"soul, spirit (of living person)",228,,
+1119,spirit (of dead person) (invisible),228,,
+1120,pray,229,,
+1121,blessing,229,,
+1122,"divine, prophesy (v)",229,,
+1123,prophecy (n),229,,
+1124,vision (supernatural),229,,
+1125,omen,229,2056,OMEN
+1126,witchcraft,229,,
+1127,"bewitch, cast spell",229,,
+1128,curse (v),229,,
+1129,curse (n),229,,
+1130,poison (a person) (v),229,,
+1131,"amulet, charm, fetish",229,,
+1132,protect by charm,229,,
+1133,mask (n),230,,
+1134,(be) taboo,230,,
+1135,exorcise,230,,
+1136,sacrifice,230,2475,SACRIFICE
+1137,"tradition, custom",230,,
+1138,feast (n),230,,
+1139,naming ceremony (baby),230,,
+1140,marry,230,,
+1141,"(be) engaged, (be) betrothed",230,,
+1142,brideprice (for bride’s family),230,,
+1143,wedding (ceremony),230,,
+1144,bride,230,370,BRIDE
+1145,groom,231,,
+1146,adultery,231,,
+1147,divorce (v),231,,
+1148,funeral (at occasion of death),231,,
+1149,mourning,231,1890,MORNING
+1150,"condole, comfort (v)",231,,
+1151,corpse,231,665,CORPSE
+1152,grave,231,1263,GRAVE
+1153,cemetery,231,490,CEMETERY
+1154,bull (male cow),231,,
+1155,cow (female),231,,
+1156,heifer (young cow not had a calf),231,,
+1157,steer (castrated male cow),231,,
+1158,calf,231,,
+1159,herd(of cattle) [group of cattle],232,,
+1160,goat,232,1229,GOAT
+1161,"he-goat, billy",232,,
+1162,"she-goat, nanny goat",232,,
+1163,kid (child goat),232,,
+1164,sheep,232,2592,SHEEP
+1165,ram,232,2356,RAM
+1166,ewe,232,,
+1167,lamb,232,1606,LAMB
+1168,"flock (of sheep, goats)",232,,
+1169,rooster (cock),232,,
+1170,hen,232,1362,HEN
+1171,chick,232,,
+1172,turkey,232,4303,TURKEY
+1173,guinea fowl,232,1285,GUINEA FOWL
+1174,horse,233,1416,HORSE
+1175,stallion (male horse),233,,
+1176,mare (female horse),233,,
+1177,colt,233,,
+1178,boar (male pig),233,,
+1179,sow (female pig),233,,
+1180,piglet,233,2193,PIGLET
+1181,puppy,233,,
+1182,kitten,233,,
+1183,hippopotamus,233,1385,HIPPOPOTAMUS
+1185,warthog,233,,
+1186,jackal,233,1543,JACKAL
+1187,shrew,233,,
+1188,mole,233,,
+1189,mongoose,234,,
+1190,squirrel,234,,
+1191,bat,234,212,BAT
+1192,wild cat,234,,
+1193,leopard,234,,
+1194,lion,234,,
+1195,hoof,234,1405,HOOF
+1196,mane (of horse),234,,
+1197,elephantʼs trunk,234,,
+1198,"den, lair, hole",234,,
+1199,"to bare, show (teeth)",234,,
+1200,to growl,234,3566,TO GROWL
+1201,"to ruminate, chew cud",234,,
+1202,to crow,234,,
+1203,dove,234,,
+1204,parrot,235,,
+1205,heron,235,1373,HERON
+1206,kingfisher,235,,
+1207,hornbill,235,,
+1208,stork (marabou),235,,
+1209,owl,235,2091,OWL
+1210,hawk,235,,
+1211,eagle,235,872,EAGLE
+1213,"beak, bill",235,,
+1214,comb (of rooster),235,,
+1215,crop (of bird),235,,
+1216,gizzard,235,,
+1217,claw,235,557,CLAW
+1218,eggshell,235,,
+1219,yolk (of egg),235,,
+1220,flock (of birds),236,,
+1221,dive,236,,
+1222,soar,236,,
+1223,"land (v), alight",236,,
+1224,perch,236,,
+1225,flap the wings,236,,
+1226,cackle (as of chicken),236,,
+1227,crow (as a rooster) (v),236,,
+1228,peck (tr),236,,
+1229,lay (eggs),236,,
+1230,"incubate, set (on eggs)",236,,
+1231,hatch,236,,
+1232,catfish,236,,
+1233,mudfish (lives in the mud during dry season),236,,
+1234,eel,237,,
+1235,fish bone,237,1078,FISHBONE
+1236,fish-scale,237,,
+1237,gill,237,,
+1238,fin,237,1058,FIN
+1239,crab,237,687,CRAB
+1240,shrimp,237,,
+1241,clam,237,,
+1242,cobra,237,,
+1243,puff adder,237,,
+1244,python,237,,
+1245,viper,237,,
+1246,chameleon,237,500,CHAMELEON
+1247,gecko,237,,
+1248,monitor lizard,237,1879,MONITOR LIZARD
+1249,toad,237,4228,TOAD
+1250,shell (of turtle),238,,
+1251,slither (snake),238,,
+1252,hiss,238,,
+1253,flea,238,1095,FLEA
+1254,bedbug,238,,
+1255,maggot (in rotten meat),238,,
+1256,ant,238,91,ANT
+1257,"army ant, soldier ant",238,,
+1258,flying ant,238,,
+1259,dung beetle,238,861,DUNG-BEETLE
+1260,grasshopper,238,,
+1261,cricket,238,,
+1262,locust,238,1700,LOCUST
+1263,praying mantis,238,,
+1264,caterpillar,238,472,CATERPILLAR
+1265,centipede,239,,
+1266,millipede,239,,
+1267,dragonfly,239,836,DRAGONFLY
+1268,moth,239,1897,MOTH
+1269,antenna,239,,
+1270,sting (v),239,,
+1271,stinger dard,239,,
+1272,cocoon,239,,
+1273,termite hill,239,,
+1274,beehive,239,241,BEEHIVE
+1275,beeswax,239,,
+1276,honey,239,1396,HONEY
+1277,swarm (n),239,,
+1278,teak tree,239,,
+1279,fig tree,239,,
+1280,tamarind tree,239,,
+1281,oil palm,239,,
+1282,coconut palm,240,,
+1283,bush,240,,
+1284,weeds,240,,
+1285,trunk (of tree),240,4289,TRUNK (OF A TREE)
+1286,sap,240,,
+1287,stump,240,,
+1288,"bulb, tuber",240,,
+1289,"stem, stalk (of corn, millet, etc.)",240,,
+1290,"silk, hair (of corn)",240,,
+1291,blade (of grass),240,,
+1292,bud,240,,
+1293,shoot (new plant),240,,
+1294,vine,240,,
+1295,tendril,240,,
+1296,juice,240,1568,JUICE
+1297,regime/hand (of bananas),240,,
+1298,corn cob,241,,
+1299,"kernel (of corn, maize)",241,,
+1300,skin (of fruit),241,,
+1301,shell (of groundnut),241,,
+1302,corn husk (n),241,,
+1303,chaff,241,496,CHAFF
+1304,lemon,241,1646,LEMON
+1305,orange,241,,
+1306,papaya,241,,
+1307,pineapple,241,2205,PINEAPPLE
+1308,guava,241,1279,GUAVA
+1310,fig,241,1053,FIG
+1311,jackfruit (fruit),241,,
+1312,tomato,242,,
+1313,onion,242,2063,ONION
+1314,okra,242,,
+1315,"cocoyam, taro",242,,
+1316,yam,242,4540,YAM
+1317,sweet potato,242,,
+1318,potato,242,2267,POTATO
+1319,"groundnut, peanut",242,,
+1320,sesame seed,242,,
+1321,coffee,242,591,COFFEE
+1322,tea,242,2975,TEA
+1323,rubber,242,2445,RUBBER
+1324,cotton,242,668,COTTON
+1325,grow (of plants),242,,
+1326,sprout (v),242,,
+1327,(be) unripe,242,,
+1328,"(be) shrivelled, (be) wrinkled (fruit)",242,,
+1329,wither (plant),243,,
+1330,blight (n),243,1668,LIGHT (N.)
+1331,world,243,4531,WORLD
+1332,place,243,2214,PLACE
+1333,desert,243,,
+1334,"ground, land",243,,
+1335,"summit, highest point",243,,
+1336,cliff,243,,
+1337,valley,243,,
+1338,ditch,243,,
+1339,hole,243,,
+1340,crevice,243,,
+1341,gravel,243,1263,GRAVE
+1342,clay,243,559,CLAY
+1343,copper,244,655,COPPER
+1344,rust (n),244,2459,RUST (N.)
+1345,lake,244,1605,LAKE
+1346,marsh,244,,
+1347,spring,244,,
+1348,waterfall,244,,
+1349,"current (river, stream)",244,,
+1350,riverbed (dry),244,,
+1351,river bank,244,,
+1352,bridge,244,372,BRIDGE
+1353,island,244,1539,ISLAND
+1354,beach,244,,
+1355,wave,244,4435,WAVE
+1356,bubble,244,,
+1357,foam,244,1108,FOAM
+1358,slime (organic),244,,
+1359,flame,245,,
+1360,candle,245,447,CANDLE
+1361,spark,245,2749,SPARK
+1362,fireplace,245,1070,FIREPLACE
+1363,charcoal,245,,
+1364,air (breathed),245,,
+1365,full moon,245,,
+1366,new moon,245,,
+1367,eclipse (moon),245,,
+1368,"shooting star, meteor",245,,
+1369,"noise, sound (n)",245,,
+1370,drizzle,245,,
+1371,hail,245,1295,HAIL
+1372,flood (n),245,,
+1373,"drought, famine",245,,
+1374,season,245,,
+1375,rainy season,246,,
+1376,hot weather [hot season],246,,
+1377,cold weather [cold season],246,,
+1378,light,246,,
+1379,sunshine,246,,
+1380,moonlight,246,,
+1381,darkness,246,,
+1382,time,246,3038,TIME
+1383,now,246,2015,NOW
+1384,before,246,245,BEFORE
+1385,after,246,38,AFTER
+1386,early,246,877,EARLY
+1387,late,246,1621,LATE
+1388,once,246,,
+1389,again,246,41,AGAIN
+1390,sometimes,247,,
+1391,often,247,2044,OFTEN
+1392,usually,247,,
+1393,always,247,68,ALWAYS
+1394,never,247,,
+1395,"spend time, pass time",247,,
+1396,month,247,1884,MONTH
+1397,today,247,4231,TODAY
+1398,day before yesterday,247,,
+1399,day after tomorrow,247,3002,THE DAY AFTER TOMORROW
+1400,olden times,247,,
+1401,dawn (before sunrise),247,,
+1402,sunrise,247,,
+1403,afternoon,248,,
+1404,sunset,248,2904,SUNSET
+1405,"dusk, twilight (after sunset)",248,,
+1406,daytime,248,,
+1407,thing,248,3011,THING
+1408,piece,248,2190,PIECE
+1409,top,248,,
+1410,bottom,248,337,BOTTOM
+1411,front (of something),248,,
+1412,back (of something),248,,
+1413,side (of something),248,,
+1414,middle,248,1830,MIDDLE
+1415,edge(n),248,,
+1416,point (n),248,,
+1417,bump (n),249,,
+1418,spot (n),249,,
+1419,move (intr),249,,
+1420,movement,249,,
+1421,go,249,,
+1422,approach (v),249,,
+1423,arrive,249,,
+1424,"remain, stay",249,,
+1425,leave (place),249,,
+1426,"go round, detour",249,,
+1427,"come (or go) out, exit (v)",249,,
+1428,"ascend, go up",249,,
+1429,"descend, go down",249,,
+1430,"swing (v), go back and forth",249,,
+1431,slide,249,,
+1432,roll,250,,
+1433,"spread (disease, fire)",250,,
+1434,burst,250,,
+1435,speed (n),250,,
+1436,"hasten, hurry",250,,
+1437,"snatch, seize",250,,
+1438,catch (object in air),250,,
+1439,pick up,250,,
+1440,hold,250,,
+1441,lower (tr),250,,
+1442,drop (tr),250,,
+1443,"knock down, knock over (an object)",250,,
+1444,turn over (tr),250,,
+1445,drag,251,,
+1446,steer (v),251,,
+1447,"overtake, pass (tr)",251,,
+1448,surround,251,,
+1449,twist,251,,
+1450,fold (v),251,,
+1451,coil (rope) (v),251,,
+1452,hang up,251,,
+1453,spread out (maize) (tr),251,,
+1454,stretch,251,,
+1455,"bump (v), knock against",251,,
+1456,scrape (v),251,,
+1457,scratch (v),251,,
+1458,pierce,251,2190,PIECE
+1459,tear (tr),252,,
+1460,strip off (bark),252,,
+1461,shake (tr),252,,
+1462,crush (tr),252,,
+1463,"create, make",252,,
+1464,"alter, change (tr)",252,,
+1465,break (tr),252,,
+1466,"destroy, spoil",252,,
+1467,"join, put together",252,,
+1468,accumulate,252,,
+1469,gather,252,,
+1470,"divide, separate (tr)",252,,
+1471,scatter (tr),252,,
+1472,"throw away, get rid of",252,,
+1473,"put, place, set",253,,
+1474,leave (something somewhere),253,,
+1475,"keep, save",253,,
+1476,hide (tr),253,,
+1477,lose (tr),253,,
+1478,look for,253,,
+1479,find,253,,
+1480,blow (of wind) (v),253,,
+1481,blow down,253,,
+1482,blow away (intr),253,,
+1483,fan (v),253,,
+1484,drip,253,,
+1485,leak (v),253,,
+1486,sprinkle,253,,
+1487,smear (tr),254,,
+1488,dip,254,,
+1489,soak,254,,
+1490,wring out,254,,
+1491,shine,254,,
+1492,fade,254,,
+1493,light (fire) (v),254,,
+1494,"burn (intr), blaze",254,,
+1495,melt (intr),254,,
+1496,singe,254,,
+1497,begin,254,,
+1498,beginning,254,247,BEGINNING
+1499,"continue, resume",254,,
+1500,end (n),254,,
+1501,"cease, stop",255,,
+1502,"finish, complete (v)",255,,
+1503,(be) high,255,,
+1504,(be) low,255,,
+1505,lengthen,255,,
+1506,shorten,255,,
+1507,widen,255,,
+1508,deepen,255,,
+1509,(be) flat,255,,
+1510,flatten,255,,
+1511,(be) hollow,255,,
+1512,swell (intr),255,,
+1513,straighten,255,,
+1514,(be) crooked,255,,
+1515,weight,255,898,EIGHT
+1516,sharpen (knife),256,,
+1517,"sharpen, bring to point (arrow)",256,,
+1518,make smooth,256,,
+1519,harden,256,,
+1520,soften,256,2044,OFTEN
+1521,(be) slippery,256,,
+1522,(be) sticky,256,,
+1523,colour,256,428,COLOUR
+1524,(be) blue,256,,
+1525,(be) brown,256,,
+1526,(be) dark (colour),256,,
+1527,(be) light (colour),256,,
+1528,taste (n),256,2970,TASTE (N.)
+1529,(be) salty,256,,
+1530,"odour, smell (n)",257,,
+1531,"stink, smell (bad)",257,,
+1532,(be) able (to),257,,
+1533,strength,257,2866,STRENGTH
+1534,"(be) great, (be) powerful",257,,
+1535,"splendour, glory",257,,
+1536,truth,257,4292,TRUTH
+1537,(be) beautiful,257,,
+1538,handsome,257,,
+1539,(be) ugly,257,,
+1540,(be) clean,257,,
+1541,(be) important,257,,
+1542,"(be) amusing, funny",257,,
+1543,eleven (11),258,,
+1544,twelve (12),258,,
+1545,thirteen (13),258,,
+1546,fourteen (14),258,,
+1547,fifteen (15),258,,
+1548,sixteen (16),258,,
+1549,seventeen (17),258,,
+1550,eighteen (18),258,,
+1551,nineteen (19),258,,
+1552,twenty-one (21),258,,
+1553,twenty-two (22),258,,
+1554,twenty-three (23),258,,
+1555,twenty-four (24),258,,
+1556,twenty-five (25),258,,
+1557,twenty-six (26),258,,
+1558,twenty-seven (27),259,,
+1559,twenty-eight (28),259,,
+1560,twenty-nine (29),259,,
+1561,thirty (30),259,,
+1562,forty (40),259,,
+1563,fifty (50),259,,
+1564,sixty (60),259,,
+1565,seventy (70),259,,
+1566,eighty (80),259,,
+1567,ninety (90),259,,
+1568,two hundred (200),259,,
+1569,five hundred (500),259,,
+1570,two thousand (2000),259,,
+1571,(be) first,259,,
+1572,(be) second,259,,
+1573,(be) third,260,,
+1574,(be) last,260,,
+1575,add,260,,
+1576,"subtract, take away",260,,
+1577,increase (intr),260,,
+1578,decrease (intr),260,,
+1579,arrange,260,,
+1580,(be) equal,260,,
+1581,(be) abundant,260,,
+1582,enough,260,925,ENOUGH
+1583,lack (v),260,,
+1584,(be) used up,260,,
+1585,everybody,260,,
+1586,everything,261,,
+1587,somebody,261,,
+1588,something,261,,
+1589,everywhere,261,,
+1590,nobody,261,,
+1591,nothing,261,,
+1592,here,261,1369,HERE
+1593,there,261,3004,THERE
+1594,up,261,,
+1595,down,261,,
+1596,forward (direction),261,,
+1597,backward (direction),261,,
+1598,"over, above",261,,
+1599,"under, below",261,4325,"UNDER, BELOW"
+1600,"in front of, before",262,,
+1601,behind,262,249,BEHIND
+1602,beside,262,,
+1603,inside,262,1518,INSIDE
+1604,outside,262,,
+1605,between,262,,
+1606,towards,262,,
+1607,away from,262,,
+1608,with,262,,
+1609,other (men),262,,
+1610,which (one)?,262,,
+1611,why?,262,,
+1612,how?,262,,
+1613,and,262,,
+1614,if,262,1468,IF
+1615,but,262,,
+1616,so,262,,
+1617,because,263,,
+1618,perhaps,263,,
+1619,"really, truly",263,,
+1620,well (adv),263,,
+1621,poorly,263,,
+1622,only,263,,
+1623,yes,263,4547,YES
+1624,no,263,1994,NO
+1625,nature,263,1956,NATURE
+1626,volcano,263,,
+1627,donate,263,,
+1628,greedy,263,1270,GREEDY
+1629,humble,263,,
+1630,concentrate,263,,
+1631,villager,263,4389,VILLAGE
+1632,head-villager,263,,
+1633,"clear, pure (water)",264,,
+1634,car,264,,
+1635,motor bike,264,,
+1636,bike,264,,
+1637,air plane,264,49,AIRPLANE
+1638,ship,264,,
+1639,valuable,264,,
+1640,cheap,264,509,CHEAP
+1641,sympathy,264,,
+1642,empathy,264,,
+1643,vertical,264,,
+1644,horizontal,264,,
+1645,sugar,264,2892,SUGAR
+1646,holiday,264,1391,HOLIDAY
+1647,to fart,264,,
+1648,crash,264,,
+1649,accident,265,16,ACCIDENT
+1650,pillar,265,2197,PILLAR
