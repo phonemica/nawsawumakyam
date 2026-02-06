@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Nawsawu (2016) Descriptive Phonology of Makyam Naga. Chiang Mai: Payap University
+  > Nawsawu (2016) Descriptive Phonology of Makyam Naga. MA Thesis. Chiang Mai: Payap University
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -16,7 +16,7 @@ This dataset is licensed under a CC-BY-4.0 license
 | Name | GitHub user | Description | Role |
 |--------|--------|--------|--------|
 | Nawsawu | | author | Author |
-| Kellen Parker van Dam | patkaiist | maintainer | Editor |
+| Kellen Parker van Dam | @patkaiist | maintainer | Editor |
 
 ## CLDF Datasets
 
